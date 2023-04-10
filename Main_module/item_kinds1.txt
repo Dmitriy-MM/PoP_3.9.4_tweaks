@@ -484,7 +484,7 @@ itemsfile version 3
  0
 0
 
- itm_baggage_train Baggage_Train Baggage_Train 2  chest_simple 0  flat_baggagetrain 1152921504606846976  34078731 0 0 0 36.000000 1 70 0 0 0 0 0 0 0 250 0 0
+ itm_baggage_train Baggage_Train Baggage_Train 2  chest_simple 0  flat_baggagetrain 1152921504606846976  34078731 0 0 0 36.000000 1 70 0 0 0 0 0 0 0 260 0 0
  0
 0
 
@@ -500,7 +500,7 @@ itemsfile version 3
  0
 0
 
- itm_gold Gold_Bar Gold_Bar 1  gold 0  11 0 5000 0 50.000000 100 0 32 0 0 0 0 0 0 0 0 0
+ itm_gold Gold_Bar Gold_Bar 1  gold 0  65547 0 5000 0 50.000000 10 0 32 0 0 0 0 0 0 0 0 0
  0
 0
 
@@ -512,7 +512,7 @@ itemsfile version 3
  0
 0
 
- itm_loot Various_Loot Various_Loot 2  chest_simple 0  flat_variousloot 1152921504606846976  11 0 5000 0 50.000000 100 0 32 0 0 0 0 0 0 0 0 0
+ itm_loot Various_Loot Various_Loot 2  chest_simple 0  flat_variousloot 1152921504606846976  65547 0 5000 0 50.000000 15 0 32 0 0 0 0 0 0 0 0 0
  0
 0
 
