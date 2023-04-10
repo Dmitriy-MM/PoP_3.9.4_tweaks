@@ -1,0 +1,1381 @@
+menu_start_game_0|Приветствую тебя, искатель приключений, в Prophesy of Pendor! ^ Перед началом игры необходимо создать главного героя или героиню. ^^ Искатель приключений, будь осторожен, выбирая свое прошлое. От этого зависят твои варианты действий и возможности в Пендоре.
+mno_continue|Продолжить...
+mno_go_back|Назад.
+menu_start_phase_2|Вы прибыли в Пендор, страну, вот уже на протяжении более 150 лет страдающую от постоянных войн, раздоров и распрей. Вы поставили перед собой обескураживающую задачу: отвратить влияние зла, воссоединить враждующие части старого Королевства и подарить Пендору второй шанс, как предсказывал безумный странник Мадиган. Эти опасные земли заполнены различными силами, постоянно соперничающими друг с другом за господство. Здесь вы найдете честь и благородство, но также столкнетесь с лживостью и предательством. Вы встретите доблестных рыцарей и беспощадных убийц. Вы оставите прошлое позади, чтобы начать новую жизнь. Пендор - не обычная средневековая страна. Женщины и мужчины имеют равные шансы на успехи и неудачи в Пендоре. Но если вы преуспеете, то создадите другую реальность, новую вероятность в бесконечном множестве измерений. Возможно, именно ваш выбор станет непреложной истиной, а ваши действия спасут всех нас. Погрузившись в воспоминания об удивительных историях, услышанных вами о Пендоре и его королевствах, вы...
+mno_town_1|присоединяетесь к каравану, идущему в город Сарлеон - столицу Королевства Сарлеон.
+mno_town_2|присоединяетесь к каравану, идущему в город Равенстерн - столицу Королевства Равенстерн.
+mno_town_3|присоединяетесь к каравану, направляющемуся в город Торбу - столицу Ханства Д'Шар.
+mno_town_4|садитесь на корабль, плывущий в город Явиксхольм - столицу Фирдсвейна.
+mno_town_5|садитесь на корабль, плывущий в город Янос - столицу Империи.
+mno_pop_cheat|[ТЕСТ] Просто позвольте мне играть!
+menu_start_game_3|Выберите ваш сценарий:
+menu_tutorial|Вы вошли в учебный лагерь, вы можете попрактиковаться здесь для улучшения ваших боевых навыков.
+mno_go_back_dot|Назад.
+menu_reports|Известность/Престиж: {reg5}^^Рейтинг чести: {reg6}^Престижа потрачено: {reg9}^Базовая стоимость тренировок: {reg10}^^Мораль отряда: {reg8}^Предельный размер отряда: {reg7}^
+mno_action_view_troop_trees|Древо войск.
+mno_view_character_report|Персонаж.
+mno_view_party_size_report|О размере отряда.
+mno_view_morale_report|Мораль отряда.
+mno_view_weekly_budget_report|Просмотреть недельную смету.
+mno_view_center_income_report|Доходы с ваших земель.
+mno_view_victory_condition_report|О прогрессе победы.
+mno_view_achievement_report|Достижения.
+mno_view_faction_relations_report|Взаимоотношения с фракциями.
+mno_view_npc_mission_report|Исполнение поручений компаньонами.
+mno_lord_relations|Взаимоотношения с лордами.
+mno_courtship_relations|Куртуазность.
+mno_action_view_world_map|Карта Пендора.
+mno_resume_travelling|Продолжить путешествие.
+menu_custom_battle_scene|(NO TRANS)
+menu_custom_battle_end|Бой закончен. {s1} Ваш отряд поразил {reg5} врагов и потерял {reg6} бойцов. Вы поразили {reg7} целей.
+menu_start_game_1|Выберите пол персонажа.
+mno_start_male|Мужской.
+mno_start_female|Женский (Лица из Warband) .
+mno_start_female_2|Женский (Пользовательские лица)
+menu_start_character_1|У вас за спиной уже довольно большой жизненный опыт, вы проживаете на землях Барклая, далеко к юго-западу от Пендора. Ваш отец был...
+mno_start_noble|мелким дворянином.
+mno_start_merchant|капитаном торгового судна.
+mno_start_guard|бывшим рыцарем.
+mno_start_forester|бывшим искателем приключений.
+mno_start_nomad|лидером клана странствующих кочевников.
+mno_start_thief|суровой и таинственной личностью.
+mno_start_priest|уважаемым лекарем.
+menu_start_character_2|{s10}^^ В юности у вас было очень мало свободного времени, так как ваш отец...
+mno_page|устроил вас на службу к мелкому барклайскому дворянину.
+mno_apprentice|отправил вас в качестве подмастерья в гильдию ремесленников.
+mno_stockboy|оставил вас на попечении успешного торговца.
+mno_urchin|покинул вас, заставив самостоятельно заботиться о себе.
+mno_nomad|отослал вас для самостоятельной охоты в дебрях.
+menu_start_character_3|{s11}^^Потом, когда казалось, что уже прошла целая вечность, ваша жизнь изменилась. Вам выпала возможность стать...
+mno_squire|Сквайром.
+mno_lady|Фрейлиной.
+mno_troubadour|Бардом.
+mno_student|Начинающим лекарем.
+mno_peddler|Самостоятельным торговцем.
+mno_craftsman|Инженером и зодчим.
+mno_poacher|Егерем.
+menu_start_character_4|{s12}^^Но, как вновь распорядилась судьба, все в вашем мире внезапно изменилось. У вас не было иного выбора, кроме как покинуть земли Барклая и устремиться в Пендор из-за...
+mno_revenge|необходимости исправить причиненное вам зло.
+mno_death|полученного сообщения о смерти вашего отца.
+mno_wanderlust|череды неудачных происшествий.
+mno_disown|большого количества врагов, желающих вашей смерти.
+mno_greed|письма, которое навсегда изменило вашу жизнь.
+menu_choose_skill|{s13}
+mno_begin_adventuring|Вы садитесь на корабль и готовитесь к путешествию...
+menu_past_life_explanation|{s3}
+mno_view_next|{s5}
+menu_morale_report|{s1}
+menu_courtship_relations|{s1}
+menu_lord_relations|{s1}
+menu_center_income_report|{s1}
+mno_list_of_fief_with_pending_quests|Дай мне список территорий с невыполненными заданиями управителей
+mno_construction|Посмотреть отчет по строительству...
+menu_center_construction_report|{s1}
+menu_victory_progress_report|Отчет достижения победы^^{s6}^^Культ змеи: {s7}^Джату: {s8}^Варвары Мглистых гор: {s9}^Еретики: {s10}^^Всего армий вторглось: {reg4}^^Армий осталось:^{s13}^^Отношения с нолдорами: {s12}^^Условия победы:^^- Владение единым королевством.^- Положительные отношения с нолдорами.^- Варвары Мглистых гор должны быть уничтожены или разогнаны.^- Любая другая фракция должна быть уничтожена без остатка малых армий и персонажей фракции на карте.
+menu_companion_report|{s7}{s1}
+menu_character_report|{s9}
+menu_party_size_report|{s1}
+menu_faction_relations_report|{s1}
+mno_orders|Посмотреть отношения с рыцарскими орденами.
+menu_order_relations_report|{s1}
+menu_camp|Вы разбили лагерь. Что будете делать?
+mno_camp_action_1|Провести смотр войск.
+mno_camp_manage_inventory|Управлять инвентарем вашего отряда.
+mno_camp_access_companions_inventory|Получить доступ к инвентарю компаньонов.
+mno_camp_action|Заняться делом.
+mno_camp_wait_here|Немного отдохнуть.
+mno_camp_options|Изменить опции игры.
+mno_camp_cheat_infoline|-ЧИТЫ ДАЛЬШЕ ТОЛЬКО ДЛЯ РАЗРАБОТЧИКОВ-
+mno_camp_cheat|ЧИТ МЕНЮ!
+mno_test_vader|---MV Общее тестирование---
+mno_test_vader2|---MV Меню тестирования войск---
+mno_testers_cheat|---MV Меню для тестеров---
+mno_fix_pop|Пофиксить мою игру.
+menu_fix_pop_list|Пофиксить мою игру.
+mno_fix_food|Фикс '0 морали от еды' & 'отрицательная прибыль от предприятий' & 'нет предметов для CKO'.
+mno_camp_autoloot_for_bug|---MV автолут для исправления ошибки---
+menu_testers_cheat|Читы для тестеров.
+mno_camp_cheatleo_get_50_troops|Дать 100 юнитов.
+mno_camp_cheatleo_give_troops|Дать юнитов.
+mno_camp_cheatleo_undress_troops|Раздеть солдата.
+mno_camp_cheatleo_get_lords|Дать лорда.
+mno_cheat_spawn_ashenborn|Выдать мне новых Ашенборнских воинов и воинов ассассинов.
+mno_cheat_companion_xp|Дать моему отряду миллион очков опыта
+mno_cheat_change_race_noldor|Хочу быть эльфом!
+mno_cheat_change_race_undead|Хочу быть зомби!
+mno_raise_player_level|Выдай мне 1 000 000 ХР!
+mno_cheat_disable_companion_complaints|Отключить жалобы компаньонов
+mno_cheat_enable_companion_complaints|Включить жалобы компаньонов
+mno_cheat_disable_cheatmode|Выключить режим читов
+mno_choose_scene|Выбор сцены
+mno_sarleon_loves_me|Сарлеон любит меня.
+menu_camp_cheat|Выбрать чит:
+mno_camp_cheat_find_item|Найти элемент...
+menu_camp_vader|Что желаете протестировать?
+mno_camp_vader_pimp|Сперва приукрась мой внешний вид!
+mno_salt_mine|Телепорт в шахты Азис
+mno_camp_vader_ownorder|Тест ордена игрока...
+mno_camp_vader_gmquest_1|Начать квест Грандмастера для теста (часть 1).
+mno_camp_vader_gmquest_2|Начать квест Грандмастера для теста (часть 2).
+mno_camp_vader_randorder1|Создать для теста случайный минорный Орден.
+mno_camp_vader_randorder2|Создать для теста 7 случайных минорных Орденов. (ВНИМАНИЕ)
+mno_test_noldor_quest|Выполнить квест нолдоров (доступ в замок)
+mno_camp_vader_cheat|Включи чит-мод натива: {s7}
+mno_camp_wait|Вперед на 200 дней (х50 скорость)...
+mno_camp_vader_comp|Тест диалогов спутников...
+mno_rebuild_old_ruins|Восстановить Старые Руины за 30 000 динар.
+mno_spawn_test_bandit_lairs|Спаун Тестовый Бандитских логов.
+mno_camp_vader_back|Вернуться в меню лагеря.
+menu_camp_ownorder|Выберите опции:
+mno_join|Присоединиться к Сарлеону и взять Авендор
+mno_join2|Присоединиться к Фирдсвейну и взять Виндхольм
+mno_finish|Завершить текущие улучшения
+mno_give|Дай мне рыцарей и сержантов ордена
+mno_back|Вернуться в меню тестирования
+menu_camp_balance|Выбирайте аккуратно:
+mno_lords|Рассчитать силу лордов
+mno_calcmercs|Спаун наемников и показ силы(???)
+mno_limits0|Лимит набора модели 0
+mno_limits50|Лимит набора модели 50
+menu_camp_hostile_party|Выбранные войска:{s4} ({reg4})
+mno_add1|Увеличение на 1
+mno_spawn|Спаун отрядов от 100 воинов!
+menu_camp_quests35|Выберите опцию:
+mno_tavern_assassin|Убийца в таверне
+mno_rescue_daughter|Спасти дочь
+mno_escort_peasants|Сопровождение крестьян
+mno_order_bounty|Заказ, охота за головами
+menu_camp_economy|Выберите опцию:
+mno_camp_economy_listcenters|Список всех центров(узлов)
+mno_camp_economy_listprices|Список средних цен
+mno_camp_economy_centergoods|Посмотреть данные о ближайшем центре
+mno_camp_economy_market_towns|Посмотреть рынки городов
+mno_camp_economy_centerresetall|Сбросить все цены до 1000
+mno_camp_economy_cycle|Цикл обновления для всех торговых цен на товары
+mno_camp_economy_back|Вернуться в меню тестирования.
+menu_camp_economy_markets|{s2}
+menu_camp_economy_center|{s2}
+menu_camp_economy_view|{s2}
+menu_camp_economy_prices|{s2}
+menu_camp_noldor|Выберите опцию:
+mno_test_noldor_friend|Сделать меня другом нолдоров (30)
+mno_test_noldor_friend2|Сделать меня сторонником нолдоров (15) - дает возможность выполнить квест
+mno_test_noldor_enemy|Сделать меня врагом нолдоров (-10)
+mno_test_noldor_tournament|Начать турнир у нолдоров
+mno_test_noldor_trader|Восстановить торговый инвентарь
+mno_test_noldor_prize|Дать мне нолдорский приз!
+mno_camp_noldor_back|Вернуться в меню тестирования.
+menu_test_heartbeat|Выберите опцию:
+mno_test_heartbeat_generate|Генерировать квесты от сенешалей(старост)
+mno_camp_heartbeat_back|Вернуться в меню лагеря.
+menu_camp_achieve|Выберите опцию:
+mno_camp_achieve_all|Получить все достижения
+mno_camp_achieve_none|Очистить все достижения
+mno_camp_achieve_notify|Просмотреть все уведомления
+mno_camp_achieve_back|Вернуться в основное меню тестирования.
+menu_camp_honor|Выберите опцию:
+mno_camp_honor_kotd|Дать мне 10 воинов Дракона
+mno_camp_honor_kors|Дать мне 10 воинов Льва
+mno_camp_honor_ei|Дать мне 10 Смертных Империи
+mno_camp_honor_dsw|Дать мне 10 Наездников Пыли Д'Шар
+mno_camp_honor_lv|дать мне 10 Леди Эйнхерия
+mno_camp_honor_kotg|Дать мне 10 Рыцарей Грифона
+mno_camp_honor_kotf|Дать мне 10 Рыцарей Сокола и Когтей Сокола
+mno_camp_honor_korc|Дать мне 10 Рыцарей Сияющего Креста
+mno_camp_honor_rocc|Дать мне 10 Рыцарей Звонкого Призыва
+mno_camp_honor_kotdw|Дать мне 10 Рыцарей Рассвета
+mno_camp_honor_koteg|Дать мне 10 Рыцарей Эбеновой Перчатки
+mno_camp_honor_slc|Дать мне 10 Морских пехотинцев Теневого Легиона
+mno_camp_honor_sr|Дать мне 10 Рейнджеров Серебряного тумана
+mno_camp_honor_koe|Дать мне 10 Рыцарей Заката (и леди-призрака)
+mno_camp_honor_back|Вернуться в меню тестирования.
+menu_camp_cool|Выберите опцию:
+mno_camp_cool_ha|Дать мне 100 Странствующих Героинь
+mno_camp_cool_ham|Дать мне 100 Странствующих Героев
+mno_camp_cool_jmr|Дать мне 100 Наемных всадников Джату
+mno_camp_cool_mhc|Дать мне 100 Марлеонских тяжелых кавалеристов
+mno_camp_cool_rkk|Дать мне 100 Равенстернских Горцев
+mno_camp_cool_dda|Дать мне 100 Стрелков Джаха Д'Шар
+mno_camp_cool_ntk|Дать мне 100 Сумеречных рыцарей-нолдор
+mno_camp_cool_nmr|Дать мне 100 Дев-рейнджер нолдоров
+mno_camp_cool_nr|Дать мне 100 Нолдор-рейнджеров
+mno_camp_cool_kjk|Дать мне 100 Каджахаров К'Джуды
+mno_camp_cool_dg|Дать мне 100 Ведущих к Гибели
+mno_camp_cool_os|Дать мне 100 Ищущих знамения
+mno_camp_cool_more|Более крутые войска...
+mno_camp_cool_back|Вернуться в меню тестирования.
+menu_camp_cool2|Выберите опцию:
+mno_camp_cool_05|Дать мне Специальные войска
+mno_camp_cool2_dli|Дать мне 1000 Пехотинцев Легиона Страха
+mno_camp_cool2_ak|Дать мне 100 Рыцарей Анаконды
+mno_camp_cool2_fr|Дать мне 100 Ревенантов
+mno_camp_cool2_dm|Дать мне 100 Демонических Магнусов
+mno_camp_cool2_hm|Дать мне 100 Заклинателей Еретиков
+mno_camp_cool2_back|Вернуться в меню тестирования.
+menu_camp_regular|Выберите опцию:
+mno_camp_regular_Singalian|Дать мне Сингалийцев
+mno_camp_regular_Veccavian|Дать мне компанию Виккави
+mno_camp_regular_Sarleon|Дать мне компанию Сарлеона
+mno_camp_regular_Ravenstern|Дать мне компанию Равенстерна
+mno_camp_regular_DShar|Дать мне компанию Д'Шар
+mno_camp_regular_Fierdsvain|Дать мне компанию Фирдсвейна
+mno_camp_regular_Empire|Дать мне Имперскую компанию
+mno_camp_regular_pendor|Дать мне компанию Пендора
+mno_camp_regular_back|Вернуться в меню тестирования.
+menu_camp_minor|Выберите опцию:
+mno_camp_minor_eventide|Спаун патруля Рыцарей Заката
+mno_camp_minor_dawn|Спаун патруля Рыцарей Рассвета
+mno_camp_minor_ebony|Спаун патруля Рыцарей Эбеновой Перчатки
+mno_camp_minor_1|Спаун Армии пиратов Ванскерри
+mno_camp_minor_2|Спаун Армии Еретиков
+mno_camp_minor_3|Спаун Армии культа Змеи
+mno_camp_minor_4|Спаун Армии Мглистых гор
+mno_camp_minor_5|Спаун Армии Джату
+mno_camp_minor_6|Спаун патруля Нолдоров
+mno_camp_minor_7|Спаун инквизиторской армии
+mno_camp_minor_back|Вернуться в основное меню тестирования.
+menu_camp_hero|Выберите опцию:
+mno_camp_hero_1|Спаун Трех Провидиц
+mno_camp_hero_2|Спаун Аларика фон Сенсация
+mno_camp_hero_3|Спаун Сэра Бориса-Ворона
+mno_camp_hero_4|Спаун Берилджи Узурпатора
+mno_camp_hero_5|Спаун Легиона Страха
+mno_camp_hero_6|Спаун Айгрима Пожирателя
+mno_camp_hero_7|Спаун Освальда де Флер
+mno_camp_hero_8|Спаун Шейха Шалаван
+mno_camp_hero_more|Показать еще спауны...
+mno_camp_hero_back|Вернуться в основное меню тестирования.
+menu_camp_hero2|Выберите опцию:
+mno_camp_hero_9|Спаун Волка-Предвестника-Убийцы
+mno_camp_hero_10|Спаун Сила Узас
+mno_camp_hero_11|Спаун Мерегана Кирлик
+mno_camp_hero_12|Спаун Кодана Железный Меч
+mno_camp_hero_13|Спаун Аелдариана
+mno_camp_hero_14|Спаун Изилрандира
+mno_camp_hero_15|Спаун К'Джуды Разрушителя
+mno_camp_hero_16|Спаун Военачальника Зулкара
+mno_camp_hero2_back|Вернуться в основное меню тестирования.
+menu_camp_hero3|Выберите опцию:
+mno_camp_hero3_back|Вернуться в основное меню тестирования.
+menu_camp_victory|Выберите опцию:
+mno_camp_victory_simple|Обычный вид победы
+mno_camp_victoryold|Старый вид победы
+mno_camp_victory_back|Вернуться в основное меню тестирования.
+menu_camp_fun|Выберите опцию:
+mno_camp_fun_village|Сжечь все: {s7}
+mno_camp_fun_twins|Спаун злых близнецов!
+mno_camp_fun_female|Сделать солдат женщинами!
+mno_camp_fun_undead|Сделать солдат нежитью!
+mno_camp_fun_back|Вернуться в основное меню тестирования.
+menu_camp_autoloot|Выберите опцию:
+mno_camp_autoloot_choose_item|Изменить тип элемента(предмета): {s3}
+mno_camp_autoloot_cavalry_toggle|Ограничение кавалерии: {s7}
+mno_camp_autoloot_item_trade|Посмотреть/купить товар(предметы)
+mno_camp_autoloot_calc|Рассчитать средние значения и стандартные отклонения для атрибутов товаров(элементов).
+mno_camp_autoloot_score|Показать множество авто-лута
+mno_camp_autoloot_top20|Показать топ-20 авто-лута
+mno_camp_autoloot_back|Вернуться в основное меню тестирования.
+menu_camp_companion|Выберите опцию:
+mno_camp_comp_recruit|Нанять всех компаньонов
+mno_camp_comp_linked|Случайная связанная беседа
+mno_camp_comp_toplayer|Случайное замечание игроку
+mno_cheat_all_companions_to_basic_level|Все компаньоны базового уровня.
+mno_camp_comp_back|Вернуться в основное меню тестирования.
+menu_camp_vader2|Что желаешь потестить сегодня?
+mno_camp_vader_ht|Дай мне почетных воинов...
+mno_camp_vader_ct|Дай мне классных воинов...
+mno_camp_vader_rt|Дай мне обычных воинов...
+mno_camp_vader_mf|Заспавни минорную фракцию...
+mno_camp_vader_sh|Заспавни уникального героя...
+mno_camp_vader_balance|Сбалансируй группы участников...
+menu_camp_action|Выбрать действие:
+mno_camp_recruit_prisoners|Пополнить отряд из пленных.
+mno_action_read_book|Выбрать книгу для чтения.
+mno_action_rename_party|Переименовать группу.
+mno_action_rename_kingdom|Переименовать ваше королевство.
+mno_action_change_vassal_title|Установить титулы для ваших знатных вассалов.
+mno_action_rename_order|Переименовать орден.
+mno_action_rename_old_ruins|Переименовать лагерь в Старых Руинах.
+mno_action_modify_banner|Изменить флаг.
+mno_action_retire|Закончить приключения.
+mno_camp_action_4|Вернуться в меню лагеря.
+menu_camp_recruit_prisoners|Вы предлагаете освободить пленных, если они присоединятся к вам. {s18}
+mno_camp_recruit_prisoners_accept|Принять.
+mno_camp_recruit_prisoners_reject|Отказать.
+menu_camp_no_prisoners|У вас нет пленных для найма.
+menu_camp_action_read_book|Укажите книгу:
+mno_action_read_book_1|{s1}.
+mno_action_read_book_2|{s1}.
+mno_action_read_book_3|{s1}.
+mno_action_read_book_4|{s1}.
+mno_action_read_book_5|{s1}.
+mno_action_read_book_6|{s1}.
+mno_action_read_book_7|{s1}.
+mno_action_read_book_8|{s1}.
+mno_action_read_book_9|{s1}.
+mno_action_read_book_10|{s1}.
+mno_action_read_book_11|{s1}.
+menu_camp_action_read_book_start|{s1}.
+menu_retirement_verify|Прошло дней {reg0}. Текущая удача {reg1}. Вы уверены, что хотите отступить?
+mno_retire_yes|Да
+mno_retire_no|Нет
+menu_end_game|Жребий брошен, вы решаете отказаться от приключений и угомониться. Вы распродали со скидкой оружие и доспехи, собрали пожитки и медленно растворились в предзакатном тумане...
+mno_end_game_bye|Прощайте.
+menu_cattle_herd|Вы повстречали стадо коров.
+mno_cattle_drive_away|Гнать стадо.
+mno_cattle_stop|Оставить стадо.
+mno_cattle_kill|Забить на мясо.
+mno_leave|Уйти.
+menu_cattle_herd_kill|Сколько голов забить?
+mno_cattle_kill_1|Одну.
+mno_cattle_kill_2|Две.
+mno_cattle_kill_3|Три.
+mno_cattle_kill_4|Четыре.
+mno_cattle_kill_5|Пять.
+menu_arena_duel_fight|Вы и ваш соперник готовитесь биться за честь.
+menu_simple_encounter|{s2} У вас {reg10} боеспособных солдат против их {reg11}.
+mno_encounter_attack|Атаковать всеми силами.
+mno_encounter_order_attack|Только войска (автобой).
+mno_encounter_leave|Выйти из боя.
+mno_encounter_retreat|Отступить, оставив несколько солдат для прикрытия.
+mno_encounter_surrender|Сдаться.
+menu_encounter_surrender_confirm|Вы хотите сдаться?
+mno_encounter_surrender_yes|Да, нет никакой надежды.
+mno_encounter_surrender_no|Нет! Мы будем сражаться до конца.
+menu_encounter_retreat_confirm|Как лучший тактик отряда ({reg2}), {reg3?вы составляете:{s3} составляет} план отступления, но при этом придется оставить {reg4} солдат для сдерживания противника. Вечная им память.
+mno_leave_behind|Принять план. Сейчас не время для соплей.
+mno_dont_leave_behind|Отказаться от плана. Мы своих не бросаем.
+menu_encounter_retreat|Вы оставляете {reg4} солдат в арьергарде и отступаете вместе с остальным отрядом.
+menu_order_attack_begin|Ваше войско готово напасть на врага.
+mno_order_attack_begin|Приказать начать битву
+mno_call_back|Отозвать их.
+menu_order_attack_2|{s4}^^Ваши потери: {s8}^^Потери врага: {s9}^^Потери союзника: {reg10}^Врагов осталось: {reg11}
+mno_order_attack_continue|Приказать продолжить битву.
+mno_order_retreat|Приказ на отступление.
+menu_battle_debrief|{s11}^^Ваши потери: {s8}{s10}^^Вражеские потери: {s9}^^Счёт убитых:{s12}
+menu_total_victory|Вы не должны это читать... {s9}
+menu_enemy_slipped_away|{s17}
+menu_permanent_damage|{s0}
+mno_s0|{s0}
+menu_pre_join|Перед вами битва, где сражаются {s2} и {s1}. Вы решили...
+mno_pre_join_help_attackers|Двинуться на помощь {s2}.
+mno_pre_join_help_defenders|Ринуться на подмогу {s1}.
+mno_pre_join_leave|Не вмешиваться.
+menu_join_battle|Вы помогаете {s2} против {s1}. У вас {reg10} воинов против {reg11} вражеских.
+mno_join_attack|Атаковать всеми силами.
+mno_join_order_attack|Послать в бой войска.
+mno_join_leave|Выйти из боя.
+menu_join_order_attack|{s4}^^Ваши потери: {s8}^^Потери союзника: {s9}^^Потери врага: {s10}^^Союзников осталось: {reg10}^Врагов осталось: {reg11}
+menu_salt_mine|Перед вами соляные копи Аль-Азиз.
+mno_enter|Войти.
+menu_four_ways_inn|Вы вошли в гостиницу Четыре Пути
+menu_test_scene|Вы в тестовой сцене
+menu_dhorak_keep|Вы вошли в прибежище Дхорака
+menu_join_siege_outside|{s2} осадил {s1}.
+mno_approach_besiegers|Подойти к лагерю осаждающих.
+mno_pass_through_siege|Пройти через осаждающих и войти в {s1}.
+menu_cut_siege_without_fight|Вам позволяют беспрепятственно подойти к воротам замка.
+menu_besiegers_camp_with_allies|{s1} осажден. Флаги {s2} развеваются над лагерем осаждающих, которые приветствуют вас и ваших людей.
+mno_talk_to_siege_commander|Вызвать на переговоры командира.
+mno_join_siege_with_allies|Участвовать в следующем штурме.
+mno_join_siege_stay_back|Послать войска на следующий штурм.
+menu_castle_outside|Перед вами {s2}.{s11} {s3} {s4}
+mno_approach_gates|Подойти к воротам и приветствовать стражу.
+mno_town_sneak|Прокрасться через городские ворота в {s7}.
+mno_castle_start_siege|Осадить {reg6?город:замок}.
+mno_castle_leave|Уйти.
+menu_castle_guard|Вы приближаетесь к воротам. Люди на стенах внимательно за вами следят.
+mno_request_shelter|Попросить разрешения войти в замок.
+mno_request_meeting_commander|Потребовать встречи с кем-нибудь.
+mno_guard_leave|Уйти.
+menu_castle_entry_granted|После небольшой задержки стража открывает ворота и пропускает ваш отряд.
+menu_castle_entry_denied|Правитель замка запретил вам входить внутрь, а привратник предупредил, что в случае неповиновения стража готова стрелять.
+menu_castle_meeting|Кого вы хотите видеть?
+mno_guard_meet_s5|{s5}.
+mno_forget_it|Забудь.
+menu_castle_meeting_selected|Ваше требование передают дальше и, наконец, {s6} появляется во внутреннем дворе для переговоров с вами.
+menu_castle_besiege|Вы осадили {s1}. {s2} {s3}
+mno_siege_request_meeting|Вызвать на переговоры командира замка.
+mno_wait_24_hours|Ждать до завтра.
+mno_castle_lead_attack|Начать штурм.
+mno_attack_stay_back|Послать в атаку войска.
+mno_build_ladders|Подготовить лестницы для атаки стен.
+mno_build_siege_tower|Строить осадную башню.
+mno_lift_siege|Снять осаду.
+menu_siege_attack_meets_sally|Защитники делают вылазку для контратаки.
+menu_castle_besiege_inner_battle|{s1}
+menu_construct_ladders|Как лучший инженер отряда ({reg2}), {reg3?вы подсчитали:{s3} подсчитал}, что подготовка штурмовых лестниц займет около {reg4} часов.
+mno_build_ladders_cont|Приступить.
+menu_construct_siege_tower|Как лучший инженер отряда ({reg2}), {reg3?вы подсчитали:{s3} подсчитал}, что строительство осадной башни займет около {reg4} часов.
+mno_build_siege_tower_cont|Начать сооружение.
+menu_castle_attack_walls_simulate|{s4}^^Ваши потери:{s8}^^Потери врага: {s9}
+menu_castle_attack_walls_with_allies_simulate|{s4}^^Ваши потери: {s8}^^Потери союзника: {s9}^^Потери врага: {s10}^^Союзников осталось: {reg10}^Врагов осталось: {reg11}
+menu_castle_taken_by_friends|Тут не на что смотреть.
+menu_castle_taken|Защитники пали под натиском ваших войск, и теперь {s3} полностью под вашим контролем.{reg1?Вы можете оставить войска, что бы защищать стены. Так же вы можете решить оставить {reg2?город:замок} себе или передать вашему вассалу...:}
+menu_castle_taken_2|Защитники пали под натиском ваших войск, и теперь {s3} полностью под вашим контролем. Самое время послать гонца, чтобы {s9} узнал о вашей победе. {s5}
+mno_castle_taken_claim|Подать прошение оставить {s3} себе.
+mno_castle_taken_claim_2|Просить руки и сердца у {s3} стать {reg63?вашей супругой:вашим супругом}.
+mno_castle_taken_no_claim|Ничего не просить.
+menu_requested_castle_granted_to_player|Вы получаете ответ на прошение.^^ {s3} отдает вам во владение {s2}{reg3? и прилегающую деревню {s4}:} со всеми доходами и правами до тех пор, пока вы сохраняете {reg4?ей:ему} свою верность.
+menu_requested_castle_granted_to_player_husband|Вы получили письмо от вашего вассала, {s3}.^^ {reg4?Она приняла решение:Он принял решение} пожаловать вам во владение{s2}{reg3?и все прилегающие деревни к {s4}:} вашему супругу, {s7}.
+menu_requested_castle_granted_to_another|{s3} прислал ответ на ваше прошение.^^ 'Я наслышан о вашей храбрости в битве за {s2} и очень доволен этой победой. Однако ваше прошение не может быть удовлетворено, поскольку вы уже владеете землями в моем королевстве. Поэтому я посылаю {reg6} динаров в качестве компенсации ваших усилий, но право на {s2} получает {s5}.'
+mno_accept_decision|Принять вердикт повелителя.
+mno_leave_faction|Вы в ярости! Отказаться от клятвы верности своему сюзерену!
+menu_requested_castle_granted_to_another_female|Вы получили сообщение от вашего лорда, {s3}.^^'Меня в высшей степени порадовали известия о вашей доблести при захвате {s2}. Ваша победа наполнила счастьем наши сердца. Кроме того, вы просили меня даровать замок вашему супругу. Боюсь, что мне придется отказать вам в этой просьбе, поскольку ему и так принадлежит множество земель в моей державе. Вместо этого я посылаю вам {reg6} динаров для покрытия издержек вашей военной компании. {s2} же я отдам {s5}.'
+menu_leave_faction|Вы наказаны за нарушение присяги. Ваш повелитель осуждает ваше предательство и конфискует все ваши владения. Однако если вы по своей воле отдадите ему свои земли и замки, то он может вас простить.
+mno_leave_faction_give_back|Я отдаю все владения и отказываюсь от присяги.
+mno_leave_faction_hold|Я оставляю себе все, включая {s2}, и отказываюсь от присяги.
+mno_leave_faction_cancel|Я раскаиваюсь и отдаю все владения.
+menu_give_center_to_player|Ваш лорд предлагает вам новое поместье! За верную службу {s1} отдает вам {s2}, чтобы расширить ваши владения. Каков будет ваш ответ?
+mno_give_center_to_player_accept|Принять. Так будет лучше для всех.
+mno_give_center_to_player_reject|Отклонить. Вас не интересует {s2}.
+menu_give_center_to_player_2|В ходе краткой церемонии вы получаете официальные права на собственность. Теперь {s2}{reg3? и прилежащая деревня {s4}:} под вашей властью, что существенно расширит ваши владения. Вы можете получать все доходы с этих земель и вербовать солдат среди населения. Кроме того, вы обязаны поддерживать здесь правопорядок и защищать поместье от врагов и мародеров.
+menu_oath_fulfilled|{s1} брал вас на службу только на определенный срок. Теперь это время истекло. Что будете делать?
+mno_renew_oath|Продлить контракт на месяц с {s1}.
+mno_dont_renew_oath|Закончить службу.
+menu_siege_started_defender|{s1} начинает нападение на {s2}. У вас {reg10} бойцов против вражеских {reg11}. Вы решаете...
+mno_siege_defender_join_battle|Вступить в бой.
+mno_siege_defender_troops_join_battle|Послать в бой войска.
+menu_siege_join_defense|{s4}^^Ваши потери: {s8}^^Потери противника: {s9}^^Потери врага: {s10}^^Союзников осталось: {reg10}^Врагов осталось: {reg11}
+menu_enter_your_own_castle|{s10}
+menu_village|{s10}{s11}{s6}{s7}
+mno_village_manage|Управление деревней.
+mno_village_train_steward|Провести собрание с деревенским советом.
+mno_village_elder_talk|Говорить со старейшиной.
+mno_village_elder_talk_door|Войти в деревню.
+mno_recruit_volunteers|Набрать добровольцев.
+mno_village_center|Выйти на сельскую площадь.
+mno_village_center_door|Дверь на сельскую площадь.
+mno_village_buy_food|Купить провиант у крестьян.
+mno_village_attack_bandits|Напасть на бандитов.
+mno_village_wait|Немного подождать...
+mno_collect_taxes_qst|{reg5?Продолжить сбор налогов:Собрать налоги} для {s1}.
+mno_train_peasants_against_bandits_qst|Обучить крестьян.
+mno_village_hostile_action|Начать враждебные действия.
+mno_village_leave|Уйти...
+menu_village_hostile_action|Какие действия предпринять?
+mno_village_take_food|Отобрать провиант у крестьян.
+mno_village_steal_cattle|Угнать коров.
+mno_village_loot|Разграбить это село, потом сжечь.
+menu_recruit_volunteers|{s18}
+mno_continue_not_enough_gold|У меня недостаточно денег.
+mno_recruit_them|Завербовать ({reg6} динаров).
+menu_village_hunt_down_fugitive_defeated|Тяжелый удар отправляет вас на землю и мир погружается во мрак. Открыв глаза, вы осознаете, что избиты и окровавлены. Но, к счастью, ни одна из ран не смертельна.
+menu_village_infest_bandits_result|{s9}
+menu_village_infestation_removed|В битве, достойной пера поэта, вы изгоняете бандитов. Деревня снова в безопасности. У селян мало что осталось после набега, но все это они предлагают вам.
+mno_village_bandits_defeated_accept|Вы снисходительно принимаете их подношения.
+mno_village_bandits_defeated_cont|Вы отказываетесь, потому что им это нужнее.
+menu_steward_training|К совету между вами и вашим стюардом по обустройству этого феодального владения все готово.^^Вам сообщают, что ^совещание продлится {reg8} часов и потребует траты {reg9} динаров.{reg6?^^К сожалению, сейчас вы не в состоянии проводить встречи и совещания (казна почти пуста)...:}
+mno_steward_training_confirm|Начать встречу.
+mno_steward_training_decline|Сейчас не время! Посовещаемся позже.
+menu_steward_training_complete|^^Встреча с вашим стюардом прошла успешно. Управляющий поселением благодарит вас за то, что вы нашли время для подробного объяснения своих планов и замыслов по обустройству этого владения.
+menu_center_manage|{s19}^{reg6?^^Сейчас строится: {s7}.^Дней до завершения: {reg8}.:}
+mno_center_send_out_prospectors|Послать разведчиков.
+mno_center_build_training_grounds|Построить тренировочные площадки.
+mno_center_build_manor|Построить поместье.
+mno_center_build_herbalist|Построить дом травника.
+mno_center_build_fishpond|Построить рыбный пруд.
+mno_center_build_shrine|Построить святыню.
+mno_center_build_watch_tower|Построить сторожевую башню.
+mno_center_build_school|Построить школу.
+mno_center_build_renderers|Построить скотобойню.
+mno_center_crop_rotation|Внедрить севооборот.
+mno_center_build_hunting_lodge|Построить охотничий домик.
+mno_center_build_improved_roads|Построить улучшенные дороги.
+mno_center_build_warehouse|Построить склад.
+mno_center_build_foresters|Построить дома лесникам.
+mno_center_build_sheriff|Создать службу шерифа.
+mno_center_building_civic_patrols|Создать гражданские патрули.
+mno_center_build_prisoner_tower|Построить тюремную башню.
+mno_center_build_market|Построить рынок.
+mno_center_build_blacksmith|Построить кузницу.
+mno_center_build_sanitation_standards|Внедрить санитарные стандарты.
+mno_center_build_church|Построить церковь.
+mno_center_build_winery|Построить винодельню.
+mno_center_build_tax_collector|Построить офис сборщика налогов.
+mno_center_build_fire_brigade|Построить пожарную часть.
+mno_center_build_craftsmen|Нанять мастеров.
+mno_center_well_cleaners|Создать службу уборки колодцев.
+mno_center_streetsweepers|Создать службу дворников.
+mno_center_building_inspectors|Создать инспекцию строений.
+mno_center_build_mine|Построить шахту.
+mno_center_build_monastery|Построить монастырь.
+mno_center_build_messenger_post|Построить почтовую станцию.
+mno_center_build_chapel|Построить часовню.
+mno_center_build_hospital|Построить больницу.
+mno_center_build_university|Построить университет.
+mno_center_build_cathedral|Построить собор.
+mno_center_build_courts|Внедрить систему судопроизводства.
+mno_center_build_organized_guilds|Организовать гильдии.
+mno_center_build_lamplighters|Внедрить уличное освещение.
+mno_center_building_thieves_guild|Создать гильдию воров.
+mno_center_building_town_crier|Служба глашатаев.
+menu_center_improve|^^ {s19} Ваш стюард, обладая навыком инженерии ({reg2}), подсчитал, что постройка {s4} будет стоить {reg5} динаров и займет {reg6} дней.
+mno_improve_cont|Начать строительство.
+mno_improve_not_enough_gold|На это не хватает денег.
+menu_town_bandits_failed|{s4} {s5}
+menu_town_bandits_succeeded|Бандиты падают перед вами как скошенная трава! Вскоре вы остаетесь в одиночестве, поскольку большинство врагов лежат мертвыми или умирающими, а остальные со всех ног удирают из города. Обыскав тела, вы находите кошелек, принадлежавший одной из предыдущих жертв этих скотов. Или тому, кто их нанял, чтобы покончить с вами.
+menu_village_steal_cattle_confirm|Как лучший мародёр отряда ({reg2}), {reg3?вы подсчитали:{s1} подсчитал}, что вы сможете угнать не более {reg4} голов из деревенского стада.
+mno_village_steal_cattle_confirm|Угнать коров.
+menu_village_steal_cattle|{s1}
+menu_village_take_food_confirm|Силой и угрозами принудить крестьян расстаться со своим добром будет непросто. Вы полагаете, что на это потребуется как минимум один час.
+mno_village_take_food_confirm|Начать грабеж.
+menu_village_take_food|Жители неохотно приносят какие-то объедки.
+mno_take_supplies|Забрать припасы.
+mno_let_them_keep_it|Оставить им.
+menu_village_start_attack|Некоторые крестьяне хватают вилы и готовятся к сопротивлению. Видимо, без боя продолжить грабеж не удастся.
+mno_village_raid_attack|Проучить обнаглевшую чернь.
+mno_village_raid_leave|Оставить в покое эту деревню.
+menu_village_loot_no_resist|Кучка испуганных бунтовщиков быстро разбежалась при виде солдат. Деревня сдалась на вашу милость.
+menu_village_loot_complete|По вашему приказу солдаты обыскивают деревню, забирая все, что представляет хоть какую-нибудь ценность, и сжигая остальное. Ваша доля в награбленном составляет {reg1} динаров.
+menu_village_loot_defeat|Храбро сражаясь, крестьяне прогнали вас взашей.
+menu_village_loot_continue|Продолжить разграбление деревни?
+mno_disembark_yes|Да.
+mno_disembark_no|Нет.
+menu_close|Ничего.
+menu_noldor_castle|Вы приближаетесь к замку нолдоров, с трудом верится, что это реальность, а не просто миф...
+mno_castle_castle_1|Идти в холл нолдорского замка.
+mno_castle_castle_1_door|Дверь в замок
+mno_join_tournament|Участвовать в турнире.
+mno_castle_inspect|Осмотреть замок.
+mno_castle_inspect_door|Во внутренний двор замка.
+mno_castle_attack|Устроить внезапную атаку на замок.
+mno_castle_wait|Отдыхать{s1}.
+mno_town_leave|Уйти...
+mno_town_leave_door|Уйти
+menu_noldor_attack_verify|Вы уверены, что хотите атаковать замок нолдоров? Это очень вероломный и предательский поступок, который понесет за собой серьезные последствия.
+mno_noldor_attack_verify_yes|Да. Можно нагрести уйму трофеев у этих ушастых выскочек.
+mno_noldor_attack_verify_no|Нет! Мы не можем ударить нагло в спину своим друзьям нолдорам!
+menu_noldor_castle_attack|Ваши войска готовятся атаковать замок нолдоров...
+menu_noldor_castle_attack_result|Результат атаки замка - вы не должны видеть этот текст!
+menu_noldor_castle_victory|Ваша коварная атака оказалась успешной. Как только вы ушли с мешками трофеев, замок нолдоров исчез с того места, где он был, как будто его и не существовало.
+menu_noldor_castle_defeat|Нолдоры отбили вашу коварную атаку и опять скрыли свой замок.
+menu_stronghold|{s4}
+mno_castle_castle_2|Идти в замок.
+mno_town_castle_2|Идти в холл Орденского замка.
+mno_town_castle_2_door|Дверь в замок
+mno_town_center|Осмотреть город.
+mno_town_tavern|Посетить таверну.
+mno_town_merchant|Поговорить с торговцем.
+mno_town_arena|Выйти на арену.
+mno_town_dungeon|ЧИТ: Вход в темницу.
+mno_town_enterprise|Посетить {s3}.
+mno_visit_lady|Попробовать нанести визит даме.
+mno_trade_with_merchants|На торговую площадь.
+menu_stronghold_attack_verify|Вы точно хотите штурмовать крепость?
+mno_stronghold_attack_verify_yes|Да, мы справимся.
+mno_stronghold_attack_verify_no|Нет, это самоубийство.
+menu_stronghold_attack|Ваши войска готовятся штурмовать замок культа Змеи.
+menu_stronghold_attack_result|Результат атаки замка!
+menu_stronghold_victory|День принес победу! Когда последние культисты сложили головы, вы объявили, что крепость отныне принадлежит ордену.
+menu_stronghold_defeat|Культ Змеи отбил вашу атаку, что значит, что в скором времени они усилят гарнизон.
+menu_old_ruins|{s4}
+mno_castle_castle_3|Идти в замок.
+mno_inspect_old_ruins|Исследовать область.
+mno_inspect_old_ruins_door|Исследовать область.
+mno_inspect_camp_build|Встретиться со строителем.
+mno_inspect_camp_build_door|Встретиться со строителем.
+mno_leave_workforce_camp|Оставить рабочих в лагере ({reg33}/20 уже здесь).
+mno_leave_workforce_camp_door|Оставить рабочих в лагере.
+mno_camp_master_talk|Поговорить с мастером лагеря.
+mno_camp_master_talk_door|Поговорить с мастером лагеря.
+mno_camp_blacksmith_talk|Поговорить с кузнецом лагеря.
+mno_camp_blacksmith_talk_door|Поговорить с кузнецом лагеря.
+mno_camp_vet_talk|Поговорить с конюшенным. 
+mno_camp_vet_talk_door|Поговорить с конюшенным. 
+mno_inspect_camp_finished|Идти в лагерь.
+mno_inspect_camp_finished_door|Идти в лагерь.
+mno_camp_station_troops|Управлять гарнизоном. ({reg33}/{reg34}{s2})
+mno_camp_station_troops_door|Управлять гарнизоном.
+mno_camp_wait_old_ruins|Отдохнуть в лагере некоторое время.
+mno_camp_wait_old_ruins_door|Отдохнуть в лагере некоторое время.
+mno_camp_leave|Уйти.
+mno_camp_leave_door|Уйти.
+menu_town|{s10} {s14}^{s11}{s12}{s13}
+mno_castle_castle|Войти в зал. Его хозяин - лорд {s1}.
+mno_castle_castle_door|Дверь в замок.
+mno_town_castle|Войти в замок {s1}.
+mno_town_castle_door|Ворота замка.
+mno_town_center_door|Дверь в центр города.
+mno_town_tavern_door|Дверь в таверну.
+mno_town_merchant_door|Дверь в магазин.
+mno_town_arena_door|Дверь на арену.
+mno_town_dungeon_door|Дверь в темницу.
+mno_town_enterprise_door|Вход в ваше предприятие.
+mno_visit_lady_door|Дверь в сад.
+mno_guildmaster_talk|Поговорить с главой гильдии.
+mno_walled_center_manage|Управление {reg0?городом:замком}.
+mno_walled_center_train_steward|Провести совещание с сенешалем {reg0?города:замка}.
+mno_walled_center_move_court|Разместить ваш двор здесь.
+mno_castle_station_troops|Разместить гарнизон. {s10}
+menu_cannot_enter_court|В чертогах лорда идет пир, но вы недостаточно высокородны, чтобы на него попасть. Возможно, снискав славу и признание, вы однажды попадете туда. Кроме того, вы можете отличиться в турнире еще до окончания праздника...
+menu_lady_visit|Кого вы хотите посетить?
+mno_visit_lady_1|Посетить {s12}
+mno_visit_lady_2|Посетить {s12}
+mno_visit_lady_3|Посетить {s12}
+mno_visit_lady_3_door|Дверь в сад.
+mno_visit_lady_4|Посетить {s12}
+mno_visit_lady_5|Посетить {s12}
+mno_visit_lady_6|Посетить {s12}
+mno_visit_lady_7|Посетить {s12}
+mno_visit_lady_8|Посетить {s12}
+menu_town_tournament_lost|Вы исключены из турнира.
+menu_town_tournament_won|Вы выиграли турнир в {s3}! Вас переполняет чувство гордости, когда толпа скандирует ваше имя. В дополнение к почестям вы получаете призовые {reg9} динаров. {s8}
+menu_town_tournament_won_by_another|Как единственный человек, оставшийся сегодня непобежденным, {s1} заслуживает честь и славу этого турнира.
+menu_town_tournament|{s1} Вы на {reg0} туре состязаний с {reg1} соперниками. В следующем раунде встретятся {reg2} команды с {reg3} {reg4?бойцами:бойцом} в каждой.
+mno_tournament_bet|Поставить на себя.
+mno_tournament_join_next_fight|Вступить в битву.
+mno_tournament_view_participants|Показать участников.
+mno_leave_tournament|Покинуть турнир.
+menu_tournament_withdraw_verify|Вы действительно хотите покинуть турнир?
+mno_tournament_withdraw_yes|Да, это пустая затея.
+mno_tournament_withdraw_no|Нет, я могу победить!
+menu_tournament_bet|Ставки против вас {reg5} к {reg6}.{reg1? Вы уже поставили на себя {reg1} динаров и в случае победы получите {reg2} динаров.:} Сколько будете ставить?
+mno_bet_500_denars|500 динаров.
+mno_bet_250_denars|250 динаров.
+mno_bet_100_denars|100 динаров.
+mno_bet_50_denars|50 динаров.
+mno_bet_25_denars|25 динаров.
+menu_tournament_bet_confirm|Если поставите {reg1} динаров, то получите {reg2} динаров, если выиграете турнир. Согласны?
+mno_tournament_bet_accept|Принять ставку.
+mno_tournament_bet_cancel|Отменить ставку.
+menu_tournament_participants|Вы спрашиваете у одного из глашатаев имена участников турнира. Это:^{s11}
+menu_collect_taxes|Как лучший торговец отряда ({reg2}), {reg3?вы подсчитали:{s1} подсчитал}, что сбор налогов займет {reg4} дней...
+mno_start_collecting|Начать сбор налогов.
+mno_collect_later|Собрать их позже.
+menu_collect_taxes_complete|Вы собрали {reg3} динаров с {s3}. {s19} с нетерпением ждет эти деньги.
+menu_collect_taxes_rebels_killed|Вы успешно подавили мятеж. Даже последний дурак теперь дважды подумает, прежде чем выступить против вас
+menu_collect_taxes_failed|Вы собрали {reg3} динаров с {s3}, пока не начался бунт. {s1} будет не слишком рад, но это все-таки лучше, чем ничего...
+menu_collect_taxes_revolt_warning|Жители {s3} оскорблены вашими требованиями и считают их вымогательством. Если вы продолжите их обирать, то могут произойти беспорядки.
+mno_continue_collecting_taxes|Продолжить сбор налогов, нечего слушать их нытье.
+mno_halve_taxes|Ограничиться половиной. ({s1} будет недоволен).
+menu_collect_taxes_revolt|Внезапно {s3} прекращает выплату налогов. К вам приближается большая группа обозленных {reg9?крестьян:горожан}, воинственно размахивая оружием и факелами. Похоже, сейчас вам будет несладко!
+menu_train_peasants_against_bandits|Как лучший тренер отряда ({reg2}), {reg3?вы подсчитали:{s1} подсчитал}, что подготовка крестьян займет {reg4} часов.
+mno_make_preparation|Начать тренировку.
+mno_train_later|Временно отложить.
+menu_train_peasants_against_bandits_ready|Вы обучили крестьян основам военной службы, строю и дисциплине. По вашему мнению, {reg0} из них {reg1?подготовлены:подготовлен} полностью и {reg1?готовы:готов} для практических занятий.
+mno_peasant_start_practice|Приступить к практике.
+menu_train_peasants_against_bandits_training_result|{s0}
+menu_train_peasants_against_bandits_attack|Только вы собрались продолжить тренировку, как появился деревенский часовой и поднял тревогу. На горизонте замечены бандиты, готовящиеся напасть на {s3}. Староста умоляет вас собрать только что обученных ополченцев и дать им отпор.
+mno_peasants_against_bandits_attack_resist|Готовиться к бою!
+menu_train_peasants_against_bandits_attack_result|{s9}
+menu_train_peasants_against_bandits_success|Бандиты разгромлены! Немногие из оставшихся в живых удирают, поджав хвосты, напуганные крестьянами и их новым командиром. У крестьян осталось мало ценного после этого испытания, но все найденное они предлагают вам в знак благодарности.
+menu_disembark|Выгрузить?
+menu_ship_reembark|Погрузить?
+mno_reembark_yes|Да.
+mno_reembark_no|Нет.
+menu_center_reports|Название города: {s1}^Прибыль от аренды: {reg1} динаров^Прибыль по тарифу: {reg2} динаров^Запас продовольствия: {reg3} дней
+mno_to_price_and_productions|Показать цены и товары.
+menu_price_and_production|Товары:^{s1}^^Ценовой фактор:^{s2}
+menu_town_trade|Вы направляетесь к рынку.
+mno_assess_prices|Проверить цены на товары
+mno_trade_with_weaponsmith|Торговать с торговцем оружием.
+mno_trade_with_armorsmith|Торговать с торговцем броней.
+mno_trade_with_horse_trader|Торговать с торговцем лошадьми.
+mno_trade_with_merchant|Торговать с торговцем разными товарами.
+mno_back_to_town_menu|Назад в меню города.
+menu_town_trade_assessment_begin|Вы подслушиваете несколько разговоров о ценах на товары в данной местности. Вы внимательно слушаете, пытаясь выбрать лучший вариант.
+mno_back_to_market|Обратно на рынок.
+menu_town_trade_assessment|Как лучший торговец отряда ({reg2}), {reg3?вы пытаетесь выбрать:{s1} пытается выбрать} самый выгодный товар. {s2}
+menu_sneak_into_town_suceeded|В одеждах паломника вы обманули стражу и вошли в город.
+menu_sneak_into_town_caught|Вы переоделись, но один из привратников вас узнал и поднял тревогу! Вам надо скрыться, пока сюда не сбежалась вся городская стража.
+mno_sneak_caught_fight|Прорываться с боем!
+mno_sneak_caught_surrender|Сдаться.
+menu_sneak_into_town_caught_dispersed_guards|Вы пробиваетесь через охрану и, предварительно запутав следы, легко теряете своих преследователей в лабиринте улиц.
+menu_sneak_into_town_caught_ran_away|Вы оставляете город позади и бежите прочь к безопасным холмам.
+menu_enemy_offer_ransom_for_prisoner|{s2} предлагает вам {reg12} динаров серебром, если {s1} будет отпущен из плена.
+mno_ransom_accept|Принять предложение.
+mno_ransom_reject|Отклонить предложение.
+menu_training_ground|Вы входите в учебный лагерь, который служит для развития военных навыков. Какой вид тренировки вас интересует?
+mno_camp_trainer|Поговорить с тренером.
+mno_camp_train_melee|Рукопашный бой.
+mno_camp_train_archery|Бой с оружием.
+mno_camp_train_mounted|Верховую езду.
+menu_training_ground_selection_details_melee_1|Выберите количество противников.
+mno_camp_train_melee_num_men_1|Один.
+mno_camp_train_melee_num_men_2|Два.
+mno_camp_train_melee_num_men_3|Три.
+mno_camp_train_melee_num_men_4|Четыре.
+menu_training_ground_selection_details_melee_2|Выберите соперника #{reg1}:
+mno_training_ground_selection_details_melee_random|Выбрать случайно.
+menu_training_ground_selection_details_mounted|Выберите вид оружия.
+mno_camp_train_mounted_details_1|Одноручное.
+mno_camp_train_mounted_details_2|Древковое.
+mno_camp_train_mounted_details_3|Лук.
+mno_camp_train_mounted_details_4|Метательное.
+menu_training_ground_selection_details_ranged_1|Укажите вид дистанционного оружия.
+mno_camp_train_ranged_weapon_bow|Лук и стрелы.
+mno_camp_train_ranged_weapon_crossbow|Арбалет.
+mno_camp_train_ranged_weapon_thrown|Метательные ножи.
+menu_training_ground_selection_details_ranged_2|Укажите дистанцию тренировки.
+mno_camp_train_ranged_details_1|10 ярдов
+mno_camp_train_ranged_details_2|20 ярдов
+mno_camp_train_ranged_details_3|30 ярдов
+mno_camp_train_ranged_details_4|40 ярдов
+mno_camp_train_ranged_details_5|50 ярдов
+mno_camp_train_ranged_details_6|60 ярдов
+mno_camp_train_ranged_details_7|70 ярдов
+menu_training_ground_description|{s0}
+menu_training_ground_training_result|{s7}{s2}
+menu_marshall_selection_candidate_ask|{s15} собирается назначить нового маршала в {s23}. Некоторые лорды предлагают вашу кандидатуру.
+mno_marshall_candidate_accept|Сообщить {s15} о своем желании стать маршалом.
+mno_marshall_candidate_reject|Сообщить всем, что в данный момент вы слишком заняты.
+menu_captivity_avoid_wilderness|Внезапно мир закружился и канул во тьму. Через несколько часов вы приходите в себя на том же месте, где упали. Ваши враги посчитали вас мертвым и бросили. Однако ни одна из ран не была смертельной и, несмотря на ужасное недомогание, вы понимаете, что все еще можете ходить. Вы встаете и пытаетесь найти хоть что-нибудь, что осталось от вашего отряда.
+menu_captivity_start_wilderness|Stub
+menu_captivity_start_wilderness_surrender|Stub
+menu_captivity_start_wilderness_defeat|Вы попали в плен.
+menu_captivity_start_castle_surrender|Stub
+menu_captivity_start_castle_defeat|Stub
+menu_captivity_start_under_siege_defeat|Вы попали в плен.
+menu_captivity_wilderness_taken_prisoner|Вы попали в плен.
+menu_captivity_wilderness_check|stub
+menu_captivity_end_wilderness_escape|После нескольких ужасных дней плена вам удалось сбежать от своих тюремщиков!
+menu_captivity_castle_taken_prisoner|Стражники окружили вас и обезоружили. С проклятиями и оскорблениями они бросили вас в темницу, где вы будете влачить жалкие дни плена.
+menu_captivity_rescue_lord_taken_prisoner|Вы старались как можно дольше остаться неузнанным, пока обман не раскрылся. Стражники избивают вас и бросают назад в камеру...
+menu_captivity_castle_check|stub
+menu_captivity_end_exchanged_with_prisoner|После долгого заключения вы обрели долгожданную свободу, когда ваши пленители обменяли вас на другого заключенного.
+menu_captivity_end_propose_ransom|Вы уже так долго сидите в сырой темнице, что даже время для вас остановилось. Внезапно перед вашей камерой останавливается один из тюремщиков, он предлагает освободить вас за выкуп в {reg5} динаров. Вы решаете...
+mno_captivity_end_ransom_accept|Принять их предложение.
+mno_captivity_end_ransom_deny|Ждать удобного случая.
+menu_captivity_castle_remain|Тянутся бесконечные дни плена. Вы отбываете срок в темной камере, где вам приходится терпеть нужду и презрительные насмешки надзирателей, и видеть, как ваше изможденное тело худеет все больше и больше...
+menu_kingdom_army_quest_report_to_army|{s8} желает, чтобы вы присоединились к {reg4?её:его} новому походу, и требует иметь в отряде как минимум {reg13} солдат. При необходимости вам следует как можно быстрее нанять их и обучить.
+menu_kingdom_army_quest_messenger|{s8} желает дать вам важное и срочное поручение. Вам следует явиться к нему как можно быстрее.
+menu_kingdom_army_quest_join_siege_order|{s8} желает, чтобы вы присоединились к осаде {s9} для подготовки общего наступления. Ваши солдаты должны взять {s9} любой ценой.
+menu_kingdom_army_follow_failed|Вы нарушили приказ следовать за {s8}. В гневе он выгнал вас из армии и строго предупредил, что не забудет ваш поступок.
+menu_invite_player_to_faction_without_center|Вам предложено поступить на службу!^^ {s8} из {s9} посылает королевского глашатая вручить грамоту вам лично в руки. Вам предоставлена честь стать {reg63?подданным:подданной} короны {s9}. В ответ {s8} просит вас дать ему клятву верности и биться под его знаменами, однако не предлагает никаких владений и титулов. Несомненно, он будет оскорблен, если вы ему откажете...
+mno_faction_accept|Принять.
+mno_faction_reject|Отклонить.
+menu_invite_player_to_faction|Вам предложено поступить на службу!^^ {s8} из {s9} посылает королевского глашатая вручить грамоту вам лично в руки. Вам предоставлена честь стать {reg63?подданным:подданной} короны {s9}. В ответ {s8} просит вас дать ему клятву верности и биться под его знаменами, и предлагает вам поместье {s2} за верную службу. Несомненно, он будет оскорблен, если вы ему откажете...
+menu_invite_player_to_faction_accepted|{s3} ждет вашего прибытия, чтобы принять присягу верности. Вы должны разыскать его и принести свою клятву лично. {s5}
+menu_question_peace_offer|Вам предлагают мирный договор^^{s1} предлагает вам заключить мир. Каков будет ваш ответ?
+mno_peace_offer_accept|Принять.
+mno_peace_offer_reject|Отклонить.
+menu_notification_truce_expired|Время перемирия истекло^^Перемирие между {s1} и {s2} подошло к концу.
+menu_notification_feast_quest_expired|{s10}
+menu_notification_sortie_possible|Замечен враг: недалеко от стен {s4} замечены войска противника. {s5} и другие защитники готовятся к вылазке. Вы можете к ним присоединиться.
+menu_notification_casus_belli_expired|Королевство не приняло ответных мер^^Держава {s1} не отреагировала на провокации {s2}, что пошатнуло репутацию {s3} в глазах {reg4?ее:его} более воинственных подданных...
+menu_notification_lord_defects|Измена: {s4} покинул {s5} и присоединился к {s7}, оставив {reg4?ее:его} владения у себя.
+menu_notification_treason_indictment|Обвинение в измене^^{s9}
+menu_notification_border_incident|Стычка на границе^^До вас дошли слухи о том, что {s9}. Доподлинно неизвестно, правда это или вымысел, но ясно одно: инцидент взбудоражил народ {s4}, что только провоцирует их пойти войной против {s3}, если они пожелают...
+menu_notification_player_faction_active|Теперь вы самостоятельный военный правитель и имеете собственные владения, не входящие в состав какого-либо королевства. Наслаждайтесь этой свободой, но знайте, что здешние короли будут не слишком любезны и попытаются при первой же возможности избавиться от вас. Жизнь без королевского покровительства может оказаться довольно трудной.
+mno_appoint_spouse|Назначить вашу жену {s10}...
+mno_appoint_npc_adonja|Назначить {s10}
+mno_appoint_npc_leslie|Назначить {s10}
+mno_appoint_npc_ansen|Назначить {s10}
+mno_appoint_npc_riva|Назначить {s10}
+mno_appoint_npc_kassim|Назначить {s10}
+mno_appoint_npc_lethaldiran|Назначить {s10}
+mno_appoint_npc_jocelyn|Назначить {s10}
+mno_appoint_npc_alistair|Назначить {s10}
+mno_appoint_npc_rayne|Назначить {s10}
+mno_appoint_npc_julia|Назначить {s10}
+mno_appoint_npc_frederick|Назначить {s10}
+mno_appoint_npc_ediz|Назначить {s10}
+mno_appoint_npc_sara|Назначить {s10}
+mno_appoint_npc_donavan|Назначить {s10}
+mno_appoint_npc_diev|Назначить {s10}
+mno_appoint_npc_alyssa|Назначить {s10}
+mno_appoint_npc_roland|Назначить {s10}
+mno_appoint_npc_kaverra|Назначить {s10}
+mno_appoint_npc_sigismund|Назначить {s10}
+mno_appoint_npc_boadice|Назначить {s10}
+mno_appoint_default|Назначить почтенного местного жителя...
+menu_minister_confirm|{s9} бывает при вашем дворе в {s12}. Вам следует регулярно беседовать, чтобы важные дела не накапливались. Помните: нерешенные вопросы могут подорвать ваш авторитет...
+menu_auto_name_stronghold|stub
+menu_auto_name_order|Долгой жизни ордену {s2} и его преданным {s3} и {s4}, основанному {s60} мудрым и достойным {s5}!
+menu_upgrade_screen|stub
+menu_notification_court_lost|{s12}
+menu_notification_player_faction_deactive|У вас больше нет владений.
+menu_notification_player_wedding_day|{s8} хочет рассказать, что подготовка к вашей свадьбе в {s10} завершена. Вам следует срочно туда явиться.
+menu_notification_player_kingdom_holds_feast|{s11}
+menu_notification_center_under_siege|{s2} из {s3} осадил {s1}!
+menu_notification_center_under_siege_special|{s1} находится под атакой {s2}!
+menu_notification_village_raided|Враги разорили поместье^^ {s2} из {s3} совершил набег на {s1}!
+menu_notification_village_raid_started|Нападение на деревню!^^{s2} из {s3} опустошает {s1}.
+menu_notification_one_faction_left|stub
+menu_notification_order_founded|stub
+menu_notification_oath_renounced_faction_defeated|Ваша старая фракция потерпела поражение^^ Вы выиграли сражение против {s1}! На этом заканчивается противостояние, начавшееся с вашего отказа от присяги.
+menu_notification_center_lost|Владение потеряно^^{s2} забирает у вас {s1}.
+menu_notification_center_sacked|{s2} разграбил {s1}, нападение отбито.
+menu_notification_troop_left_players_faction|Измена!^^{s1} покинул {s2} и присоединился к {s3}.
+menu_notification_troop_joined_players_faction|Хорошие новости!^^ {s1} покинул {s2} и присоединился к {s3}.
+menu_notification_war_declared|Объявление войны^^ {s1} объявило войну {s2}!
+menu_notification_peace_declared|Мирный договор^^ {s1} и {s2} приняли мирное соглашение!
+menu_notification_faction_defeated|Фракция уничтожена^^ {s1} больше не существует!
+menu_notification_rebels_switched_to_faction|Успешное восстание^^ Ваше восстание победоносно завершилось! Теперь ваша фракция единственный претендент на главенство в {s11}, а {s12} - единственный правитель.
+menu_notification_player_should_consult|Ваш советник пишет, что в оставленных без присмотра землях начинается брожение умов. Коли так пойдет и дальше, вы можете потерять авторитет. Постарайтесь встретиться с советником при первой же возможности.
+menu_notification_player_feast_in_progress|Подготовка к пиру^^Ваша жена начала готовить ваши покои в {s11} к празднику.
+menu_notification_lady_requests_visit|К вашей группе подошла женщина и передала одному из воинов запечатанное воском письмо. Оказалось, что послание предназначено вам. Сломав печать, вы узнали почерк {s15}. 'Прошлый раз был великолепен. {s14} Приезжайте в {s10} как можно скорее.{s12}'
+menu_garden|{s12}
+mno_nurse|Идти за няней.
+menu_kill_local_merchant_begin|Вы заметили нужного человека, когда он сворачивал в глухой переулок. Несомненно, это прекрасный шанс закончить дело.
+menu_debug_alert_from_s65|ОПОВЕЩЕНИЕ ОТЛАДКИ: {s65}
+menu_auto_return_to_map|stub
+menu_bandit_lair|{s3}
+mno_continue_1|Атаковать укрытие...
+mno_leave_no_attack|Уйти...
+mno_leave_victory|Продолжить...
+mno_leave_defeat|Продолжить...
+menu_notification_player_faction_political_issue_resolved|Посовещавшись с вельможами королевства, {s10} решил пожаловать {s12} {s11}.
+menu_notification_player_faction_political_issue_resolved_for_player|Посовещавшись с вельможами королевства, {s10} решил пожаловать вам {s11}. Вы можете отклонить честь, но возможно, после этого вы некоторое время не получите других наград.
+mno_accept|Принять честь.
+mno_decline|Отклонить честь.
+menu_start_phase_3|{s16}Вы снимаете комнатушку в первом попавшемся трактире города {s1} и тут же засыпаете. Проснувшись еще до рассвета, вы отправляетесь исследовать окрестности. Вы идете все дальше по безлюдным переулкам... Внезапно раздается звук, который заставляет вас насторожиться: звон клинка, извлекаемого из ножен...
+menu_start_phase_4|{s11}
+menu_lost_tavern_duel|{s11}
+menu_grandmaster_ambush_lost|Внезапная атака застала вас врасплох. Вы были повержены, и когда пришли в себя поняли, что предстоит самому искать ответы на возникшие вопросы.
+menu_grandmaster_ambush_won|Внезапная яростная атака культа Змеи была неожиданной, но вы и ваши орденские соратники отбили нападение и уничтожили врага. Теперь остается только гадать, с какой целью на вас напали.
+menu_establish_court|Для того чтобы разместить королевский двор в {s4}, нужно провести небольшие изменения. Для этого вам понадобятся инструменты и бархат. Также придется подождать, пока переедут ваши последователи. Продолжить?
+mno_establish|Выбрать {s4} для размещения королевского двора.
+menu_notification_relieved_as_marshal|{s4} хотел бы сообщить вам, что ваши услуги в качестве маршала больше не требуются. В честь доблестных усилий от имени королевства в течение последних {reg4} дней, {reg5?она:он} предлагает вам {reg5} динаров.
+menu_manage_loot_pool|{s10}^{s30}
+mno_auto_no_companions|У меня пока что нет компаньонов, чтобы раздать трофеи.
+mno_auto_loot|Позволить компаньонам выбрать снаряжение.
+mno_auto_loot_no|Недостаточно места в хранилище для авто-обмена снаряжения. 
+mno_prev|[Предыдущая страница]
+mno_next|[Следующая страница]
+mno_loot|Управление инвентарем.
+mno_companion1|Говорить с {s11}
+mno_companion2|Говорить с {s12}
+mno_companion3|Говорить с {s13}
+mno_companion4|Говорить с {s14}
+menu_access_companions_inventory|Получить доступ к инвентарю спутников.
+mno_companion5|{s15}
+mno_companion6|{s16}
+menu_achievement_notify|заглушка
+menu_ghostlady_knocked_out|Смертоносный писарь оказался очень хорош с мечом и, несмотря на ваши умения, он вас превзошел. Сознание вернулось к вам, когда солдаты вылили на вас немного холодной воды. На ваше раздраженное замечание, почему они не помогли вам убить писаря, они ответили, что это не входит в их обязанности. Писарь уплыл. Вы горько сожалеете, что правосудие так и не настигнет его, и все из-за вашего неумения.
+menu_heartbeat_quest|Вы получили срочное сообщение!^^ Ваш стюард, {s8} из {s2}, прислал вам срочное воззвание. Произошли события, которые требуют вашего вмешательства.^^ Он просит вас поторопиться с возвращением в {s2}.^ ^ Если вы отклоните его просьбу, могут быть нехорошие последствия...
+mno_heartbeat_quest_accept|Отправить ответное сообщение, что вы вскоре вернетесь!
+mno_heartbeat_quest_reject|Отклонить запрос, есть дела поважней.
+menu_choose_scenes_0|Выбрать сцену: (Страница 1 из 38)
+mno_choose_scene_0|
+mno_choose_scene_1|
+camp scene: generate|
+camp scene horse track: generate|
+mno_choose_scene_4|
+mno_choose_scene_5|
+mno_choose_scene_6|
+mno_choose_scene_7|
+mno_choose_scene_8|
+mno_choose_scene_9|
+mno_choose_scene_10|
+mno_choose_scene_11|
+mno_choose_scene_12|
+menu_choose_scenes_13|Выбрать сцену: (Страница 2 из 38)
+mno_previous|Предидущая...
+mno_choose_scene_13|
+mno_choose_scene_14|
+mno_choose_scene_15|
+mno_choose_scene_16|
+mno_choose_scene_17|
+mno_choose_scene_18|
+mno_choose_scene_19|
+mno_choose_scene_20|
+mno_choose_scene_21|
+mno_choose_scene_22|
+mno_choose_scene_23|
+mno_choose_scene_24|
+mno_choose_scene_25|
+menu_choose_scenes_26|Выбрать сцену: (Страница 3 из 38)
+mno_choose_scene_26|
+mno_choose_scene_27|
+mno_choose_scene_28|
+mno_choose_scene_29|
+mno_choose_scene_30|
+mno_choose_scene_31|
+mno_choose_scene_32|
+mno_choose_scene_33|
+mno_choose_scene_34|
+mno_choose_scene_35|
+mno_choose_scene_36|
+mno_choose_scene_37|
+mno_choose_scene_38|
+menu_choose_scenes_39|Выбрать сцену: (Страница 4 из 38)
+mno_choose_scene_39|
+mno_choose_scene_40|
+mno_choose_scene_41|
+mno_choose_scene_42|
+mno_choose_scene_43|
+mno_choose_scene_44|
+mno_choose_scene_45|
+mno_choose_scene_46|
+mno_choose_scene_47|
+mno_choose_scene_48|
+mno_choose_scene_49|
+mno_choose_scene_50|
+mno_choose_scene_51|
+menu_choose_scenes_52|Выбрать сцену: (Страница 5 из 38)
+mno_choose_scene_52|
+mno_choose_scene_53|
+mno_choose_scene_54|
+mno_choose_scene_55|
+mno_choose_scene_56|
+mno_choose_scene_57|
+mno_choose_scene_58|
+mno_choose_scene_59|
+mno_choose_scene_60|
+mno_choose_scene_61|
+mno_choose_scene_62|
+mno_choose_scene_63|
+mno_choose_scene_64|
+menu_choose_scenes_65|Выбрать сцену: (Страница 6 из 38)
+mno_choose_scene_65|
+mno_choose_scene_66|
+mno_choose_scene_67|
+mno_choose_scene_68|
+mno_choose_scene_69|
+mno_choose_scene_70|
+mno_choose_scene_71|
+mno_choose_scene_72|
+mno_choose_scene_73|
+mno_choose_scene_74|
+mno_choose_scene_75|
+mno_choose_scene_76|
+mno_choose_scene_77|
+menu_choose_scenes_78|Выбрать сцену: (Страница 7 из 38)
+mno_choose_scene_78|
+mno_choose_scene_79|
+mno_choose_scene_80|
+mno_choose_scene_81|
+mno_choose_scene_82|
+mno_choose_scene_83|
+mno_choose_scene_84|
+mno_choose_scene_85|
+mno_choose_scene_86|
+mno_choose_scene_87|
+mno_choose_scene_88|
+mno_choose_scene_89|
+mno_choose_scene_90|
+menu_choose_scenes_91|Выбрать сцену: (Страница 8 из 38)
+mno_choose_scene_91|
+mno_choose_scene_92|
+mno_choose_scene_93|
+mno_choose_scene_94|
+mno_choose_scene_95|
+mno_choose_scene_96|
+mno_choose_scene_97|
+mno_choose_scene_98|
+mno_choose_scene_99|
+mno_choose_scene_100|
+mno_choose_scene_101|
+mno_choose_scene_102|
+mno_choose_scene_103|
+menu_choose_scenes_104|Выбрать сцену: (Страница 9 из 38)
+mno_choose_scene_104|
+mno_choose_scene_105|
+mno_choose_scene_106|
+mno_choose_scene_107|
+mno_choose_scene_108|
+mno_choose_scene_109|
+mno_choose_scene_110|
+mno_choose_scene_111|
+mno_choose_scene_112|
+mno_choose_scene_113|
+mno_choose_scene_114|
+mno_choose_scene_115|
+mno_choose_scene_116|
+menu_choose_scenes_117|Выбрать сцену: (Страница 10 из 38)
+mno_choose_scene_117|
+mno_choose_scene_118|
+mno_choose_scene_119|
+mno_choose_scene_120|
+mno_choose_scene_121|
+mno_choose_scene_122|
+mno_choose_scene_123|
+mno_choose_scene_124|
+mno_choose_scene_125|
+mno_choose_scene_126|
+mno_choose_scene_127|
+mno_choose_scene_128|
+mno_choose_scene_129|
+menu_choose_scenes_130|Выбрать сцену: (Страница 11 из 38)
+mno_choose_scene_130|
+mno_choose_scene_131|
+mno_choose_scene_132|
+mno_choose_scene_133|
+mno_choose_scene_134|
+mno_choose_scene_135|
+mno_choose_scene_136|
+mno_choose_scene_137|
+mno_choose_scene_138|
+mno_choose_scene_139|
+mno_choose_scene_140|
+mno_choose_scene_141|
+mno_choose_scene_142|
+menu_choose_scenes_143|Выбрать сцену: (Страница 12 из 38)
+mno_choose_scene_143|
+mno_choose_scene_144|
+mno_choose_scene_145|
+mno_choose_scene_146|
+mno_choose_scene_147|
+mno_choose_scene_148|
+mno_choose_scene_149|
+mno_choose_scene_150|
+mno_choose_scene_151|
+mno_choose_scene_152|
+mno_choose_scene_153|
+mno_choose_scene_154|
+mno_choose_scene_155|
+menu_choose_scenes_156|Выбрать сцену: (Страница 13 из 38)
+mno_choose_scene_156|
+mno_choose_scene_157|
+mno_choose_scene_158|
+mno_choose_scene_159|
+mno_choose_scene_160|
+mno_choose_scene_161|
+mno_choose_scene_162|
+mno_choose_scene_163|
+mno_choose_scene_164|
+mno_choose_scene_165|
+mno_choose_scene_166|
+multi scene 18: generate|
+mno_choose_scene_168|
+menu_choose_scenes_169|Выбрать сцену: (Страница 14 из 38)
+mno_choose_scene_169|
+mno_choose_scene_170|
+mno_choose_scene_171|
+mno_choose_scene_172|
+mno_choose_scene_173|
+mno_choose_scene_174|
+mno_choose_scene_175|
+mno_choose_scene_176|
+mno_choose_scene_177|
+mno_choose_scene_178|
+mno_choose_scene_179|
+mno_choose_scene_180|
+mno_choose_scene_181|
+menu_choose_scenes_182|Выбрать сцену: (Страница 15 из 38)
+mno_choose_scene_182|
+mno_choose_scene_183|
+mno_choose_scene_184|
+mno_choose_scene_185|
+mno_choose_scene_186|
+mno_choose_scene_187|
+mno_choose_scene_188|
+mno_choose_scene_189|
+mno_choose_scene_190|
+mno_choose_scene_191|
+auto entry points|
+auto entry points|
+auto entry points|
+menu_choose_scenes_195|Выбрать сцену: (Страница 16 из 38)
+auto entry points|
+auto entry points|
+auto entry points|
+auto entry points|
+auto entry points|
+auto entry points|
+auto entry points|
+auto entry points|
+auto entry points|
+auto entry points|
+auto entry points|
+auto entry points|
+auto entry points|
+menu_choose_scenes_208|Выбрать сцену: (Страница 17 из 38)
+auto entry points|
+auto entry points|
+auto entry points|
+auto entry points|
+auto entry points|
+auto entry points|
+auto entry points|
+auto entry points|
+auto entry points|
+auto entry points|
+mno_choose_scene_218|
+mno_choose_scene_219|
+mno_choose_scene_220|
+menu_choose_scenes_221|Выбрать сцену: (Страница 18 из 38)
+mno_choose_scene_221|
+mno_choose_scene_222|
+mno_choose_scene_223|
+mno_choose_scene_224|
+mno_choose_scene_225|
+mno_choose_scene_226|
+mno_choose_scene_227|
+mno_choose_scene_228|
+mno_choose_scene_229|
+mno_choose_scene_230|
+mno_choose_scene_231|
+mno_choose_scene_232|
+mno_choose_scene_233|
+menu_choose_scenes_234|Выбрать сцену: (Страница 19 из 38)
+mno_choose_scene_234|
+mno_choose_scene_235|
+mno_choose_scene_236|
+mno_choose_scene_237|
+mno_choose_scene_238|
+mno_choose_scene_239|
+mno_choose_scene_240|
+mno_choose_scene_241|
+mno_choose_scene_242|
+mno_choose_scene_243|
+mno_choose_scene_244|
+mno_choose_scene_245|
+mno_choose_scene_246|
+menu_choose_scenes_247|Выбрать сцену: (Страница 20 из 38)
+mno_choose_scene_247|
+mno_choose_scene_248|
+mno_choose_scene_249|
+mno_choose_scene_250|
+mno_choose_scene_251|
+mno_choose_scene_252|
+mno_choose_scene_253|
+mno_choose_scene_254|
+mno_choose_scene_255|
+mno_choose_scene_256|
+mno_choose_scene_257|
+mno_choose_scene_258|
+mno_choose_scene_259|
+menu_choose_scenes_260|Выбрать сцену: (Страница 21 из 38)
+mno_choose_scene_260|
+mno_choose_scene_261|
+mno_choose_scene_262|
+mno_choose_scene_263|
+mno_choose_scene_264|
+mno_choose_scene_265|
+mno_choose_scene_266|
+mno_choose_scene_267|
+mno_choose_scene_268|
+mno_choose_scene_269|
+mno_choose_scene_270|
+mno_choose_scene_271|
+mno_choose_scene_272|
+menu_choose_scenes_273|Выбрать сцену: (Страница 22 из 38)
+mno_choose_scene_273|
+mno_choose_scene_274|
+mno_choose_scene_275|
+mno_choose_scene_276|
+mno_choose_scene_277|
+mno_choose_scene_278|
+mno_choose_scene_279|
+mno_choose_scene_280|
+mno_choose_scene_281|
+mno_choose_scene_282|
+mno_choose_scene_283|
+mno_choose_scene_284|
+mno_choose_scene_285|
+menu_choose_scenes_286|Выбрать сцену: (Страница 23 из 38)
+mno_choose_scene_286|
+mno_choose_scene_287|
+mno_choose_scene_288|
+mno_choose_scene_289|
+mno_choose_scene_290|
+mno_choose_scene_291|
+mno_choose_scene_292|
+mno_choose_scene_293|
+mno_choose_scene_294|
+mno_choose_scene_295|
+mno_choose_scene_296|
+mno_choose_scene_297|
+mno_choose_scene_298|
+menu_choose_scenes_299|Выбрать сцену: (Страница 24 из 38)
+mno_choose_scene_299|
+mno_choose_scene_300|
+mno_choose_scene_301|
+mno_choose_scene_302|
+mno_choose_scene_303|
+mno_choose_scene_304|
+mno_choose_scene_305|
+mno_choose_scene_306|
+mno_choose_scene_307|
+mno_choose_scene_308|
+mno_choose_scene_309|
+mno_choose_scene_310|
+mno_choose_scene_311|
+menu_choose_scenes_312|Выбрать сцену: (Страница 25 из 38)
+mno_choose_scene_312|
+mno_choose_scene_313|
+mno_choose_scene_314|
+mno_choose_scene_315|
+mno_choose_scene_316|
+mno_choose_scene_317|
+mno_choose_scene_318|
+mno_choose_scene_319|
+mno_choose_scene_320|
+mno_choose_scene_321|
+mno_choose_scene_322|
+mno_choose_scene_323|
+mno_choose_scene_324|
+menu_choose_scenes_325|Выбрать сцену: (Страница 26 из 38)
+mno_choose_scene_325|
+mno_choose_scene_326|
+mno_choose_scene_327|
+mno_choose_scene_328|
+mno_choose_scene_329|
+mno_choose_scene_330|
+mno_choose_scene_331|
+mno_choose_scene_332|
+mno_choose_scene_333|
+mno_choose_scene_334|
+mno_choose_scene_335|
+mno_choose_scene_336|
+mno_choose_scene_337|
+menu_choose_scenes_338|Выбрать сцену: (Страница 27 из 38)
+mno_choose_scene_338|
+mno_choose_scene_339|
+mno_choose_scene_340|
+mno_choose_scene_341|
+mno_choose_scene_342|
+mno_choose_scene_343|
+mno_choose_scene_344|
+mno_choose_scene_345|
+mno_choose_scene_346|
+mno_choose_scene_347|
+mno_choose_scene_348|
+mno_choose_scene_349|
+mno_choose_scene_350|
+menu_choose_scenes_351|Выбрать сцену: (Страница 28 из 38)
+mno_choose_scene_351|
+mno_choose_scene_352|
+mno_choose_scene_353|
+mno_choose_scene_354|
+mno_choose_scene_355|
+mno_choose_scene_356|
+mno_choose_scene_357|
+mno_choose_scene_358|
+mno_choose_scene_359|
+mno_choose_scene_360|
+mno_choose_scene_361|
+mno_choose_scene_362|
+mno_choose_scene_363|
+menu_choose_scenes_364|Выбрать сцену: (Страница 29 из 38)
+mno_choose_scene_364|
+mno_choose_scene_365|
+mno_choose_scene_366|
+mno_choose_scene_367|
+mno_choose_scene_368|
+mno_choose_scene_369|
+mno_choose_scene_370|
+mno_choose_scene_371|
+mno_choose_scene_372|
+mno_choose_scene_373|
+mno_choose_scene_374|
+mno_choose_scene_375|
+mno_choose_scene_376|
+menu_choose_scenes_377|Выбрать сцену: (Страница 30 из 38)
+mno_choose_scene_377|
+mno_choose_scene_378|
+mno_choose_scene_379|
+mno_choose_scene_380|
+mno_choose_scene_381|
+mno_choose_scene_382|
+mno_choose_scene_383|
+mno_choose_scene_384|
+mno_choose_scene_385|
+mno_choose_scene_386|
+mno_choose_scene_387|
+mno_choose_scene_388|
+mno_choose_scene_389|
+menu_choose_scenes_390|Выбрать сцену: (Страница 31 из 38)
+mno_choose_scene_390|
+mno_choose_scene_391|
+mno_choose_scene_392|
+mno_choose_scene_393|
+mno_choose_scene_394|
+mno_choose_scene_395|
+mno_choose_scene_396|
+mno_choose_scene_397|
+mno_choose_scene_398|
+mno_choose_scene_399|
+mno_choose_scene_400|
+mno_choose_scene_401|
+mno_choose_scene_402|
+menu_choose_scenes_403|Выбрать сцену: (Страница 32 из 38)
+mno_choose_scene_403|
+mno_choose_scene_404|
+mno_choose_scene_405|
+mno_choose_scene_406|
+mno_choose_scene_407|
+mno_choose_scene_408|
+mno_choose_scene_409|
+mno_choose_scene_410|
+mno_choose_scene_411|
+mno_choose_scene_412|
+mno_choose_scene_413|
+mno_choose_scene_414|
+mno_choose_scene_415|
+menu_choose_scenes_416|Выбрать сцену: (Страница 33 из 38)
+mno_choose_scene_416|
+mno_choose_scene_417|
+mno_choose_scene_418|
+mno_choose_scene_419|
+mno_choose_scene_420|
+mno_choose_scene_421|
+mno_choose_scene_422|
+mno_choose_scene_423|
+mno_choose_scene_424|
+mno_choose_scene_425|
+mno_choose_scene_426|
+mno_choose_scene_427|
+mno_choose_scene_428|
+menu_choose_scenes_429|Выбрать сцену: (Страница 34 из 38)
+mno_choose_scene_429|
+mno_choose_scene_430|
+mno_choose_scene_431|
+mno_choose_scene_432|
+mno_choose_scene_433|
+mno_choose_scene_434|
+mno_choose_scene_435|
+mno_choose_scene_436|
+mno_choose_scene_437|
+mno_choose_scene_438|
+mno_choose_scene_439|
+mno_choose_scene_440|
+mno_choose_scene_441|
+menu_choose_scenes_442|Выбрать сцену: (Страница 35 из 38)
+mno_choose_scene_442|
+mno_choose_scene_443|
+mno_choose_scene_444|
+mno_choose_scene_445|
+mno_choose_scene_446|
+mno_choose_scene_447|
+mno_choose_scene_448|
+mno_choose_scene_449|
+mno_choose_scene_450|
+mno_choose_scene_451|
+mno_choose_scene_452|
+mno_choose_scene_453|
+mno_choose_scene_454|
+menu_choose_scenes_455|Выбрать сцену: (Страница 36 из 38)
+mno_choose_scene_455|
+mno_choose_scene_456|
+mno_choose_scene_457|
+mno_choose_scene_458|
+mno_choose_scene_459|
+mno_choose_scene_460|
+mno_choose_scene_461|
+mno_choose_scene_462|
+mno_choose_scene_463|
+mno_choose_scene_464|
+mno_choose_scene_465|
+mno_choose_scene_466|
+mno_choose_scene_467|
+menu_choose_scenes_468|Выбрать сцену: (Страница 37 из 38)
+mno_choose_scene_468|
+mno_choose_scene_469|
+mno_choose_scene_470|
+mno_choose_scene_471|
+mno_choose_scene_472|
+mno_choose_scene_473|
+mno_choose_scene_474|
+mno_choose_scene_475|
+mno_choose_scene_476|
+mno_choose_scene_477|
+mno_choose_scene_478|
+mno_choose_scene_479|
+mno_choose_scene_480|
+menu_choose_scenes_481|Выбрать сцену: (Страница 38 из 38)
+mno_choose_scene_481|
+mno_choose_scene_482|
+mno_choose_scene_483|
+mno_choose_scene_484|
+mno_choose_scene_485|
+mno_choose_scene_486|
+mno_choose_scene_487|
+mno_choose_scene_488|
+mno_order_castle|Войти в замок ордена
+mno_castle_rest|Отдохнуть здесь некоторое время
+mno_castle_manage_garrison|Управлять гарнизоном
+mno_order_castle_inspect|Осмотреть замок

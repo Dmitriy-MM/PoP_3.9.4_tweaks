@@ -1,0 +1,3078 @@
+itm_no_item|INVALID ITEM
+itm_no_item_pl|INVALID ITEM
+itm_tutorial_spear|Копьё
+itm_tutorial_spear_pl|Копьё
+itm_tutorial_club|Дубинка
+itm_tutorial_club_pl|Дубинка
+itm_tutorial_battle_axe|Боевой топор
+itm_tutorial_battle_axe_pl|Боевой топор
+itm_tutorial_arrows|Стрелы
+itm_tutorial_arrows_pl|Стрелы
+itm_tutorial_bolts|Болты
+itm_tutorial_bolts_pl|Болты
+itm_tutorial_short_bow|Короткий лук
+itm_tutorial_short_bow_pl|Короткий лук
+itm_tutorial_crossbow|Арбалет
+itm_tutorial_crossbow_pl|Арбалет
+itm_tutorial_throwing_daggers|Метательные кинжалы
+itm_tutorial_throwing_daggers_pl|Метательные кинжалы
+itm_tutorial_saddle_horse|Верховой конь
+itm_tutorial_saddle_horse_pl|Верховой конь
+itm_tutorial_shield|Каплевидный щит
+itm_tutorial_shield_pl|Каплевидный щит
+itm_tutorial_staff_no_attack|Шест
+itm_tutorial_staff_no_attack_pl|Шест
+itm_tutorial_staff|Посох
+itm_tutorial_staff_pl|Посох
+itm_tutorial_sword|Меч
+itm_tutorial_sword_pl|Меч
+itm_tutorial_axe|Топор
+itm_tutorial_axe_pl|Топор
+itm_tutorial_dagger|Кинжал
+itm_tutorial_dagger_pl|Кинжал
+itm_horse_meat|Конина
+itm_horse_meat_pl|Конина
+itm_practice_sword|Тренировочный меч
+itm_practice_sword_pl|Тренировочный меч
+itm_heavy_practice_sword|Тяжёлый тренировочный меч
+itm_heavy_practice_sword_pl|Тяжёлый тренировочный меч
+itm_practice_dagger|Тренировочный кинжал
+itm_practice_dagger_pl|Тренировочный кинжал
+itm_practice_axe|Тренировочный топор
+itm_practice_axe_pl|Тренировочный топор
+itm_arena_axe|Топор
+itm_arena_axe_pl|Топор
+itm_arena_sword|Меч
+itm_arena_sword_pl|Меч
+itm_arena_sword_two_handed|Двуручный меч
+itm_arena_sword_two_handed_pl|Двуручный меч
+itm_arena_lance|Кавалерийское копьё
+itm_arena_lance_pl|Кавалерийское копьё
+itm_practice_staff|Тренировочный шест
+itm_practice_staff_pl|Тренировочный шест
+itm_practice_lance|Тренировочное кавалерийское копьё
+itm_practice_lance_pl|Тренировочное кавалерийское копьё
+itm_practice_shield|Тренировочный щит
+itm_practice_shield_pl|Тренировочный щит
+itm_practice_bow|Тренировочный лук
+itm_practice_bow_pl|Тренировочный лук
+itm_practice_crossbow|Тренировочный арбалет
+itm_practice_crossbow_pl|Тренировочный арбалет
+itm_practice_javelin|Тренировочные дротики
+itm_practice_javelin_pl|Тренировочные дротики
+itm_practice_javelin_melee|Тренировочный дротик (для ближнего боя)
+itm_practice_javelin_melee_pl|Тренировочный дротик (для ближнего боя)
+itm_practice_throwing_daggers|Метательные кинжалы
+itm_practice_throwing_daggers_pl|Метательные кинжалы
+itm_practice_throwing_daggers_100_amount|Метательные кинжалы
+itm_practice_throwing_daggers_100_amount_pl|Метательные кинжалы
+itm_practice_horse|Тренировочный конь
+itm_practice_horse_pl|Тренировочный конь
+itm_practice_arrows|Тренировочные стрелы
+itm_practice_arrows_pl|Тренировочные стрелы
+itm_practice_bolts|Тренировочные болты
+itm_practice_bolts_pl|Тренировочные болты
+itm_practice_arrows_10_amount|Тренировочные стрелы
+itm_practice_arrows_10_amount_pl|Тренировочные стрелы
+itm_practice_arrows_100_amount|Тренировочные стрелы
+itm_practice_arrows_100_amount_pl|Тренировочные стрелы
+itm_practice_bolts_9_amount|Тренировочные болты
+itm_practice_bolts_9_amount_pl|Тренировочные болты
+itm_practice_boots|Тренировочные сапоги
+itm_practice_boots_pl|Тренировочные сапоги
+itm_red_tourney_armor|Красная турнирная броня
+itm_red_tourney_armor_pl|Красная турнирная броня
+itm_blue_tourney_armor|Голубая турнирная броня
+itm_blue_tourney_armor_pl|Голубая турнирная броня
+itm_green_tourney_armor|Зелёная турнирная броня
+itm_green_tourney_armor_pl|Зелёная турнирная броня
+itm_gold_tourney_armor|Золотая турнирная броня
+itm_gold_tourney_armor_pl|Золотая турнирная броня
+itm_red_tourney_helmet|Красный турнирный шлем
+itm_red_tourney_helmet_pl|Красный турнирный шлем
+itm_blue_tourney_helmet|Голубой турнирный шлем
+itm_blue_tourney_helmet_pl|Голубой турнирный шлем
+itm_green_tourney_helmet|Зелёный турнирный шлем
+itm_green_tourney_helmet_pl|Зелёный турнирный шлем
+itm_gold_tourney_helmet|Золотой турнирный шлем
+itm_gold_tourney_helmet_pl|Золотой турнирный шлем
+itm_arena_shield_red|Красный щит
+itm_arena_shield_red_pl|Красный щит
+itm_arena_shield_blue|Синий щит
+itm_arena_shield_blue_pl|Синий щит
+itm_arena_shield_green|Зелёный щит
+itm_arena_shield_green_pl|Зелёный щит
+itm_arena_shield_yellow|Жёлтый щит
+itm_arena_shield_yellow_pl|Жёлтый щит
+itm_arena_armor_white|Белая броня арены
+itm_arena_armor_white_pl|Белая броня арены
+itm_arena_armor_red|Красная броня арены
+itm_arena_armor_red_pl|Красная броня арены
+itm_arena_armor_blue|Синяя броня арены
+itm_arena_armor_blue_pl|Синяя броня арены
+itm_arena_armor_green|Зелёная броня арены
+itm_arena_armor_green_pl|Зелёная броня арены
+itm_arena_armor_yellow|Жёлтая броня арены
+itm_arena_armor_yellow_pl|Жёлтая броня арены
+itm_arena_tunic_white|Белая туника арены
+itm_arena_tunic_white_pl|Белая туника арены
+itm_arena_tunic_red|Красная туника арены
+itm_arena_tunic_red_pl|Красная туника арены
+itm_arena_tunic_blue|Синяя туника арены
+itm_arena_tunic_blue_pl|Синяя туника арены
+itm_arena_tunic_green|Зелёная туника арены
+itm_arena_tunic_green_pl|Зелёная туника арены
+itm_arena_tunic_yellow|Жёлтая туника арены
+itm_arena_tunic_yellow_pl|Жёлтая туника арены
+itm_arena_helmet_red|Красный шлем арены
+itm_arena_helmet_red_pl|Красный шлем арены
+itm_arena_helmet_blue|Синий шлем арены
+itm_arena_helmet_blue_pl|Синий шлем арены
+itm_arena_helmet_green|Зелёный шлем арены
+itm_arena_helmet_green_pl|Зелёный шлем арены
+itm_arena_helmet_yellow|Жёлтый шлем арены
+itm_arena_helmet_yellow_pl|Жёлтый шлем арены
+itm_steppe_helmet_white|Белый степной шлем
+itm_steppe_helmet_white_pl|Белый степной шлем
+itm_steppe_helmet_red|Красный степной шлем
+itm_steppe_helmet_red_pl|Красный степной шлем
+itm_steppe_helmet_blue|Синий степной шлем
+itm_steppe_helmet_blue_pl|Синий степной шлем
+itm_steppe_helmet_green|Зелёный степной шлем
+itm_steppe_helmet_green_pl|Зелёный степной шлем
+itm_steppe_helmet_yellow|Жёлтый степной шлем
+itm_steppe_helmet_yellow_pl|Жёлтый степной шлем
+itm_tourney_helm_white|Белый турнирный шлем
+itm_tourney_helm_white_pl|Белый турнирный шлем
+itm_tourney_helm_red|Красный турнирный шлем
+itm_tourney_helm_red_pl|Красный турнирный шлем
+itm_tourney_helm_blue|Синий турнирный шлем
+itm_tourney_helm_blue_pl|Синий турнирный шлем
+itm_tourney_helm_green|Зелёный турнирный шлем
+itm_tourney_helm_green_pl|Зелёный турнирный шлем
+itm_tourney_helm_yellow|Жёлтый турнирный шлем
+itm_tourney_helm_yellow_pl|Жёлтый турнирный шлем
+itm_book_tactics|Воспоминания военачальника Пендора
+itm_book_tactics_pl|Воспоминания военачальника Пендора
+itm_book_persuasion|Прикладная риторика - Том I
+itm_book_persuasion_pl|Прикладная риторика - Том I
+itm_book_leadership|Великие правители Пендора
+itm_book_leadership_pl|Великие правители Пендора
+itm_book_intelligence|Высокие искусства - Том MV
+itm_book_intelligence_pl|Высокие искусства - Том MV
+itm_book_trade|Жизнь Чёрного Лиса
+itm_book_trade_pl|Жизнь Чёрного Лиса
+itm_book_weapon_mastery|Справочник фехтовальщика с картинками
+itm_book_weapon_mastery_pl|Справочник фехтовальщика с картинками
+itm_book_engineering|Передовая механика: Кодекс Дак Дроммена
+itm_book_engineering_pl|Передовая механика: Кодекс Дак Дроммена
+itm_book_wound_treatment_reference|Полный справочник лечебных трав Пендора
+itm_book_wound_treatment_reference_pl|Полный справочник лечебных трав Пендора
+itm_book_training_reference|Жизнь легионера - записки центуриона
+itm_book_training_reference_pl|Жизнь легионера - записки центуриона
+itm_book_surgery_reference|Справочник полевого хирурга
+itm_book_surgery_reference_pl|Справочник полевого хирурга
+itm_spice|Пряности
+itm_spice_pl|Пряности
+itm_salt|Соль
+itm_salt_pl|Соль
+itm_oil|Масло
+itm_oil_pl|Масло
+itm_pottery|Керамика
+itm_pottery_pl|Керамика
+itm_raw_flax|Сноп льна
+itm_raw_flax_pl|Сноп льна
+itm_linen|Ткань
+itm_linen_pl|Ткань
+itm_wool|Шерсть
+itm_wool_pl|Шерсть
+itm_wool_cloth|Шерстяная ткань
+itm_wool_cloth_pl|Шерстяная ткань
+itm_raw_silk|Шёлк-сырец
+itm_raw_silk_pl|Шёлк-сырец
+itm_raw_dyes|Краска
+itm_raw_dyes_pl|Краска
+itm_velvet|Бархат
+itm_velvet_pl|Бархат
+itm_iron|Железо
+itm_iron_pl|Железо
+itm_tools|Инструменты
+itm_tools_pl|Инструменты
+itm_raw_leather|Шкуры
+itm_raw_leather_pl|Шкуры
+itm_leatherwork|Изделия из кожи
+itm_leatherwork_pl|Изделия из кожи
+itm_raw_date_fruit|Финики
+itm_raw_date_fruit_pl|Финики
+itm_furs|Меха
+itm_furs_pl|Меха
+itm_wine|Вино
+itm_wine_pl|Вино
+itm_ale|Эль
+itm_ale_pl|Эль
+itm_smoked_fish|Копчёная рыба
+itm_smoked_fish_pl|Копчёная рыба
+itm_cheese|Сыр
+itm_cheese_pl|Сыр
+itm_honey|Мёд
+itm_honey_pl|Мёд
+itm_sausages|Колбаса
+itm_sausages_pl|Колбаса
+itm_cabbages|Капуста
+itm_cabbages_pl|Капуста
+itm_dried_meat|Вяленое мясо
+itm_dried_meat_pl|Вяленое мясо
+itm_apples|Фрукты
+itm_apples_pl|Фрукты
+itm_raw_grapes|Виноград
+itm_raw_grapes_pl|Виноград
+itm_raw_olives|Оливки
+itm_raw_olives_pl|Оливки
+itm_grain|Пшеница
+itm_grain_pl|Пшеница
+itm_cattle_meat|Говядина
+itm_cattle_meat_pl|Говядина
+itm_bread|Хлеб
+itm_bread_pl|Хлеб
+itm_chicken|Куры
+itm_chicken_pl|Куры
+itm_pork|Свинина
+itm_pork_pl|Свинина
+itm_butter|Сметана
+itm_butter_pl|Сметана
+itm_baggage_train|Вещевой обоз
+itm_baggage_train_pl|Вещевой обоз
+itm_siege_supply|Провиант
+itm_siege_supply_pl|Провиант
+itm_quest_wine|Вино
+itm_quest_wine_pl|Вино
+itm_quest_ale|Эль
+itm_quest_ale_pl|Эль
+itm_gold|Золотой слиток
+itm_gold_pl|Золотой слиток
+itm_qualis|Драгоценный камень Куалис
+itm_qualis_pl|Драгоценный камень Куалис
+itm_noldor_goods|Нолдорские товары
+itm_noldor_goods_pl|Нолдорские товары
+itm_loot|Разное барахло
+itm_loot_pl|Разное барахло
+itm_diamond_small|Маленький мешочек с драгоценностями.
+itm_diamond_small_pl|Маленький мешочек с драгоценностями.
+itm_diamond_medium|Средний мешочек с драгоценностями.
+itm_diamond_medium_pl|Средний мешочек с драгоценностями.
+itm_diamond_large|Большой мешочек с драгоценностями.
+itm_diamond_large_pl|Большой мешочек с драгоценностями.
+itm_book_heretic|Еретическое писание
+itm_book_heretic_pl|Еретическое писание
+itm_book_snake|Ритуалы культа Змеи
+itm_book_snake_pl|Ритуалы культа Змеи
+itm_book_noldor_1|Кодекс чести рейнджера
+itm_book_noldor_1_pl|Кодекс чести рейнджера
+itm_book_noldor_2|Украденные записи Лучиана из Итоса
+itm_book_noldor_2_pl|Украденные записи Лучиана из Итоса
+itm_book_noldor_3|Эбеновый манускрипт Ларии
+itm_book_noldor_3_pl|Эбеновый манускрипт Ларии
+itm_book_noldor_end|Noldor Books End
+itm_book_noldor_end_pl|Noldor Books End
+itm_book_old_diary|Ветхая книга
+itm_book_old_diary_pl|Ветхая книга
+itm_horse_armor|Старая броня коня
+itm_horse_armor_pl|Старая броня коня
+itm_horse_for_armor|Пендорский королевский конь
+itm_horse_for_armor_pl|Пендорский королевский конь
+itm_lyre|Лира
+itm_lyre_pl|Лира
+itm_lute|Лютня
+itm_lute_pl|Лютня
+itm_dedal_kufel|Куфель
+itm_dedal_kufel_pl|Куфель
+itm_dedal_lutnia|Лютня
+itm_dedal_lutnia_pl|Лютня
+itm_dedal_lira|Лира
+itm_dedal_lira_pl|Лира
+itm_rav_helmet_red|Равенстернский красный шлем
+itm_rav_helmet_red_pl|Равенстернский красный шлем
+itm_rav_helmet_blue|Равенстернский синий шлем
+itm_rav_helmet_blue_pl|Равенстернский синий шлем
+itm_rav_helmet_green|Равенстернский зелёный шлем
+itm_rav_helmet_green_pl|Равенстернский зелёный шлем
+itm_rav_helmet_yellow|Равенстернский жёлтый шлем
+itm_rav_helmet_yellow_pl|Равенстернский жёлтый шлем
+itm_empire_helmet_red|Имперский красный шлем
+itm_empire_helmet_red_pl|Имперский красный шлем
+itm_empire_helmet_blue|Имперский синий шлем
+itm_empire_helmet_blue_pl|Имперский синий шлем
+itm_empire_helmet_green|Имперский зелёный шлем
+itm_empire_helmet_green_pl|Имперский зелёный шлем
+itm_empire_helmet_yellow|Имперский жёлтый шлем
+itm_empire_helmet_yellow_pl|Имперский жёлтый шлем
+itm_practice_lance_red|Турнирное копьё
+itm_practice_lance_red_pl|Турнирное копьё
+itm_practice_lance_blue|Турнирное копьё
+itm_practice_lance_blue_pl|Турнирное копьё
+itm_practice_lance_green|Турнирное копьё
+itm_practice_lance_green_pl|Турнирное копьё
+itm_practice_lance_yellow|Турнирное копьё
+itm_practice_lance_yellow_pl|Турнирное копьё
+itm_sumpter_horse|Вьючный конь
+itm_sumpter_horse_pl|Вьючный конь
+itm_saddle_horse|Верховой конь
+itm_saddle_horse_pl|Верховой конь
+itm_dshar_saddle_horse|Верховой конь Д'шар
+itm_dshar_saddle_horse_pl|Верховой конь Д'шар
+itm_steppe_horse|Степной конь
+itm_steppe_horse_pl|Степной конь
+itm_courser|Рысак
+itm_courser_pl|Рысак
+itm_dark_steppe|Тёмный степной конь
+itm_dark_steppe_pl|Тёмный степной конь
+itm_grey_courser|Серый рысак
+itm_grey_courser_pl|Серый рысак
+itm_gold_courser|Златогривый рысак
+itm_gold_courser_pl|Златогривый рысак
+itm_grey_steppe|Серый степной рысак
+itm_grey_steppe_pl|Серый степной рысак
+itm_melitine_hunter2|Мелитайнский гунтер
+itm_melitine_hunter2_pl|Мелитайнский гунтер
+itm_hunter|Гунтер
+itm_hunter_pl|Гунтер
+itm_white_hunter|Гунтер с белой попоной
+itm_white_hunter_pl|Гунтер с белой попоной
+itm_red_hunter|Гунтер с красной попоной
+itm_red_hunter_pl|Гунтер с красной попоной
+itm_green_hunter|Гунтер с зелёной попоной
+itm_green_hunter_pl|Гунтер с зелёной попоной
+itm_dshar_courser|Рысак Д'Шар
+itm_dshar_courser_pl|Рысак Д'Шар
+itm_blue_hunter|Гунтер с синей попоной
+itm_blue_hunter_pl|Гунтер с синей попоной
+itm_burgundy_hunter|Гунтер с бордовой попоной
+itm_burgundy_hunter_pl|Гунтер с бордовой попоной
+itm_yellow_hunter|Гунтер с жёлтой попоной
+itm_yellow_hunter_pl|Гунтер с жёлтой попоной
+itm_black_hunter|Гунтер с чёрной попоной
+itm_black_hunter_pl|Гунтер с чёрной попоной
+itm_melitine_hunter|Мелитайнский андравидский жеребец
+itm_melitine_hunter_pl|Мелитайнский андравидский жеребец
+itm_darksteel_hunter|Тёмно-серый гунтер
+itm_darksteel_hunter_pl|Тёмно-серый гунтер
+itm_ornate_warhorse|Боевой конь с изысканно украшенной попоной
+itm_ornate_warhorse_pl|Боевой конь с изысканно украшенной попоной
+itm_dun_hunter|Тёмно-коричневый гунтер
+itm_dun_hunter_pl|Тёмно-коричневый гунтер
+itm_sarleon_hunter|Сарлеонский гунтер
+itm_sarleon_hunter_pl|Сарлеонский гунтер
+itm_empire_hunter|Имперский тёмный гунтер
+itm_empire_hunter_pl|Имперский тёмный гунтер
+itm_warhorse|Боевой конь
+itm_warhorse_pl|Боевой конь
+itm_melitine_arm_hunter|Мелитайнский чистокровный в доспехе
+itm_melitine_arm_hunter_pl|Мелитайнский чистокровный в доспехе
+itm_cropped_hunter|Подстриженный гунтер
+itm_cropped_hunter_pl|Подстриженный гунтер
+itm_empire_warbred|Имперский гунтер
+itm_empire_warbred_pl|Имперский гунтер
+itm_wellbred_hunter|Чистокровный гунтер
+itm_wellbred_hunter_pl|Чистокровный гунтер
+itm_jatu_hunter|Гунтер Джату
+itm_jatu_hunter_pl|Гунтер Джату
+itm_charger|Дестриэ
+itm_charger_pl|Дестриэ
+itm_horse_veccavi|Викавийский боевой конь с попоной
+itm_horse_veccavi_pl|Викавийский боевой конь с попоной
+itm_war_horse_ravenstern|Равенстернский боевой конь с попоной
+itm_war_horse_ravenstern_pl|Равенстернский боевой конь с попоной
+itm_draped_warhorse_brown|Боевой конь с кожаной попоной
+itm_draped_warhorse_brown_pl|Боевой конь с кожаной попоной
+itm_falcon_warhorse|Боевой конь Сокола
+itm_falcon_warhorse_pl|Боевой конь Сокола
+itm_dark_stallion|Имперский тёмный жеребец
+itm_dark_stallion_pl|Имперский тёмный жеребец
+itm_draped_warhorse_grey|Боевой конь с серой попоной
+itm_draped_warhorse_grey_pl|Боевой конь с серой попоной
+itm_phoenix_sergeants_horse|Боевой конь с попоной Феникса
+itm_phoenix_sergeants_horse_pl|Боевой конь с попоной Феникса
+itm_draped_leather_horse|Боевой конь с кожаной попоной
+itm_draped_leather_horse_pl|Боевой конь с кожаной попоной
+itm_golden_warhorse|Боевой конь Золотого Оленя
+itm_golden_warhorse_pl|Боевой конь Золотого Оленя
+itm_dshar_armored_hunter|Бронированный гунтер Д'Шар
+itm_dshar_armored_hunter_pl|Бронированный гунтер Д'Шар
+itm_draped_warhorse_green|Боевой конь с зелёной кожаной попоной
+itm_draped_warhorse_green_pl|Боевой конь с зелёной кожаной попоной
+itm_draped_warhorse_blue|Боевой конь с голубой кожаной попоной
+itm_draped_warhorse_blue_pl|Боевой конь с голубой кожаной попоной
+itm_war_horse_burgundy|Боевой конь с бордовой попоной
+itm_war_horse_burgundy_pl|Боевой конь с бордовой попоной
+itm_dark_silver_warhorse|Тёмно-серебристый боевой конь
+itm_dark_silver_warhorse_pl|Тёмно-серебристый боевой конь
+itm_draped_warhorse_white|Боевой конь с белой попоной
+itm_draped_warhorse_white_pl|Боевой конь с белой попоной
+itm_silver_stallion|Имперский серебристый жеребец
+itm_silver_stallion_pl|Имперский серебристый жеребец
+itm_jatu_warhorse|Боевой конь Джату
+itm_jatu_warhorse_pl|Боевой конь Джату
+itm_konigur_steed|Рысак конунга Фирдсвейна
+itm_konigur_steed_pl|Рысак конунга Фирдсвейна
+itm_warhorse_steppe|Степной боевой конь Джату
+itm_warhorse_steppe_pl|Степной боевой конь Джату
+itm_draped_warhorse_black|Боевой конь с чёрной кожаной попоной
+itm_draped_warhorse_black_pl|Боевой конь с чёрной кожаной попоной
+itm_draped_warhorse_yellow|Боевой конь с жёлтой попоной
+itm_draped_warhorse_yellow_pl|Боевой конь с жёлтой попоной
+itm_gryphon_warhorse|Боевой конь Грифона
+itm_gryphon_warhorse_pl|Боевой конь Грифона
+itm_larian_caspian|Ларийский мерин
+itm_larian_caspian_pl|Ларийский мерин
+itm_griffon_warhorse|Боевой конь Грифона
+itm_griffon_warhorse_pl|Боевой конь Грифона
+itm_marleons_highbreed|Марлеонский высокородный
+itm_marleons_highbreed_pl|Марлеонский высокородный
+itm_draped_warhorse_red|Боевой конь с красной кожаной попоной
+itm_draped_warhorse_red_pl|Боевой конь с красной кожаной попоной
+itm_phoenix_knight_horse|Рысак Феникса
+itm_phoenix_knight_horse_pl|Рысак Феникса
+itm_falcon_warsteed|Рысак Белого Сокола
+itm_falcon_warsteed_pl|Рысак Белого Сокола
+itm_timothy_steed|Рысак Единорога
+itm_timothy_steed_pl|Рысак Единорога
+itm_crimson_charger|Дестриэ с тёмно-малиновой попоной
+itm_crimson_charger_pl|Дестриэ с тёмно-малиновой попоной
+itm_lion_warhorse|Боевой конь Льва
+itm_lion_warhorse_pl|Боевой конь Льва
+itm_ironbred_stallion_1|Выносливый дестриэ
+itm_ironbred_stallion_1_pl|Выносливый дестриэ
+itm_warhorse_sarranid|Пустынный боевой конь
+itm_warhorse_sarranid_pl|Пустынный боевой конь
+itm_ironbred_stallion_2|Выносливый жеребцец
+itm_ironbred_stallion_2_pl|Выносливый жеребцец
+itm_jatu_warbeast|Боевой зверь Джату
+itm_jatu_warbeast_pl|Боевой зверь Джату
+itm_armored_warhorse_ravenstern|Равенстернский бронированный боевой конь
+itm_armored_warhorse_ravenstern_pl|Равенстернский бронированный боевой конь
+itm_armored_warhorse_sarleon|Сарлеонский бронированный боевой конь
+itm_armored_warhorse_sarleon_pl|Сарлеонский бронированный боевой конь
+itm_armored_warhorse_pendor|Пендорский королевский конь
+itm_armored_warhorse_pendor_pl|Пендорский королевский конь
+itm_noldor_pony_horse|Нолдорский степной конь
+itm_noldor_pony_horse_pl|Нолдорский степной конь
+itm_noldor_dark_horse|Нолдорский тёмный боевой конь
+itm_noldor_dark_horse_pl|Нолдорский тёмный боевой конь
+itm_noldor_grey_horse|Нолдорский серый боевой конь
+itm_noldor_grey_horse_pl|Нолдорский серый боевой конь
+itm_noldor_gold_horse|Нолдорский золотистый боевой конь
+itm_noldor_gold_horse_pl|Нолдорский золотистый боевой конь
+itm_noldor_spirit_horse|Конь духа нолдоров
+itm_noldor_spirit_horse_pl|Конь духа нолдоров
+itm_hyper_horse|Рысак Комета
+itm_hyper_horse_pl|Рысак Комета
+itm_netherworld_charger|Адский дестриэ
+itm_netherworld_charger_pl|Адский дестриэ
+itm_demon_charger|Демонический дестриэ
+itm_demon_charger_pl|Демонический дестриэ
+itm_fallen_horse|Павший конь
+itm_fallen_horse_pl|Павший конь
+itm_pilgrim_disguise|Одеяние пилигрима
+itm_pilgrim_disguise_pl|Одеяние пилигрима
+itm_pilgrim_hood|Капюшон пилигрима
+itm_pilgrim_hood_pl|Капюшон пилигрима
+itm_bride_dress|Свадебное платье
+itm_bride_dress_pl|Свадебное платье
+itm_bride_crown|Свадебный венок
+itm_bride_crown_pl|Свадебный венок
+itm_bride_shoes|Свадебные туфельки
+itm_bride_shoes_pl|Свадебные туфельки
+itm_dress|Платье
+itm_dress_pl|Платье
+itm_blue_dress|Синее платье
+itm_blue_dress_pl|Синее платье
+itm_peasant_dress|Крестьянское платье
+itm_peasant_dress_pl|Крестьянское платье
+itm_woolen_dress|Шерстяное платье
+itm_woolen_dress_pl|Шерстяное платье
+itm_lady_dress_ruby|Дамское платье
+itm_lady_dress_ruby_pl|Дамское платье
+itm_lady_dress_green|Дамское платье
+itm_lady_dress_green_pl|Дамское платье
+itm_lady_dress_blue|Дамское платье
+itm_lady_dress_blue_pl|Дамское платье
+itm_red_dress|Красное платье
+itm_red_dress_pl|Красное платье
+itm_brown_dress|Коричневое платье
+itm_brown_dress_pl|Коричневое платье
+itm_green_dress|Зелёное платье
+itm_green_dress_pl|Зелёное платье
+itm_khergit_lady_dress|Дамское платье Д'Шар
+itm_khergit_lady_dress_pl|Дамское платье Д'Шар
+itm_khergit_lady_dress_b|Кожаное дамское платье Д'Шар
+itm_khergit_lady_dress_b_pl|Кожаное дамское платье Д'Шар
+itm_court_dress|Придворное платье
+itm_court_dress_pl|Придворное платье
+itm_orange_dress|Богатое платье Д'Шар
+itm_orange_dress_pl|Богатое платье Д'Шар
+itm_blue_sarranid_dress|Синее платье
+itm_blue_sarranid_dress_pl|Синее платье
+itm_gold_pattern_dress|Красное богатое платье
+itm_gold_pattern_dress_pl|Красное богатое платье
+itm_khaki_dress|Хаки платье
+itm_khaki_dress_pl|Хаки платье
+itm_fur_lined_coat_over_armor|Изысканное платье
+itm_fur_lined_coat_over_armor_pl|Изысканное платье
+itm_dshar_dress_1|Пурпурное платье Д'Шар
+itm_dshar_dress_1_pl|Пурпурное платье Д'Шар
+itm_dshar_dress_2|Чёрное платье Д'Шар
+itm_dshar_dress_2_pl|Чёрное платье Д'Шар
+itm_dshar_dress_3|Коричневое платье Д'Шар
+itm_dshar_dress_3_pl|Коричневое платье Д'Шар
+itm_dshar_dress_4|Оранжевое платье Д'Шар
+itm_dshar_dress_4_pl|Оранжевое платье Д'Шар
+itm_lady_dress_a_syrian1|Бежевое дамское платье
+itm_lady_dress_a_syrian1_pl|Бежевое дамское платье
+itm_lady_dress_a_syrian2|Кроваво красное дамское платье
+itm_lady_dress_a_syrian2_pl|Кроваво красное дамское платье
+itm_lady_dress_a_syrian3|Фисташковое дамское платье
+itm_lady_dress_a_syrian3_pl|Фисташковое дамское платье
+itm_lady_dress_a_syrian4|Голубое дамское платье
+itm_lady_dress_a_syrian4_pl|Голубое дамское платье
+itm_lady_dress_lysa_style_1|Темно-красное дамское платье
+itm_lady_dress_lysa_style_1_pl|Темно-красное дамское платье
+itm_lady_dress_lysa_style_2|Темно-зеленое дамское платье
+itm_lady_dress_lysa_style_2_pl|Темно-зеленое дамское платье
+itm_lady_dress_lysa_style_3|Изумрудное дамское платье
+itm_lady_dress_lysa_style_3_pl|Изумрудное дамское платье
+itm_lady_dress_lysa_style_4|Аквамариновое дамское платье
+itm_lady_dress_lysa_style_4_pl|Аквамариновое дамское платье
+itm_lady_dress_lysa_style_5|Пышное оранжевое дамское платье
+itm_lady_dress_lysa_style_5_pl|Пышное оранжевое дамское платье
+itm_lady_dress_lysa_style_6|Черное дамское платье
+itm_lady_dress_lysa_style_6_pl|Черное дамское платье
+itm_lady_dress_sansa_style_1|Красное дамское платье
+itm_lady_dress_sansa_style_1_pl|Красное дамское платье
+itm_lady_dress_sansa_style_2|Голубое дамское платье
+itm_lady_dress_sansa_style_2_pl|Голубое дамское платье
+itm_lady_dress_sansa_style_3|Рыжеватое дамское платье
+itm_lady_dress_sansa_style_3_pl|Рыжеватое дамское платье
+itm_lady_dress_sansa_style_4|Оливковое дамское платье
+itm_lady_dress_sansa_style_4_pl|Оливковое дамское платье
+itm_lady_dress_sansa_style_5|Пурпурное дамское платье
+itm_lady_dress_sansa_style_5_pl|Пурпурное дамское платье
+itm_lady_dress_sansa_style_6|Пышное дамское платье
+itm_lady_dress_sansa_style_6_pl|Пышное дамское платье
+itm_lady_dress_sansa_style_7|Напудренное голубое дамское платье
+itm_lady_dress_sansa_style_7_pl|Напудренное голубое дамское платье
+itm_lady_dress_margaery_style_1|Красно-бежевое дамское платье
+itm_lady_dress_margaery_style_1_pl|Красно-бежевое дамское платье
+itm_lady_dress_margaery_style_2|Оранжево-бежевое дамское платье
+itm_lady_dress_margaery_style_2_pl|Оранжево-бежевое дамское платье
+itm_lady_dress_margaery_style_3|Чирково-пастельное дамское платье
+itm_lady_dress_margaery_style_3_pl|Чирково-пастельное дамское платье
+itm_lady_dress_margaery_style_4|Темно-голубое дамское платье
+itm_lady_dress_margaery_style_4_pl|Темно-голубое дамское платье
+itm_lady_dress_margaery_style_5|Светло-голубое дамское платье
+itm_lady_dress_margaery_style_5_pl|Светло-голубое дамское платье
+itm_lady_dress_margaery_style_6|Алое дамское платье
+itm_lady_dress_margaery_style_6_pl|Алое дамское платье
+itm_lady_dress_margaery_style_7|Дамское платье со шлейфом
+itm_lady_dress_margaery_style_7_pl|Дамское платье со шлейфом
+itm_lady_dress_margaery_style_8|Бирюзовое дамское платье
+itm_lady_dress_margaery_style_8_pl|Бирюзовое дамское платье
+itm_lady_dress_margaery_style_9|Дамское платье цвета волны
+itm_lady_dress_margaery_style_9_pl|Дамское платье цвета волны
+itm_lady_dress_margaery_style_10|Светло-серое дамское платье
+itm_lady_dress_margaery_style_10_pl|Светло-серое дамское платье
+itm_lady_dress_margaery_style_11|Базиликовое дамское платье
+itm_lady_dress_margaery_style_11_pl|Базиликовое дамское платье
+itm_nobleman_outfit|Дворянский костюм
+itm_nobleman_outfit_pl|Дворянский костюм
+itm_leather_jacket|Кожаная куртка
+itm_leather_jacket_pl|Кожаная куртка
+itm_darkgreen_clothing1|Темно-зеленая одежда
+itm_darkgreen_clothing1_pl|Темно-зеленая одежда
+itm_leather_jacket_acok|Кожаная куртка
+itm_leather_jacket_acok_pl|Кожаная куртка
+itm_grey_clothing|Серая одежда
+itm_grey_clothing_pl|Серая одежда
+itm_bookseller_vest1|Кожаная туника продавца книг
+itm_bookseller_vest1_pl|Кожаная туника продавца книг
+itm_bookseller_vest2|Кожаная туника продавца книг
+itm_bookseller_vest2_pl|Кожаная туника продавца книг
+itm_robe|Роба
+itm_robe_pl|Роба
+itm_sarleon_clothing1|Сарлеонская одежда
+itm_sarleon_clothing1_pl|Сарлеонская одежда
+itm_sarleon_clothing2|Сарлеонская одежда с эмблемой
+itm_sarleon_clothing2_pl|Сарлеонская одежда с эмблемой
+itm_sarleon_clothing3|Сарлеонская одежда сквайра
+itm_sarleon_clothing3_pl|Сарлеонская одежда сквайра
+itm_tabard|Табард
+itm_tabard_pl|Табард
+itm_common_clothing2|Обычная одежда
+itm_common_clothing2_pl|Обычная одежда
+itm_merchant_outfit_2|Одежда торговца
+itm_merchant_outfit_2_pl|Одежда торговца
+itm_red_shirt|Красная рубаха
+itm_red_shirt_pl|Красная рубаха
+itm_red_tunic|Красная туника
+itm_red_tunic_pl|Красная туника
+itm_studded_leather_hauberk|Клёпаный кожаный хауберк
+itm_studded_leather_hauberk_pl|Клёпаный кожаный хауберк
+itm_sarleon_clothing4|Одежда сквайра
+itm_sarleon_clothing4_pl|Одежда сквайра
+itm_leather_coat|Кожаная куртка
+itm_leather_coat_pl|Кожаная куртка
+itm_leather02|Коричневая подбитая кожаная одежда
+itm_leather02_pl|Коричневая подбитая кожаная одежда
+itm_leather04|Красно-синяя подбитая кожаная одежда
+itm_leather04_pl|Красно-синяя подбитая кожаная одежда
+itm_leather_armor|Кожаная броня
+itm_leather_armor_pl|Кожаная броня
+itm_padded_leather|Кожаная стёганка
+itm_padded_leather_pl|Кожаная стёганка
+itm_leather07|Красная подбитая кожаная одежда
+itm_leather07_pl|Красная подбитая кожаная одежда
+itm_leather_sarleon|Сарлеонская кожаная одежда с кольчугой
+itm_leather_sarleon_pl|Сарлеонская кожаная одежда с кольчугой
+itm_padded_leather_brown|Бело-красная подбитая кожаная одежда
+itm_padded_leather_brown_pl|Бело-красная подбитая кожаная одежда
+itm_padded_striped_sar|Сарлеонская подбитая кожаная одежда
+itm_padded_striped_sar_pl|Сарлеонская подбитая кожаная одежда
+itm_ravenstern_clothing2|Равенстернская одежда
+itm_ravenstern_clothing2_pl|Равенстернская одежда
+itm_ravenstern_clothing1|Равенстернская одежда с плащом
+itm_ravenstern_clothing1_pl|Равенстернская одежда с плащом
+itm_ravenstern_clothing3|Равенстернская одежда с эмблемой
+itm_ravenstern_clothing3_pl|Равенстернская одежда с эмблемой
+itm_merchant_outfit|Купеческий костюм
+itm_merchant_outfit_pl|Купеческий костюм
+itm_blue_tunic|Синяя туника
+itm_blue_tunic_pl|Синяя туника
+itm_rawhide_coat|Куртка из сыромятной кожи
+itm_rawhide_coat_pl|Куртка из сыромятной кожи
+itm_fur_coat|Меховая куртка
+itm_fur_coat_pl|Меховая куртка
+itm_ragged_outfit|Рваный костюм
+itm_ragged_outfit_pl|Рваный костюм
+itm_tribal_warrior_outfit|Костюм племенных воинов
+itm_tribal_warrior_outfit_pl|Костюм племенных воинов
+itm_leather05|Синяя подбитая кожаная одежда
+itm_leather05_pl|Синяя подбитая кожаная одежда
+itm_leather06|Сине-белая подбитая кожаная одежда
+itm_leather06_pl|Сине-белая подбитая кожаная одежда
+itm_studded_leather_coat|Клёпаная кожаная куртка
+itm_studded_leather_coat_pl|Клёпаная кожаная куртка
+itm_noblefur_clothing1|Дворянская меховая одежда
+itm_noblefur_clothing1_pl|Дворянская меховая одежда
+itm_fur_clothing1|Волчья меховая одежда
+itm_fur_clothing1_pl|Волчья меховая одежда
+itm_fur_clothing2|Светло-коричневая меховая одежда
+itm_fur_clothing2_pl|Светло-коричневая меховая одежда
+itm_dshar_noble_clothing1|Дворянская одежда Д'шар
+itm_dshar_noble_clothing1_pl|Дворянская одежда Д'шар
+itm_dshar_clothing2|Яркая одежда Д'шар
+itm_dshar_clothing2_pl|Яркая одежда Д'шар
+itm_dshar_clothing1|Одежда Д'шар
+itm_dshar_clothing1_pl|Одежда Д'шар
+itm_nomad_vest|Жилет кочевника
+itm_nomad_vest_pl|Жилет кочевника
+itm_gold_purple_clothing1|Золотая с фиолетовым одежда
+itm_gold_purple_clothing1_pl|Золотая с фиолетовым одежда
+itm_noble_clothing2|Зеленая дорогая одежда
+itm_noble_clothing2_pl|Зеленая дорогая одежда
+itm_padded_cloth|Акетон
+itm_padded_cloth_pl|Акетон
+itm_steppe_armor|Степная броня
+itm_steppe_armor_pl|Степная броня
+itm_northern_clothing1|Усиленная западная одежда
+itm_northern_clothing1_pl|Усиленная западная одежда
+itm_nomad_robe|Одеяние кочевника
+itm_nomad_robe_pl|Одеяние кочевника
+itm_khergit_armor|Броня Д'Шар
+itm_khergit_armor_pl|Броня Д'Шар
+itm_nomad_armor|Броня кочевника
+itm_nomad_armor_pl|Броня кочевника
+itm_dshar_robe_c|Коричневая роба кочевника
+itm_dshar_robe_c_pl|Коричневая роба кочевника
+itm_dshar_robe_a|Роба кочевника с золотым плетением
+itm_dshar_robe_a_pl|Роба кочевника с золотым плетением
+itm_dshar_robe_d|Роба кочевника с золотым плетением
+itm_dshar_robe_d_pl|Роба кочевника с золотым плетением
+itm_dshar_armor_leather|Кожаная одежда Д'Шар
+itm_dshar_armor_leather_pl|Кожаная одежда Д'Шар
+itm_dshar_clothing_on_mail|Южная роба поверх кольчуги
+itm_dshar_clothing_on_mail_pl|Южная роба поверх кольчуги
+itm_dshar_clothing3|Полосатая одежда Д'Шар
+itm_dshar_clothing3_pl|Полосатая одежда Д'Шар
+itm_dshar_clothing4|Богатая одежда Д'Шар
+itm_dshar_clothing4_pl|Богатая одежда Д'Шар
+itm_fierdsvain_clothing1|Одежда Фирдсвейна
+itm_fierdsvain_clothing1_pl|Одежда Фирдсвейна
+itm_fierdsvain_clothing2|Зеленая одежда Фирдсвейна
+itm_fierdsvain_clothing2_pl|Зеленая одежда Фирдсвейна
+itm_clothing_scale_fierdsvain1|Одежда Фирдсвейна с кольчугой
+itm_clothing_scale_fierdsvain1_pl|Одежда Фирдсвейна с кольчугой
+itm_clothing_scale_fierdsvain3|Стеганка Фирдсвейна
+itm_clothing_scale_fierdsvain3_pl|Стеганка Фирдсвейна
+itm_common_clothing3|Обычная кожаная куртка
+itm_common_clothing3_pl|Обычная кожаная куртка
+itm_rich_outfit|Роскошный костюм
+itm_rich_outfit_pl|Роскошный костюм
+itm_green_tunic|Зелёная туника
+itm_green_tunic_pl|Зелёная туника
+itm_fierdsvain_clothing3|Равенстернская одежда
+itm_fierdsvain_clothing3_pl|Равенстернская одежда
+itm_aketon_green|Стёганка
+itm_aketon_green_pl|Стёганка
+itm_leather_jerkin|Кожаная безрукавка
+itm_leather_jerkin_pl|Кожаная безрукавка
+itm_clan_leather_fier|Одежда кланов Фирдсвейна
+itm_clan_leather_fier_pl|Одежда кланов Фирдсвейна
+itm_padded_tunic_1|Стеганая туника
+itm_padded_tunic_1_pl|Стеганая туника
+itm_padded_tunic_2|Стеганая кожаная одежда Фирдсвейна
+itm_padded_tunic_2_pl|Стеганая кожаная одежда Фирдсвейна
+itm_padded_tunic_3|Стеганая кожаная одежда Фирдсвейна
+itm_padded_tunic_3_pl|Стеганая кожаная одежда Фирдсвейна
+itm_padded_tunic_4|Подбитая кожаная одежда Фирдсвейна
+itm_padded_tunic_4_pl|Подбитая кожаная одежда Фирдсвейна
+itm_clothing_empire_citizen|Одежда гражданина Империи
+itm_clothing_empire_citizen_pl|Одежда гражданина Империи
+itm_empire_buckled_leather|кожаная одежда с пряжками Империи
+itm_empire_buckled_leather_pl|кожаная одежда с пряжками Империи
+itm_tabard_padded1|Серый стеганный табард
+itm_tabard_padded1_pl|Серый стеганный табард
+itm_short_tunic|Роскошная туника
+itm_short_tunic_pl|Роскошная туника
+itm_shirt|Рубаха
+itm_shirt_pl|Рубаха
+itm_linen_tunic|Льняная туника
+itm_linen_tunic_pl|Льняная туника
+itm_common_clothing4|Туника торговца
+itm_common_clothing4_pl|Туника торговца
+itm_common_clothing1|Обычная одежда
+itm_common_clothing1_pl|Обычная одежда
+itm_empire_padded_shirt|Имперская стёганая рубаха
+itm_empire_padded_shirt_pl|Имперская стёганая рубаха
+itm_empire_leather_vest|Имперский кожаный жилет
+itm_empire_leather_vest_pl|Имперский кожаный жилет
+itm_tabard_worn_red|Изношенный красный табард
+itm_tabard_worn_red_pl|Изношенный красный табард
+itm_empire_leather_on_fabric|Имперский кожаный жилет
+itm_empire_leather_on_fabric_pl|Имперский кожаный жилет
+itm_empire_leather_jacket|Имперский кожаный жакет
+itm_empire_leather_jacket_pl|Имперский кожаный жакет
+itm_common_clothing5|Кожаная куртка
+itm_common_clothing5_pl|Кожаная куртка
+itm_leather_vest|Кожаный жилет
+itm_leather_vest_pl|Кожаный жилет
+itm_gambeson|Гамбезон
+itm_gambeson_pl|Гамбезон
+itm_blue_gambeson|Синий гамбезон
+itm_blue_gambeson_pl|Синий гамбезон
+itm_red_gambeson|Красный гамбезон
+itm_red_gambeson_pl|Красный гамбезон
+itm_travel_clothing1|Одежда путешественника
+itm_travel_clothing1_pl|Одежда путешественника
+itm_coarse_tunic|Туника с жилетом
+itm_coarse_tunic_pl|Туника с жилетом
+itm_leather_coat_dark|Темный кожаный жилет
+itm_leather_coat_dark_pl|Темный кожаный жилет
+itm_travel_clothing_green|Зелёная одежда путешественника
+itm_travel_clothing_green_pl|Зелёная одежда путешественника
+itm_leather01|Тёмное кожаное платье
+itm_leather01_pl|Тёмное кожаное платье
+itm_leather03|Зелёная прошитая кожаная одежда
+itm_leather03_pl|Зелёная прошитая кожаная одежда
+itm_light_leather|Лёгкая кожаная броня
+itm_light_leather_pl|Лёгкая кожаная броня
+itm_leather08|Коричневая прошитая кожаная одежда
+itm_leather08_pl|Коричневая прошитая кожаная одежда
+itm_lamellar_plate_01|Клановая броня
+itm_lamellar_plate_01_pl|Клановая броня
+itm_noble_clothing1|Дворянская одежда
+itm_noble_clothing1_pl|Дворянская одежда
+itm_noble_clothing3|Дворянская одежда
+itm_noble_clothing3_pl|Дворянская одежда
+itm_leather_lady1|Мастерская кожаная броня
+itm_leather_lady1_pl|Мастерская кожаная броня
+itm_white_gambeson_d|Белая стеганная кожаная одежда
+itm_white_gambeson_d_pl|Белая стеганная кожаная одежда
+itm_heavy_leather|Тяжёлая кожаная одежда
+itm_heavy_leather_pl|Тяжёлая кожаная одежда
+itm_leather_apron|Кожаный фартук
+itm_leather_apron_pl|Кожаный фартук
+itm_noldor_clothing_1|Нолдорская одежда
+itm_noldor_clothing_1_pl|Нолдорская одежда
+itm_noldor_clothing_2|Нолдорская благородная одежда
+itm_noldor_clothing_2_pl|Нолдорская благородная одежда
+itm_dshar_robe_assassin|Роба ассасина
+itm_dshar_robe_assassin_pl|Роба ассасина
+itm_lamellar_vest|Ламеллярный жилет
+itm_lamellar_vest_pl|Ламеллярный жилет
+itm_byrnie|Бирни
+itm_byrnie_pl|Бирни
+itm_haubergeon|Хаубержон
+itm_haubergeon_pl|Хаубержон
+itm_brigandine_red|Красная бригантина
+itm_brigandine_red_pl|Красная бригантина
+itm_hera_brigandine_b|Геральдическая бригантина
+itm_hera_brigandine_b_pl|Геральдическая бригантина
+itm_plate_brig_armor|Чёрный латно-бригантинный доспех
+itm_plate_brig_armor_pl|Чёрный латно-бригантинный доспех
+itm_plate_brig_armor_cape|Чёрный латно-бригантинный доспех с плащом
+itm_plate_brig_armor_cape_pl|Чёрный латно-бригантинный доспех с плащом
+itm_hera_brig_plate_black|Геральдическая бригантина
+itm_hera_brig_plate_black_pl|Геральдическая бригантина
+itm_lamellar_armor|Ламеллярный доспех
+itm_lamellar_armor_pl|Ламеллярный доспех
+itm_scale_armor|Чешуйчатый доспех
+itm_scale_armor_pl|Чешуйчатый доспех
+itm_banded_armor|Покрытая кожей кольчуга
+itm_banded_armor_pl|Покрытая кожей кольчуга
+itm_cuir_bouilli|Покрытая варёной кожей кольчуга
+itm_cuir_bouilli_pl|Покрытая варёной кожей кольчуга
+itm_hera_cuir_bouilli_a|Геральдическая покрытая кожей кольчуга
+itm_hera_cuir_bouilli_a_pl|Геральдическая покрытая кожей кольчуга
+itm_coat_of_plates|Пластинчатый доспех
+itm_coat_of_plates_pl|Пластинчатый доспех
+itm_coat_of_plates_red|Пластинчатый доспех
+itm_coat_of_plates_red_pl|Пластинчатый доспех
+itm_dark_byrnie|Тёмный бирни
+itm_dark_byrnie_pl|Тёмный бирни
+itm_dark_reinf_jerkin|Стянутая ремнями кольчужная куртка
+itm_dark_reinf_jerkin_pl|Стянутая ремнями кольчужная куртка
+itm_dark_chain_armor|Тёмная кольчужная куртка
+itm_dark_chain_armor_pl|Тёмная кольчужная куртка
+itm_coatplates|Пластинчатый доспех
+itm_coatplates_pl|Пластинчатый доспех
+itm_mail_archer_hauberk|Кольчужно-кожаный хауберк стрелка
+itm_mail_archer_hauberk_pl|Кольчужно-кожаный хауберк стрелка
+itm_plate_harness_yellow|Жёлтые пластинчатые латы
+itm_plate_harness_yellow_pl|Жёлтые пластинчатые латы
+itm_barclay_plate|Барклайский кольчато-пластинчатый доспех
+itm_barclay_plate_pl|Барклайский кольчато-пластинчатый доспех
+itm_breastplate_on_plain|Кираса поверх стёганки
+itm_breastplate_on_plain_pl|Кираса поверх стёганки
+itm_tunic_padded1|Светло-коричневая стеганая туника
+itm_tunic_padded1_pl|Светло-коричневая стеганая туника
+itm_squire_outfit_northern1|Одежда северных сквайров
+itm_squire_outfit_northern1_pl|Одежда северных сквайров
+itm_dark_std_lthr_coat|Стянутый ремнями клёпаный кожаный хауберк
+itm_dark_std_lthr_coat_pl|Стянутый ремнями клёпаный кожаный хауберк
+itm_surcoat_brown_padded|Коричневый стёганый сюрко
+itm_surcoat_brown_padded_pl|Коричневый стёганый сюрко
+itm_tunic_padded2|Стёганая туника
+itm_tunic_padded2_pl|Стёганая туника
+itm_monk_robe_padded|Стёганая бело-чёрная туника
+itm_monk_robe_padded_pl|Стёганая бело-чёрная туника
+itm_sellsword_armor|Кожанная по кольчуге одежда 
+itm_sellsword_armor_pl|Кожанная по кольчуге одежда 
+itm_breastplate_mail_1|Кираса по кольчуге
+itm_breastplate_mail_1_pl|Кираса по кольчуге
+itm_breastplate_mail_1_cape|Кираса по кольчуге с плащом
+itm_breastplate_mail_1_cape_pl|Кираса по кольчуге с плащом
+itm_breastplate_mail_2|Кираса по кольчуге с килтом
+itm_breastplate_mail_2_pl|Кираса по кольчуге с килтом
+itm_plate_armor_northern1|Северная латная броня
+itm_plate_armor_northern1_pl|Северная латная броня
+itm_breastplate_mail_gold_ornate|Украшенная золотом латная броня
+itm_breastplate_mail_gold_ornate_pl|Украшенная золотом латная броня
+itm_burnished_heavy_armor|Воронёная тяжёлая броня
+itm_burnished_heavy_armor_pl|Воронёная тяжёлая броня
+itm_griffon_plate|Пластинчатые латы Грифона
+itm_griffon_plate_pl|Пластинчатые латы Грифона
+itm_griffon_plate_cape|Пластинчатые латы Грифона с плащом
+itm_griffon_plate_cape_pl|Пластинчатые латы Грифона с плащом
+itm_plate_armor|Латный доспех
+itm_plate_armor_pl|Латный доспех
+itm_plate_armor_polished1|Полированный латный доспех
+itm_plate_armor_polished1_pl|Полированный латный доспех
+itm_plate_armor_polished1_cape|Полированный латный доспех с плащом
+itm_plate_armor_polished1_cape_pl|Полированный латный доспех с плащом
+itm_plate_madame_light|Лёгкий латный доспех
+itm_plate_madame_light_pl|Лёгкий латный доспех
+itm_dawn_plate|Пластинчатые латы рыцарей Рассвета
+itm_dawn_plate_pl|Пластинчатые латы рыцарей Рассвета
+itm_dawn_plate_cape|Пластинчатые латы рыцарей Рассвета с плащом
+itm_dawn_plate_cape_pl|Пластинчатые латы рыцарей Рассвета с плащом
+itm_pendor_ornate_armor|Пендорский изысканно украшенный латный доспех
+itm_pendor_ornate_armor_pl|Пендорский изысканно украшенный латный доспех
+itm_pendor_ornate_armor_cape|Пендорский латный доспех с плащом
+itm_pendor_ornate_armor_cape_pl|Пендорский латный доспех с плащом
+itm_plate_studded_pauldron|Латы с шипованными наплечниками
+itm_plate_studded_pauldron_pl|Латы с шипованными наплечниками
+itm_plate_studded_pauldron_cape|Южная пластинчатая броня с плащом
+itm_plate_studded_pauldron_cape_pl|Южная пластинчатая броня с плащом
+itm_marleons_plate_normal|Марлеонские латы
+itm_marleons_plate_normal_pl|Марлеонские латы
+itm_imperial_armor|Имперский тяжёлый доспех
+itm_imperial_armor_pl|Имперский тяжёлый доспех
+itm_immortal_armor|Доспех Бессмертных
+itm_immortal_armor_pl|Доспех Бессмертных
+itm_coat_plates_black|Чёрный пластинчатый доспех
+itm_coat_plates_black_pl|Чёрный пластинчатый доспех
+itm_coat_plates_blue|Синий пластинчатый доспех
+itm_coat_plates_blue_pl|Синий пластинчатый доспех
+itm_coat_plates_green|Зелёный пластинчатый доспех
+itm_coat_plates_green_pl|Зелёный пластинчатый доспех
+itm_coat_plates_red|Красный пластинчатый доспех
+itm_coat_plates_red_pl|Красный пластинчатый доспех
+itm_coat_plates_yellow|Жёлтый пластинчатый доспех
+itm_coat_plates_yellow_pl|Жёлтый пластинчатый доспех
+itm_platemail_harness_whitegreen|Западный кольчужно-латный доспех
+itm_platemail_harness_whitegreen_pl|Западный кольчужно-латный доспех
+itm_red_platemail|Красный кольчужно-латный доспех
+itm_red_platemail_pl|Красный кольчужно-латный доспех
+itm_red_platemail_cape|Красный кольчужно-латный доспех с плащом
+itm_red_platemail_cape_pl|Красный кольчужно-латный доспех с плащом
+itm_dark_blue_platemail|Тёмно-синий кольчужно-латный доспех
+itm_dark_blue_platemail_pl|Тёмно-синий кольчужно-латный доспех
+itm_dark_blue_platemail_cape|Тёмно-синий кольчужно-латный доспех с плащом
+itm_dark_blue_platemail_cape_pl|Тёмно-синий кольчужно-латный доспех с плащом
+itm_plate_harness_dragon|Пластинчатые латы Дракона
+itm_plate_harness_dragon_pl|Пластинчатые латы Дракона
+itm_plate_harness_dragon_cape|Пластинчатые латы Дракона с плащом
+itm_plate_harness_dragon_cape_pl|Пластинчатые латы Дракона с плащом
+itm_plate_harness_green|Зелёные пластинчатые латы
+itm_plate_harness_green_pl|Зелёные пластинчатые латы
+itm_plate_harness_white|Белые пластинчатые латы
+itm_plate_harness_white_pl|Белые пластинчатые латы
+itm_plate_harness_white_cape|Белые пластинчатые латы с плащом
+itm_plate_harness_white_cape_pl|Белые пластинчатые латы с плащом
+itm_plate_harness_unicorn|Пластинчатые латы Единорога
+itm_plate_harness_unicorn_pl|Пластинчатые латы Единорога
+itm_plate_harness_unicorn_cape|Пластинчатые латы Единорога с плащом
+itm_plate_harness_unicorn_cape_pl|Пластинчатые латы Единорога с плащом
+itm_marleons_plate_ornate|Изысканно украшенный марлеонский латный доспех
+itm_marleons_plate_ornate_pl|Изысканно украшенный марлеонский латный доспех
+itm_marleons_plate_ornate_cape|Марлеонский латный доспех с плащом
+itm_marleons_plate_ornate_cape_pl|Марлеонский латный доспех с плащом
+itm_pendor_old_harness|Тяжёлые пластинчатые латы старого Пендора
+itm_pendor_old_harness_pl|Тяжёлые пластинчатые латы старого Пендора
+itm_pendor_old_harness_cape|Тяжёлые пластинчатые латы Пендора с плащом
+itm_pendor_old_harness_cape_pl|Тяжёлые пластинчатые латы Пендора с плащом
+itm_heraldic_harness|Геральдический кольчужно-латный доспех
+itm_heraldic_harness_pl|Геральдический кольчужно-латный доспех
+itm_royal_platemail|Королевский кольчужно-латный доспех
+itm_royal_platemail_pl|Королевский кольчужно-латный доспех
+itm_breastplate_mail_falcon|Золотая броня Валькирий
+itm_breastplate_mail_falcon_pl|Золотая броня Валькирий
+itm_ebony_gauntlet_armor|Тяжёлый латный доспех Эбеновой перчатки
+itm_ebony_gauntlet_armor_pl|Тяжёлый латный доспех Эбеновой перчатки
+itm_plate_armor_pendor1|Латы рыцарей Пендора
+itm_plate_armor_pendor1_pl|Латы рыцарей Пендора
+itm_plate_armor_pendor1_cape|Латы рыцарей Пендора с плащом
+itm_plate_armor_pendor1_cape_pl|Латы рыцарей Пендора с плащом
+itm_heraldic_plate|Геральдический латный доспех
+itm_heraldic_plate_pl|Геральдический латный доспех
+itm_pendor_old_armor|Тяжёлый латный доспех старого Пендора
+itm_pendor_old_armor_pl|Тяжёлый латный доспех старого Пендора
+itm_pendor_old_armor_cape|Тяжёлый латный доспех Пендора с плащом
+itm_pendor_old_armor_cape_pl|Тяжёлый латный доспех Пендора с плащом
+itm_plate_madame_azure|Лазурные латы
+itm_plate_madame_azure_pl|Лазурные латы
+itm_plate_madame_azure_cape|Лазурные латы с плащом
+itm_plate_madame_azure_cape_pl|Лазурные латы с плащом
+itm_breastplate_mail_silver_ornate|Украшенные серебром латы
+itm_breastplate_mail_silver_ornate_pl|Украшенные серебром латы
+itm_breastplate_mail_silver_ornate_cape|Украшенные серебром латы с плащом
+itm_breastplate_mail_silver_ornate_cape_pl|Украшенные серебром латы с плащом
+itm_mett_plate|Меттенхаймский латный доспех
+itm_mett_plate_pl|Меттенхаймский латный доспех
+itm_mett_plate_cape|Меттенхаймский латный доспех с плащом
+itm_mett_plate_cape_pl|Меттенхаймский латный доспех с плащом
+itm_full_plate_armor|Полные латы
+itm_full_plate_armor_pl|Полные латы
+itm_ebony_platemail|Эбеновый кольчужно-латный доспех
+itm_ebony_platemail_pl|Эбеновый кольчужно-латный доспех
+itm_ebony_platemail_cape|Эбеновый кольчужно-латный доспех с плащом
+itm_ebony_platemail_cape_pl|Эбеновый кольчужно-латный доспех с плащом
+itm_forlorn_plate|Тяжёлый латный доспех меттенхаймских Обреченных
+itm_forlorn_plate_pl|Тяжёлый латный доспех меттенхаймских Обреченных
+itm_platemail_26_kraken|Латы Кракена
+itm_platemail_26_kraken_pl|Латы Кракена
+itm_platemail_26_red|Красные латы
+itm_platemail_26_red_pl|Красные латы
+itm_platemail_26_blue|Голубые латы
+itm_platemail_26_blue_pl|Голубые латы
+itm_platemail_26_whiteblack|Черно-белые латы
+itm_platemail_26_whiteblack_pl|Черно-белые латы
+itm_platemail_26_goldpurple|Пурпурно-золотые латы
+itm_platemail_26_goldpurple_pl|Пурпурно-золотые латы
+itm_platemail_26_bluegrey|Серо-голубые латы
+itm_platemail_26_bluegrey_pl|Серо-голубые латы
+itm_dread_armor|Броня Легиона Ужаса
+itm_dread_armor_pl|Броня Легиона Ужаса
+itm_demonplate|Демонический латный доспех
+itm_demonplate_pl|Демонический латный доспех
+itm_demonskin|'Кожа демона'
+itm_demonskin_pl|'Кожа демона'
+itm_heretic_robe|Роба Еретиков
+itm_heretic_robe_pl|Роба Еретиков
+itm_heretic_armor|Стёганая куртка Еретиков
+itm_heretic_armor_pl|Стёганая куртка Еретиков
+itm_heretic_leather|Кожаная куртка Еретиков
+itm_heretic_leather_pl|Кожаная куртка Еретиков
+itm_breastplate_on_red|Кираса поверх красной стёганки
+itm_breastplate_on_red_pl|Кираса поверх красной стёганки
+itm_breastplate_on_black|Кираса поверх чёрно-белой стёганки
+itm_breastplate_on_black_pl|Кираса поверх чёрно-белой стёганки
+itm_breastplate_on_black_cape|Кираса поверх чёрно-белой стёганки с плащом
+itm_breastplate_on_black_cape_pl|Кираса поверх чёрно-белой стёганки с плащом
+itm_breastplate_on_blue|Кираса поверх синей стёганки
+itm_breastplate_on_blue_pl|Кираса поверх синей стёганки
+itm_breastplate_on_green|Кираса поверх зелёной стёганки
+itm_breastplate_on_green_pl|Кираса поверх зелёной стёганки
+itm_ranger_leather|Кольчуга рейнджеров
+itm_ranger_leather_pl|Кольчуга рейнджеров
+itm_ranger_plate|Элитный доспех рейнджеров
+itm_ranger_plate_pl|Элитный доспех рейнджеров
+itm_ranger_plate_cape|Элитный доспех рейнджеров с плащом
+itm_ranger_plate_cape_pl|Элитный доспех рейнджеров с плащом
+itm_barclay_light_armor|Барклайская легкая броня
+itm_barclay_light_armor_pl|Барклайская легкая броня
+itm_barclay_armor|Барклайский латный доспех
+itm_barclay_armor_pl|Барклайский латный доспех
+itm_dead_witch_armor|Доспех ведьмы
+itm_dead_witch_armor_pl|Доспех ведьмы
+itm_veccavi_plate|Виккавийский латный доспех
+itm_veccavi_plate_pl|Виккавийский латный доспех
+itm_melitine_armor|Ламеллярный доспех мелитайнских уланов
+itm_melitine_armor_pl|Ламеллярный доспех мелитайнских уланов
+itm_melitine_armor_regular|Мелитайнский ламеллярный доспех
+itm_melitine_armor_regular_pl|Мелитайнский ламеллярный доспех
+itm_melitine_armor_plate|Мелитайнский латный доспех
+itm_melitine_armor_plate_pl|Мелитайнский латный доспех
+itm_early_transitional_heraldic|Геральдический кольчужно-латный доспех
+itm_early_transitional_heraldic_pl|Геральдический кольчужно-латный доспех
+itm_silvermist_plate|Кольчато-пластинчатый доспех Серебряного Тумана
+itm_silvermist_plate_pl|Кольчато-пластинчатый доспех Серебряного Тумана
+itm_fierd_berskerker_armor|Броня берсерка
+itm_fierd_berskerker_armor_pl|Броня берсерка
+itm_pendor_lamellar|Пендорский ламеллярный доспех
+itm_pendor_lamellar_pl|Пендорский ламеллярный доспех
+itm_mail_coat_red|Красная кольчужная броня
+itm_mail_coat_red_pl|Красная кольчужная броня
+itm_hauberk_chain_studded_leather|Кольчуга с шипованной кожей
+itm_hauberk_chain_studded_leather_pl|Кольчуга с шипованной кожей
+itm_plate_mail_polished|Полированная кираса с кольчугой
+itm_plate_mail_polished_pl|Полированная кираса с кольчугой
+itm_plate_mail_polished_cape|Полированная кираса и кольчуга с плащом
+itm_plate_mail_polished_cape_pl|Полированная кираса и кольчуга с плащом
+itm_plate_red_white_tabard|Красно-белый табард с латами
+itm_plate_red_white_tabard_pl|Красно-белый табард с латами
+itm_hauberk_silver_mail|Кольчужные хауберк Серебряного тумана
+itm_hauberk_silver_mail_pl|Кольчужные хауберк Серебряного тумана
+itm_mail_shirt|Кольчужная рубаха
+itm_mail_shirt_pl|Кольчужная рубаха
+itm_mail_hauberk|Кольчужный хауберк
+itm_mail_hauberk_pl|Кольчужный хауберк
+itm_green_garb|Зелёный наряд
+itm_green_garb_pl|Зелёный наряд
+itm_tabard_red_and_white|Красно-белый табард
+itm_tabard_red_and_white_pl|Красно-белый табард
+itm_heraldic_surcoat_over_mail_04|Геральдическая кольчуга с сюрко
+itm_heraldic_surcoat_over_mail_04_pl|Геральдическая кольчуга с сюрко
+itm_heraldic_mail_with_tunic|Геральдическая кольчуга
+itm_heraldic_mail_with_tunic_pl|Геральдическая кольчуга
+itm_heraldic_mail_with_tunic_b|Геральдическая кольчуга с рейтузами
+itm_heraldic_mail_with_tunic_b_pl|Геральдическая кольчуга с рейтузами
+itm_heraldic_mail_with_tabard|Геральдическая кольчуга с табардом
+itm_heraldic_mail_with_tabard_pl|Геральдическая кольчуга с табардом
+itm_heraldic_surcoat_over_mail_04_for_tableau|Геральдическая кольчуга с сюрко
+itm_heraldic_surcoat_over_mail_04_for_tableau_pl|Геральдическая кольчуга с сюрко
+itm_surcoat_over_mail_01|Черные латы с кольчугой
+itm_surcoat_over_mail_01_pl|Черные латы с кольчугой
+itm_surcoat_over_mail_04|Кольчуга с сюрко
+itm_surcoat_over_mail_04_pl|Кольчуга с сюрко
+itm_surcoat_over_mail_05|Сюрко по кольчуге
+itm_surcoat_over_mail_05_pl|Сюрко по кольчуге
+itm_surcoat_over_mail_rav|Равенстернское сюрко с кольчугой
+itm_surcoat_over_mail_rav_pl|Равенстернское сюрко с кольчугой
+itm_surcoat_over_mail_06|Длинная кольчуга с сюрко
+itm_surcoat_over_mail_06_pl|Длинная кольчуга с сюрко
+itm_surcoat_over_mail_07|Сюрко сквайров Льва
+itm_surcoat_over_mail_07_pl|Сюрко сквайров Льва
+itm_surcoat_over_mail_08|Сине-белая длинная кольчуга с сюрко
+itm_surcoat_over_mail_08_pl|Сине-белая длинная кольчуга с сюрко
+itm_surcoat_over_mail_09|Бело-зеленая длинная кольчуга с сюрко
+itm_surcoat_over_mail_09_pl|Бело-зеленая длинная кольчуга с сюрко
+itm_surcoat_over_mail_10|Бело-зеленая длинная кольчуга с сюрко
+itm_surcoat_over_mail_10_pl|Бело-зеленая длинная кольчуга с сюрко
+itm_surcoat_over_mail_11|Сюрко с двуглавым орлом
+itm_surcoat_over_mail_11_pl|Сюрко с двуглавым орлом
+itm_surcoat_over_mail_12|Черно-белый рыцарский сюрко
+itm_surcoat_over_mail_12_pl|Черно-белый рыцарский сюрко
+itm_surcoat_over_mail_13|Рыцарский сюрко
+itm_surcoat_over_mail_13_pl|Рыцарский сюрко
+itm_surcoat_over_mail_14|Легкая кольчуга сквайров
+itm_surcoat_over_mail_14_pl|Легкая кольчуга сквайров
+itm_surcoat_over_mail_15|Бычий сюрко
+itm_surcoat_over_mail_15_pl|Бычий сюрко
+itm_surcoat_over_mail_16|Черно-белый рыцарский сюрко
+itm_surcoat_over_mail_16_pl|Черно-белый рыцарский сюрко
+itm_surcoat_over_mail_17|Синий рыцарский сюрко
+itm_surcoat_over_mail_17_pl|Синий рыцарский сюрко
+itm_surcoat_over_mail_18|Жёлтый на черном рыцарский сюрко
+itm_surcoat_over_mail_18_pl|Жёлтый на черном рыцарский сюрко
+itm_surcoat_over_mail_19|Рыцарский сюрко Фирдсвейна
+itm_surcoat_over_mail_19_pl|Рыцарский сюрко Фирдсвейна
+itm_surcoat_over_mail_20|Рыцарский сюрко жёлтый
+itm_surcoat_over_mail_20_pl|Рыцарский сюрко жёлтый
+itm_surcoat_over_mail_21|Рыцарский сюрко зелёный
+itm_surcoat_over_mail_21_pl|Рыцарский сюрко зелёный
+itm_surcoat_over_mail_22|Рыцарский сюрко синий
+itm_surcoat_over_mail_22_pl|Рыцарский сюрко синий
+itm_surcoat_over_mail_23|Рыцарский сюрко тёмный
+itm_surcoat_over_mail_23_pl|Рыцарский сюрко тёмный
+itm_surcoat_over_mail_24|Рыцарский сюрко красный
+itm_surcoat_over_mail_24_pl|Рыцарский сюрко красный
+itm_surcoat_over_mail_25|Кольчуга с золотым солнцем
+itm_surcoat_over_mail_25_pl|Кольчуга с золотым солнцем
+itm_surcoat_over_mail_26|Кольчуга с красным шнуром
+itm_surcoat_over_mail_26_pl|Кольчуга с красным шнуром
+itm_surcoat_over_mail_27|Три льва кольчуга с сюрко
+itm_surcoat_over_mail_27_pl|Три льва кольчуга с сюрко
+itm_surcoat_over_mail_28|Красный сюрко с тонкой кольчугой
+itm_surcoat_over_mail_28_pl|Красный сюрко с тонкой кольчугой
+itm_surcoat_over_mail_29|Украшенная кольчужная одежда
+itm_surcoat_over_mail_29_pl|Украшенная кольчужная одежда
+itm_surcoat_over_mail_30|Ярко-синий сюрко со львом
+itm_surcoat_over_mail_30_pl|Ярко-синий сюрко со львом
+itm_surcoat_over_mail_31|Лёгкая кольчуга с латами
+itm_surcoat_over_mail_31_pl|Лёгкая кольчуга с латами
+itm_surcoat_over_mail_32|Синий табард с кольчугой
+itm_surcoat_over_mail_32_pl|Синий табард с кольчугой
+itm_surcoat_over_mail_34|Сюрко с кольчугой Грифона
+itm_surcoat_over_mail_34_pl|Сюрко с кольчугой Грифона
+itm_surcoat_over_mail_heretics|Хауберк еретиков
+itm_surcoat_over_mail_heretics_pl|Хауберк еретиков
+itm_surcoat_over_mail_snakecult|Кольчуга с кирасой змеи
+itm_surcoat_over_mail_snakecult_pl|Кольчуга с кирасой змеи
+itm_plate_armor_sarleon_kn1|Латы рыцарей Сарлеона
+itm_plate_armor_sarleon_kn1_pl|Латы рыцарей Сарлеона
+itm_plate_armor_sarleon_kn1_cape|Латы рыцарей Сарлеона с плащом
+itm_plate_armor_sarleon_kn1_cape_pl|Латы рыцарей Сарлеона с плащом
+itm_plate_armor_lion1|Кольчуга с кирасой Льва
+itm_plate_armor_lion1_pl|Кольчуга с кирасой Льва
+itm_plate_armor_lion1_cape|Кольчуга и кираса Льва с плащом
+itm_plate_armor_lion1_cape_pl|Кольчуга и кираса Льва с плащом
+itm_plate_armor_lion2|Гравированная кольчуга и кираса Льва
+itm_plate_armor_lion2_pl|Гравированная кольчуга и кираса Льва
+itm_plate_armor_lion2_cape|Гравированная кольчуга и кираса Льва с плащом
+itm_plate_armor_lion2_cape_pl|Гравированная кольчуга и кираса Льва с плащом
+itm_corrazina_red_armor|Сарлеонский красный кольчужно-латный доспех
+itm_corrazina_red_armor_pl|Сарлеонский красный кольчужно-латный доспех
+itm_corrazina_grey_armor|Сарлеонский серый кольчужно-латный доспех
+itm_corrazina_grey_armor_pl|Сарлеонский серый кольчужно-латный доспех
+itm_hera_corrazina|Геральдический доспех Сарлеона
+itm_hera_corrazina_pl|Геральдический доспех Сарлеона
+itm_rav_leather_kilt|Кожаный килт северян
+itm_rav_leather_kilt_pl|Кожаный килт северян
+itm_rav_caped_leather_kilt|Кожаный килт северян с накидкой
+itm_rav_caped_leather_kilt_pl|Кожаный килт северян с накидкой
+itm_rav_mail_kilt|Килт северян поверх кольчуги
+itm_rav_mail_kilt_pl|Килт северян поверх кольчуги
+itm_rav_caped_mail_kilt|Килт северян поверх кольчуги с накидкой
+itm_rav_caped_mail_kilt_pl|Килт северян поверх кольчуги с накидкой
+itm_rav_platemail|Равенстернский кольчужно-латный доспех
+itm_rav_platemail_pl|Равенстернский кольчужно-латный доспех
+itm_rav_caped_platemail|Равенстернский кольчужно-латный доспех с накидкой
+itm_rav_caped_platemail_pl|Равенстернский кольчужно-латный доспех с накидкой
+itm_rav_kierguard_plate|Равенстернский гвардейский латный доспех
+itm_rav_kierguard_plate_pl|Равенстернский гвардейский латный доспех
+itm_dragon_knight_plate|Латный доспех рыцарей Дракона
+itm_dragon_knight_plate_pl|Латный доспех рыцарей Дракона
+itm_rav_highlander_armor|Броня горцев Равенстерна
+itm_rav_highlander_armor_pl|Броня горцев Равенстерна
+itm_falcon_surcoat|Сюрко Сокола
+itm_falcon_surcoat_pl|Сюрко Сокола
+itm_falcon_plate|Латный доспех Сокола
+itm_falcon_plate_pl|Латный доспех Сокола
+itm_myst_warrior_armor|Доспех Медвежьего Когтя
+itm_myst_warrior_armor_pl|Доспех Медвежьего Когтя
+itm_dshar_robe_b|Алая роба кочевников
+itm_dshar_robe_b_pl|Алая роба кочевников
+itm_dshar_armor_studded_leather|Шипованная кожанная куртка Д'Шар
+itm_dshar_armor_studded_leather_pl|Шипованная кожанная куртка Д'Шар
+itm_dshar_elite_armor|Элитная броня Д'Шар
+itm_dshar_elite_armor_pl|Элитная броня Д'Шар
+itm_dshar_mail_shirt1|Кольчуга Д'Шар
+itm_dshar_mail_shirt1_pl|Кольчуга Д'Шар
+itm_dshar_armor_lamellar_vest|Ламеллярный жилет Д'Шар
+itm_dshar_armor_lamellar_vest_pl|Ламеллярный жилет Д'Шар
+itm_dshar_plate_over_mail|Кираса с кольчугой Д'Шар
+itm_dshar_plate_over_mail_pl|Кираса с кольчугой Д'Шар
+itm_dshar_heavy_mail|Тяжёлая кольчуга Д'Шар
+itm_dshar_heavy_mail_pl|Тяжёлая кольчуга Д'Шар
+itm_dshar_dervish_scale|Чешуйчатый доспех дервишей Д'Шар
+itm_dshar_dervish_scale_pl|Чешуйчатый доспех дервишей Д'Шар
+itm_dervish_lamellar_armor|Элитный доспех дервишей
+itm_dervish_lamellar_armor_pl|Элитный доспех дервишей
+itm_dshar_dueling_armor|Дуэльный доспех Д'Шар
+itm_dshar_dueling_armor_pl|Дуэльный доспех Д'Шар
+itm_dshar_brass_plate|Латунный кольчужно-латный доспех Д'Шар
+itm_dshar_brass_plate_pl|Латунный кольчужно-латный доспех Д'Шар
+itm_dshar_heavy_scale|Тяжёлый чешуйчатый доспех Д'Шар
+itm_dshar_heavy_scale_pl|Тяжёлый чешуйчатый доспех Д'Шар
+itm_dshar_armor_noble_scale|Благородный чешуйчатый доспех Д'Шар
+itm_dshar_armor_noble_scale_pl|Благородный чешуйчатый доспех Д'Шар
+itm_dshar_windrider_armor|Доспех наездников Ветра Д'Шар
+itm_dshar_windrider_armor_pl|Доспех наездников Ветра Д'Шар
+itm_dshar_heavy_plate|Латы Д'Шар
+itm_dshar_heavy_plate_pl|Латы Д'Шар
+itm_eventide_plate|Пластинчатые латы рыцарей Заката
+itm_eventide_plate_pl|Пластинчатые латы рыцарей Заката
+itm_fierd_kilt|Западный фирдсвейнский кожаный килт
+itm_fierd_kilt_pl|Западный фирдсвейнский кожаный килт
+itm_fierd_scale|Западная фирдсвейнская чешуйчатая кожаная куртка
+itm_fierd_scale_pl|Западная фирдсвейнская чешуйчатая кожаная куртка
+itm_fierd_mail_hauberk|Фирдсвейнский кольчужный хауберк
+itm_fierd_mail_hauberk_pl|Фирдсвейнский кольчужный хауберк
+itm_valk_stag_surcoat|Сюрко валькирий с изображением оленя
+itm_valk_stag_surcoat_pl|Сюрко валькирий с изображением оленя
+itm_valk_unicorn_surcoat|Сюрко валькирий с изображением единорога
+itm_valk_unicorn_surcoat_pl|Сюрко валькирий с изображением единорога
+itm_valdis_armor|Доспех хускарлов Валдиса
+itm_valdis_armor_pl|Доспех хускарлов Валдиса
+itm_fierd_valk_surcoat|Фирдсвейнское сюрко валькирий
+itm_fierd_valk_surcoat_pl|Фирдсвейнское сюрко валькирий
+itm_plate_armor_fierdsvain1|Фирдсвейнская кираса с кольчугой
+itm_plate_armor_fierdsvain1_pl|Фирдсвейнская кираса с кольчугой
+itm_valk_stag_plate|Латный доспех валькирий с изображением оленя
+itm_valk_stag_plate_pl|Латный доспех валькирий с изображением оленя
+itm_valk_unicorn_plate|Латный доспех валькирий с изображением единорога
+itm_valk_unicorn_plate_pl|Латный доспех валькирий с изображением единорога
+itm_empire_inlayed_armor|Имперская инкрустированная броня
+itm_empire_inlayed_armor_pl|Имперская инкрустированная броня
+itm_empire_leather_l_s|Имперская лорика сегментата
+itm_empire_leather_l_s_pl|Имперская лорика сегментата
+itm_empire_legionnaire_armor|Имперская броня легионера
+itm_empire_legionnaire_armor_pl|Имперская броня легионера
+itm_empire_consul_armor|Имперская броня консула
+itm_empire_consul_armor_pl|Имперская броня консула
+itm_empire_silk_garmet|Имперская шёлковая одежда
+itm_empire_silk_garmet_pl|Имперская шёлковая одежда
+itm_breastplate_empire|Имперская кираса
+itm_breastplate_empire_pl|Имперская кираса
+itm_breastplate_empire_cape|Имперская кираса с плащом
+itm_breastplate_empire_cape_pl|Имперская кираса с плащом
+itm_empire_hastatus_armor|Имперский доспех гастатов
+itm_empire_hastatus_armor_pl|Имперский доспех гастатов
+itm_empire_princeps_armor|Имперский доспех принципов
+itm_empire_princeps_armor_pl|Имперский доспех принципов
+itm_shadow_legion_armor|Доспех Теневого Легиона
+itm_shadow_legion_armor_pl|Доспех Теневого Легиона
+itm_shadow_legion_armor_cape|Доспех Теневого Легиона с плащом
+itm_shadow_legion_armor_cape_pl|Доспех Теневого Легиона с плащом
+itm_empire_triarius_armor|Имперский доспех триариев
+itm_empire_triarius_armor_pl|Имперский доспех триариев
+itm_empire_triarius_armor_cape|Имперский доспех триариев с плащом
+itm_empire_triarius_armor_cape_pl|Имперский доспех триариев с плащом
+itm_empire_primus_armor|Доспех примипила Бессмертных
+itm_empire_primus_armor_pl|Доспех примипила Бессмертных
+itm_imperial_radiant_plate|Имперский латный доспех Сияющего Креста
+itm_imperial_radiant_plate_pl|Имперский латный доспех Сияющего Креста
+itm_imperial_radiant_plate_cape|Имперский латный доспех Сияющего Креста с накидкой
+itm_imperial_radiant_plate_cape_pl|Имперский латный доспех Сияющего Креста с накидкой
+itm_empire_knight_plate|Имперский рыцарский латный доспех
+itm_empire_knight_plate_pl|Имперский рыцарский латный доспех
+itm_empire_knight_plate_cape|Имперский рыцарский латный доспех с плащом
+itm_empire_knight_plate_cape_pl|Имперский рыцарский латный доспех с плащом
+itm_empire_guardian_plate|Латный доспех Стражей Империи
+itm_empire_guardian_plate_pl|Латный доспех Стражей Империи
+itm_empire_guardian_plate_cape|Латный доспех Стражей Империи с плащом
+itm_empire_guardian_plate_cape_pl|Латный доспех Стражей Империи с плащом
+itm_empire_mortal_plate|Имперский чешуйчатый доспех
+itm_empire_mortal_plate_pl|Имперский чешуйчатый доспех
+itm_quigfen_armor|Ларийский благородный доспех
+itm_quigfen_armor_pl|Ларийский благородный доспех
+itm_sing_black_leather|Сингалийская чёрная клёпаная кожаная куртка
+itm_sing_black_leather_pl|Сингалийская чёрная клёпаная кожаная куртка
+itm_sing_temptress_armor|Доспех сингалийской соблазнительницы
+itm_sing_temptress_armor_pl|Доспех сингалийской соблазнительницы
+itm_jatu_nomad_armor|Ламеллярный доспех кочевников Джату
+itm_jatu_nomad_armor_pl|Ламеллярный доспех кочевников Джату
+itm_jatu_raider_armor|Ламеллярный доспех налетчиков Джату
+itm_jatu_raider_armor_pl|Ламеллярный доспех налетчиков Джату
+itm_jatu_nomad_coat|Ламеллярный доспех всадников Джату
+itm_jatu_nomad_coat_pl|Ламеллярный доспех всадников Джату
+itm_jatu_warrior_lamellar|Кольчуга воинов Джату
+itm_jatu_warrior_lamellar_pl|Кольчуга воинов Джату
+itm_khergit_guard_armor|Гвардейский доспех Джату
+itm_khergit_guard_armor_pl|Гвардейский доспех Джату
+itm_jatu_honor_armor|Доспех чести Джату
+itm_jatu_honor_armor_pl|Доспех чести Джату
+itm_jatu_noble_armor|Величественный доспех Джату
+itm_jatu_noble_armor_pl|Величественный доспех Джату
+itm_scorpion_armor_2|Сложная броня ассасина
+itm_scorpion_armor_2_pl|Сложная броня ассасина
+itm_scorpion_armor|Броня скорпиона
+itm_scorpion_armor_pl|Броня скорпиона
+itm_wolf_armor_2|Охотничья броня
+itm_wolf_armor_2_pl|Охотничья броня
+itm_wolf_armor_1|Кольчуга Волков Тени с мехом
+itm_wolf_armor_1_pl|Кольчуга Волков Тени с мехом
+itm_phoenix_armor|Кольчуга Феникса
+itm_phoenix_armor_pl|Кольчуга Феникса
+itm_phoenix_plate|Тяжелые латы Феникса
+itm_phoenix_plate_pl|Тяжелые латы Феникса
+itm_priestess_high_armor|Броня высшей змеиной жрицы
+itm_priestess_high_armor_pl|Броня высшей змеиной жрицы
+itm_priestess_armor|Броня змеиной жрицы
+itm_priestess_armor_pl|Броня змеиной жрицы
+itm_cobra_plate|Латный доспех Кобры
+itm_cobra_plate_pl|Латный доспех Кобры
+itm_anaconda_plate|Латный доспех Анаконды
+itm_anaconda_plate_pl|Латный доспех Анаконды
+itm_asp_plate|Броня Аспидов
+itm_asp_plate_pl|Броня Аспидов
+itm_asp_plate_supreme|Броня высших Аспидов
+itm_asp_plate_supreme_pl|Броня высших Аспидов
+itm_xena_leather|Кожаная броня Ведущей к Гибели
+itm_xena_leather_pl|Кожаная броня Ведущей к Гибели
+itm_noldor_archer_garb|Нолдорское одеяние лучника
+itm_noldor_archer_garb_pl|Нолдорское одеяние лучника
+itm_noldor_archer_garb_cape|Нолдорское одеяние лучника с плащом
+itm_noldor_archer_garb_cape_pl|Нолдорское одеяние лучника с плащом
+itm_noldor_ranger_garb|Нолдорское украшенное одеяние рейнджера
+itm_noldor_ranger_garb_pl|Нолдорское украшенное одеяние рейнджера
+itm_noldor_ranger_garb_cape|Нолдорское одеяние рейнджера с плащом
+itm_noldor_ranger_garb_cape_pl|Нолдорское одеяние рейнджера с плащом
+itm_noldor_female_armor|Женский нолдорский доспех
+itm_noldor_female_armor_pl|Женский нолдорский доспех
+itm_noldor_female_armor_cape|Женский нолдорский доспех с плащом
+itm_noldor_female_armor_cape_pl|Женский нолдорский доспех с плащом
+itm_noldor_rune_armor|Нолдорский рунный доспех
+itm_noldor_rune_armor_pl|Нолдорский рунный доспех
+itm_noldor_ancient_plate|Нолдорский старинный латный доспех
+itm_noldor_ancient_plate_pl|Нолдорский старинный латный доспех
+itm_noldor_noble_armor|Нолдорский величественный доспех
+itm_noldor_noble_armor_pl|Нолдорский величественный доспех
+itm_noldor_noble_armor_cape|Нолдорский величественный доспех с плащом
+itm_noldor_noble_armor_cape_pl|Нолдорский величественный доспех с плащом
+itm_rune_plate_strange|Мистическая рунная броня
+itm_rune_plate_strange_pl|Мистическая рунная броня
+itm_rune_plate_saphire|Сапфировая рунная броня
+itm_rune_plate_saphire_pl|Сапфировая рунная броня
+itm_rune_plate_ruby|Рубиновая рунная броня
+itm_rune_plate_ruby_pl|Рубиновая рунная броня
+itm_rune_plate_emerald|Изумрудная рунная броня
+itm_rune_plate_emerald_pl|Изумрудная рунная броня
+itm_rune_plate_saphire_cape|Сапфировые рунные латы с накидкой
+itm_rune_plate_saphire_cape_pl|Сапфировые рунные латы с накидкой
+itm_rune_plate_ruby_cape|Рубиновые рунные латы с накидкой
+itm_rune_plate_ruby_cape_pl|Рубиновые рунные латы с накидкой
+itm_rune_plate_emerald_cape|Изумрудные рунные латы с накидкой
+itm_rune_plate_emerald_cape_pl|Изумрудные рунные латы с накидкой
+itm_leather_gloves|Кожаные перчатки
+itm_leather_gloves_pl|Кожаные перчатки
+itm_mail_mittens|Кольчужные рукавицы
+itm_mail_mittens_pl|Кольчужные рукавицы
+itm_black_steel_mittens|Чёрные стальные рукавицы
+itm_black_steel_mittens_pl|Чёрные стальные рукавицы
+itm_scale_gauntlets|Чешуйчатые перчатки
+itm_scale_gauntlets_pl|Чешуйчатые перчатки
+itm_lamellar_gauntlets|Ламеллярные перчатки
+itm_lamellar_gauntlets_pl|Ламеллярные перчатки
+itm_gauntlets_normal|Перчатки
+itm_gauntlets_normal_pl|Перчатки
+itm_dark_leather_gloves|Темные кожаные перчатки
+itm_dark_leather_gloves_pl|Темные кожаные перчатки
+itm_scorpion_gauntlets|Перчатки скорпиона
+itm_scorpion_gauntlets_pl|Перчатки скорпиона
+itm_wolf_mittens|Волчьи стальные перчатки
+itm_wolf_mittens_pl|Волчьи стальные перчатки
+itm_wolf_gauntlets|Волчьи когти
+itm_wolf_gauntlets_pl|Волчьи когти
+itm_snake_gloves|Змеиные кожаные перчатки
+itm_snake_gloves_pl|Змеиные кожаные перчатки
+itm_snake_gauntlets|Змеиные перчатки
+itm_snake_gauntlets_pl|Змеиные перчатки
+itm_asp_gauntlets|Перчатки Аспидов
+itm_asp_gauntlets_pl|Перчатки Аспидов
+itm_black_steel_gauntlets|Чёрные стальные перчатки
+itm_black_steel_gauntlets_pl|Чёрные стальные перчатки
+itm_hourglass_gauntlets_black|Чёрные латные перчатки с узким запястьем
+itm_hourglass_gauntlets_black_pl|Чёрные латные перчатки с узким запястьем
+itm_hourglass_gauntlets|Латные перчатки с узким запястьем
+itm_hourglass_gauntlets_pl|Латные перчатки с узким запястьем
+itm_hourglass_gauntlets_ornate|Изысканно украшенные латные перчатки с узким запястьем
+itm_hourglass_gauntlets_ornate_pl|Изысканно украшенные латные перчатки с узким запястьем
+itm_mett_mittens|Меттенхаймские стальные рукавицы
+itm_mett_mittens_pl|Меттенхаймские стальные рукавицы
+itm_myst_gauntlets|Перчатки Медвежьего Когтя
+itm_myst_gauntlets_pl|Перчатки Медвежьего Когтя
+itm_iron_gold_gauntlets|Украшенные золотом железные перчатки
+itm_iron_gold_gauntlets_pl|Украшенные золотом железные перчатки
+itm_steel_gauntlets|Стальные перчатки
+itm_steel_gauntlets_pl|Стальные перчатки
+itm_iron_gauntlets|Железные перчатки
+itm_iron_gauntlets_pl|Железные перчатки
+itm_silver_gauntlets|Серебрянные перчатки
+itm_silver_gauntlets_pl|Серебрянные перчатки
+itm_black_iron_gauntlets|Черные железные перчатки
+itm_black_iron_gauntlets_pl|Черные железные перчатки
+itm_clarion_gauntlets|Перчатки рейнджеров
+itm_clarion_gauntlets_pl|Перчатки рейнджеров
+itm_green_gauntlets|Зелёные перчатки
+itm_green_gauntlets_pl|Зелёные перчатки
+itm_azure_gauntlets|Лазурные перчатки
+itm_azure_gauntlets_pl|Лазурные перчатки
+itm_azure_gold_gauntlets|Лазурные с золотом перчатки
+itm_azure_gold_gauntlets_pl|Лазурные с золотом перчатки
+itm_black_gold_gauntlets|Чёрные с золотом перчатки
+itm_black_gold_gauntlets_pl|Чёрные с золотом перчатки
+itm_black_ebony_gauntlets|Усиленные эбеновые перчатки
+itm_black_ebony_gauntlets_pl|Усиленные эбеновые перчатки
+itm_reinforced_steel_gauntlets|Усиленные стальные перчатки
+itm_reinforced_steel_gauntlets_pl|Усиленные стальные перчатки
+itm_reinforced_silver_gauntlets|Усиленные серебряные перчатки
+itm_reinforced_silver_gauntlets_pl|Усиленные серебряные перчатки
+itm_noldor_silver_gauntlets|Нолдорские украшенные серебром перчатки
+itm_noldor_silver_gauntlets_pl|Нолдорские украшенные серебром перчатки
+itm_noldor_leather_gloves|Нолдорские украшенные перчатки
+itm_noldor_leather_gloves_pl|Нолдорские украшенные перчатки
+itm_ghost_woolen_hose|Призрачные чулки
+itm_ghost_woolen_hose_pl|Призрачные чулки
+itm_ghost_pilgrim_disguise|Призрачная роба пилигрима
+itm_ghost_pilgrim_disguise_pl|Призрачная роба пилигрима
+itm_ghost_head|Голова призрака
+itm_ghost_head_pl|Голова призрака
+itm_ghost_hands|Руки призрака
+itm_ghost_hands_pl|Руки призрака
+itm_mail_boots_for_tableau|Изношенные кольчужные сапоги
+itm_mail_boots_for_tableau_pl|Изношенные кольчужные сапоги
+itm_wrapping_boots|Онучи
+itm_wrapping_boots_pl|Онучи
+itm_woolen_hose|Шерстяные шоссы
+itm_woolen_hose_pl|Шерстяные шоссы
+itm_blue_hose|Голубые шоссы
+itm_blue_hose_pl|Голубые шоссы
+itm_hide_boots|Сапоги из шкуры
+itm_hide_boots_pl|Сапоги из шкуры
+itm_common_rus_shoes|Обычная обувь
+itm_common_rus_shoes_pl|Обычная обувь
+itm_hunter_boots|Охотничьи сапоги
+itm_hunter_boots_pl|Охотничьи сапоги
+itm_ankle_boots|Ботильоны
+itm_ankle_boots_pl|Ботильоны
+itm_looter_boots|Сапоги мародера
+itm_looter_boots_pl|Сапоги мародера
+itm_nomad_boots|Сапоги кочевника
+itm_nomad_boots_pl|Сапоги кочевника
+itm_light_leather_boots|Лёгкие кожаные сапоги
+itm_light_leather_boots_pl|Лёгкие кожаные сапоги
+itm_leather_boots|Кожаные сапоги
+itm_leather_boots_pl|Кожаные сапоги
+itm_leather_boots2|Кожаные сапоги
+itm_leather_boots2_pl|Кожаные сапоги
+itm_melitine_greaves|Тёмные кожаные поножи
+itm_melitine_greaves_pl|Тёмные кожаные поножи
+itm_splinted_leather_greaves|Накладные кожаные поножи
+itm_splinted_leather_greaves_pl|Накладные кожаные поножи
+itm_mail_chausses|Кольчужные чулки
+itm_mail_chausses_pl|Кольчужные чулки
+itm_myst_boots|Сапоги Медвежьего Когтя
+itm_myst_boots_pl|Сапоги Медвежьего Когтя
+itm_splinted_greaves|Ламинарные наголенники
+itm_splinted_greaves_pl|Ламинарные наголенники
+itm_ranger_boots|Кожаные сапоги рейнджеров
+itm_ranger_boots_pl|Кожаные сапоги рейнджеров
+itm_rav_highlander_boots|Сапоги горцев Равенстерна
+itm_rav_highlander_boots_pl|Сапоги горцев Равенстерна
+itm_greaves_empire_consul|Сапоги имперского консула
+itm_greaves_empire_consul_pl|Сапоги имперского консула
+itm_brass_plated_boots|Сапоги с бронзовыми накладками
+itm_brass_plated_boots_pl|Сапоги с бронзовыми накладками
+itm_mail_boots|Кольчужные сапоги
+itm_mail_boots_pl|Кольчужные сапоги
+itm_greaves_soft_soled_plate|Латные сапоги с мягкой подошвой
+itm_greaves_soft_soled_plate_pl|Латные сапоги с мягкой подошвой
+itm_soft_greaves|Изысканно украшенные поножи с мягкой подошвой
+itm_soft_greaves_pl|Изысканно украшенные поножи с мягкой подошвой
+itm_silvered_boots|Изысканно украшенные посеребрённые сапоги
+itm_silvered_boots_pl|Изысканно украшенные посеребрённые сапоги
+itm_iron_greaves|Железные поножи
+itm_iron_greaves_pl|Железные поножи
+itm_plate_boots|Латные сапоги
+itm_plate_boots_pl|Латные сапоги
+itm_melitine_plate_boots|Мелитайнские латные сапоги
+itm_melitine_plate_boots_pl|Мелитайнские латные сапоги
+itm_dshar_orange_boots|Ламинарные поножи Д'Шар
+itm_dshar_orange_boots_pl|Ламинарные поножи Д'Шар
+itm_greaves_ornate_plate|Украшенные латные поножи
+itm_greaves_ornate_plate_pl|Украшенные латные поножи
+itm_greaves_polished_plate|Полированные латные поножи
+itm_greaves_polished_plate_pl|Полированные латные поножи
+itm_black_steel_boots|Тёмные наголенники
+itm_black_steel_boots_pl|Тёмные наголенники
+itm_shynbaulds|Наголенники
+itm_shynbaulds_pl|Наголенники
+itm_steel_greaves_black|Чёрные стальные поножи
+itm_steel_greaves_black_pl|Чёрные стальные поножи
+itm_decurion_boots|Сапоги декуриона
+itm_decurion_boots_pl|Сапоги декуриона
+itm_khergit_guard_boots|Гвардейские сапоги Джату
+itm_khergit_guard_boots_pl|Гвардейские сапоги Джату
+itm_steel_boots_new|Полированные стальные сапоги
+itm_steel_boots_new_pl|Полированные стальные сапоги
+itm_steel_greaves|Стальные поножи
+itm_steel_greaves_pl|Стальные поножи
+itm_steel_greaves_dark|Тёмные стальные поножи
+itm_steel_greaves_dark_pl|Тёмные стальные поножи
+itm_black_greaves|Чёрные поножи
+itm_black_greaves_pl|Чёрные поножи
+itm_greaves_shadow_legion|Поножи Теневого Легиона
+itm_greaves_shadow_legion_pl|Поножи Теневого Легиона
+itm_heavy_iron_greaves|Тяжелые железные поножи
+itm_heavy_iron_greaves_pl|Тяжелые железные поножи
+itm_greaves_heavy_plate|Тяжелые латные поножи
+itm_greaves_heavy_plate_pl|Тяжелые латные поножи
+itm_noldor_boots|Нолдорские зачарованные сапоги
+itm_noldor_boots_pl|Нолдорские зачарованные сапоги
+itm_noldor_plate_greaves|Нолдорские латные поножи
+itm_noldor_plate_greaves_pl|Нолдорские латные поножи
+itm_only_sandals|Сандалии
+itm_only_sandals_pl|Сандалии
+itm_ebony_greaves|Эбеновые поножи
+itm_ebony_greaves_pl|Эбеновые поножи
+itm_empire_shynbaulds|Имперские сашинбальды
+itm_empire_shynbaulds_pl|Имперские сашинбальды
+itm_azure_greaves|Лазурные поножи
+itm_azure_greaves_pl|Лазурные поножи
+itm_silver_gold_greaves|Серебряные с золотом поножи
+itm_silver_gold_greaves_pl|Серебряные с золотом поножи
+itm_dark_leather_boots|Темные кожаные сапоги
+itm_dark_leather_boots_pl|Темные кожаные сапоги
+itm_wolf_greaves_1|Поножи Волков Тени
+itm_wolf_greaves_1_pl|Поножи Волков Тени
+itm_priestess_boots|Сапоги змеиной жрицы
+itm_priestess_boots_pl|Сапоги змеиной жрицы
+itm_xena_boots|Изысканно украшенные кожаные сапоги
+itm_xena_boots_pl|Изысканно украшенные кожаные сапоги
+itm_asp_greaves|Поножи Аспидов
+itm_asp_greaves_pl|Поножи Аспидов
+itm_female_hood|Дамский капюшон
+itm_female_hood_pl|Дамский капюшон
+itm_khergit_lady_hat|Дамская шляпка Д'Шар
+itm_khergit_lady_hat_pl|Дамская шляпка Д'Шар
+itm_khergit_lady_hat_b|Дамская кожаная шляпка Д'Шар
+itm_khergit_lady_hat_b_pl|Дамская кожаная шляпка Д'Шар
+itm_head_wrappings|Повязка
+itm_head_wrappings_pl|Повязка
+itm_turret_hat_ruby|Круглая шапка
+itm_turret_hat_ruby_pl|Круглая шапка
+itm_turret_hat_blue|Круглая шапка
+itm_turret_hat_blue_pl|Круглая шапка
+itm_turret_hat_green|Круглая шапка
+itm_turret_hat_green_pl|Круглая шапка
+itm_court_hat|Круглая шапка
+itm_court_hat_pl|Круглая шапка
+itm_wimple_a|Чепец
+itm_wimple_a_pl|Чепец
+itm_wimple_with_veil|Чепец с вуалью
+itm_wimple_with_veil_pl|Чепец с вуалью
+itm_straw_hat|Соломенная шляпа
+itm_straw_hat_pl|Соломенная шляпа
+itm_common_hood|Капюшон
+itm_common_hood_pl|Капюшон
+itm_black_hood|Чёрный капюшон
+itm_black_hood_pl|Чёрный капюшон
+itm_empire_hood|Капюшон
+itm_empire_hood_pl|Капюшон
+itm_headcloth|Тюрбан
+itm_headcloth_pl|Тюрбан
+itm_arming_cap|Подшлемник
+itm_arming_cap_pl|Подшлемник
+itm_fur_hat|Меховая шапка
+itm_fur_hat_pl|Меховая шапка
+itm_nomad_cap|Шапка кочевника
+itm_nomad_cap_pl|Шапка кочевника
+itm_nomad_cap_b|Шапка кочевника
+itm_nomad_cap_b_pl|Шапка кочевника
+itm_woolen_cap|Шерстяная шапка
+itm_woolen_cap_pl|Шерстяная шапка
+itm_felt_hat|Войлочная шапка
+itm_felt_hat_pl|Войлочная шапка
+itm_felt_hat_b|Войлочная шляпа
+itm_felt_hat_b_pl|Войлочная шляпа
+itm_leather_cap|Кожаная шапка
+itm_leather_cap_pl|Кожаная шапка
+itm_padded_coif|Стёганый капюшон
+itm_padded_coif_pl|Стёганый капюшон
+itm_nordic_archer_helmet|Фирдсвейнский кожаный шлем
+itm_nordic_archer_helmet_pl|Фирдсвейнский кожаный шлем
+itm_leather_warrior_cap|Кожаный шлем
+itm_leather_warrior_cap_pl|Кожаный шлем
+itm_leather_steppe_cap_b|Кожаная степная шапка
+itm_leather_steppe_cap_b_pl|Кожаная степная шапка
+itm_leather_steppe_cap_c|Кожаная степная шапка
+itm_leather_steppe_cap_c_pl|Кожаная степная шапка
+itm_leather_steppe_cap_a|Шапочка степняка
+itm_leather_steppe_cap_a_pl|Шапочка степняка
+itm_nordic_veteran_archer_helmet|Фирдсвейнский ветеранский кожаный шлем
+itm_nordic_veteran_archer_helmet_pl|Фирдсвейнский ветеранский кожаный шлем
+itm_skullcap|Шлем
+itm_skullcap_pl|Шлем
+itm_mail_coif|Кольчужный капюшон
+itm_mail_coif_pl|Кольчужный капюшон
+itm_footman_helmet|Пехотный шлем
+itm_footman_helmet_pl|Пехотный шлем
+itm_nasal_helmet|Шлем с наносником
+itm_nasal_helmet_pl|Шлем с наносником
+itm_leather_neck_helmet|Кожано-железный шлем
+itm_leather_neck_helmet_pl|Кожано-железный шлем
+itm_sipahi_helmet_a|Сипахийский шлем
+itm_sipahi_helmet_a_pl|Сипахийский шлем
+itm_norman_helmet|Шлем с подшлемником
+itm_norman_helmet_pl|Шлем с подшлемником
+itm_spiked_helmet|Островерхий шлем
+itm_spiked_helmet_pl|Островерхий шлем
+itm_nordic_footman_helmet|Фирдсвейнский пехотный шлем
+itm_nordic_footman_helmet_pl|Фирдсвейнский пехотный шлем
+itm_dshar_war_helmet|Боевой шлем Д'Шар
+itm_dshar_war_helmet_pl|Боевой шлем Д'Шар
+itm_segmented_helmet|Сегментный шлем
+itm_segmented_helmet_pl|Сегментный шлем
+itm_helmet_empire_conscript|Шлем имперского конскрипта
+itm_helmet_empire_conscript_pl|Шлем имперского конскрипта
+itm_mail_neck_helmet|Шлем с кольчужной бармицей
+itm_mail_neck_helmet_pl|Шлем с кольчужной бармицей
+itm_nordic_fighter_helmet|Фирдсвейнский боевой шлем
+itm_nordic_fighter_helmet_pl|Фирдсвейнский боевой шлем
+itm_helmet_with_neckguard|Шлем с шейной защитой
+itm_helmet_with_neckguard_pl|Шлем с шейной защитой
+itm_helmet_shahi|Шахи
+itm_helmet_shahi_pl|Шахи
+itm_melitine_helmet|Мелитайнский шлем
+itm_melitine_helmet_pl|Мелитайнский шлем
+itm_kettle_hat|Шапель
+itm_kettle_hat_pl|Шапель
+itm_nordic_helmet|Шлем Ванскерри
+itm_nordic_helmet_pl|Шлем Ванскерри
+itm_flat_topped_helmet|Плосковерхий шлем
+itm_flat_topped_helmet_pl|Плосковерхий шлем
+itm_visorless_sallet|Салет без забрала
+itm_visorless_sallet_pl|Салет без забрала
+itm_jacok_morion_pop|Морион
+itm_jacok_morion_pop_pl|Морион
+itm_helmet_cap_and_chain|Шлем с кольчужным оголовьем
+itm_helmet_cap_and_chain_pl|Шлем с кольчужным оголовьем
+itm_skull_helm|Костяной шлем шамана
+itm_skull_helm_pl|Костяной шлем шамана
+itm_spangenhelm|Шпангенхельм
+itm_spangenhelm_pl|Шпангенхельм
+itm_barclay_pot_helm|Барклайский потхелм
+itm_barclay_pot_helm_pl|Барклайский потхелм
+itm_helmet_chain_mask_kettlehelm|Каска с кольчужной маской
+itm_helmet_chain_mask_kettlehelm_pl|Каска с кольчужной маской
+itm_bascinet|Бацинет
+itm_bascinet_pl|Бацинет
+itm_bascinet_2|Бацинет с бармицей
+itm_bascinet_2_pl|Бацинет с бармицей
+itm_bascinet_3|Бацинет с наносником
+itm_bascinet_3_pl|Бацинет с наносником
+itm_vaegir_noble_helmet|Равенстернский дворянский шлем
+itm_vaegir_noble_helmet_pl|Равенстернский дворянский шлем
+itm_armet_normal|Армет
+itm_armet_normal_pl|Армет
+itm_armet_plumed|Армет с пером
+itm_armet_plumed_pl|Армет с пером
+itm_armet_open|Открытый армет
+itm_armet_open_pl|Открытый армет
+itm_armet_open_plumed|Открытый армет с пером
+itm_armet_open_plumed_pl|Открытый армет с пером
+itm_faceplate_iron|Шлем с железной маской
+itm_faceplate_iron_pl|Шлем с железной маской
+itm_guard_helmet|Гвардейский шлем
+itm_guard_helmet_pl|Гвардейский шлем
+itm_vaegir_war_helmet|Равенстернский боевой шлем
+itm_vaegir_war_helmet_pl|Равенстернский боевой шлем
+itm_nemean_helm|Немейский шлем
+itm_nemean_helm_pl|Немейский шлем
+itm_helmet_empire_legion|Шлем легионера
+itm_helmet_empire_legion_pl|Шлем легионера
+itm_fluted_helmet|Рифлёный шлем
+itm_fluted_helmet_pl|Рифлёный шлем
+itm_nordic_huscarl_helmet|Фирдсвейнский шлем хускарлов
+itm_nordic_huscarl_helmet_pl|Фирдсвейнский шлем хускарлов
+itm_dshar_spiked_helmet|Островерхий шлем Д'Шар
+itm_dshar_spiked_helmet_pl|Островерхий шлем Д'Шар
+itm_bear_helm|Шлем Медвежьего Когтя
+itm_bear_helm_pl|Шлем Медвежьего Когтя
+itm_helmet_mercenary|Шлем наемника
+itm_helmet_mercenary_pl|Шлем наемника
+itm_helmet_vanskerry_warleader|Шлем ярла ванскери
+itm_helmet_vanskerry_warleader_pl|Шлем ярла ванскери
+itm_helm_dshar_warrior|Воинский шлем Д'Шар
+itm_helm_dshar_warrior_pl|Воинский шлем Д'Шар
+itm_helmet_torbah_warrior|Шлем воинов Торбы 
+itm_helmet_torbah_warrior_pl|Шлем воинов Торбы 
+itm_helmet_marinus|Шлем имперских пехотинцев
+itm_helmet_marinus_pl|Шлем имперских пехотинцев
+itm_empire_steel_helmet|Имперский стальной шлем
+itm_empire_steel_helmet_pl|Имперский стальной шлем
+itm_vendel|Фирдсвейнский вендельский шлем
+itm_vendel_pl|Фирдсвейнский вендельский шлем
+itm_nordic_warlord_helmet|Фирдсвейнский шлем военачальника
+itm_nordic_warlord_helmet_pl|Фирдсвейнский шлем военачальника
+itm_faceplate_mail_helmet|Кольчужный шлем с железной маской
+itm_faceplate_mail_helmet_pl|Кольчужный шлем с железной маской
+itm_helmet_faceplate|Шлем с железной маской
+itm_helmet_faceplate_pl|Шлем с железной маской
+itm_adventurer_heume|Шлем искателя приключений
+itm_adventurer_heume_pl|Шлем искателя приключений
+itm_adventurer_helm|Шлем искателя приключений
+itm_adventurer_helm_pl|Шлем искателя приключений
+itm_vecc_helm_tail|Виккавийский шлем с хвостом
+itm_vecc_helm_tail_pl|Виккавийский шлем с хвостом
+itm_vecc_helm_tail_open|Виккавийский открытый шлем с хвостом
+itm_vecc_helm_tail_open_pl|Виккавийский открытый шлем с хвостом
+itm_helmet_vanskerry_snouz|Васгардский шлем ванскери
+itm_helmet_vanskerry_snouz_pl|Васгардский шлем ванскери
+itm_jarl_helmet|Фирдсвейнский шлем ярла
+itm_jarl_helmet_pl|Фирдсвейнский шлем ярла
+itm_sallet_open_only_steel2|Железный салад
+itm_sallet_open_only_steel2_pl|Железный салад
+itm_sallet_celata|Салад с пером
+itm_sallet_celata_pl|Салад с пером
+itm_helmet_ravenstern|Равенстернский шлем
+itm_helmet_ravenstern_pl|Равенстернский шлем
+itm_steel_barbutte|Барбют
+itm_steel_barbutte_pl|Барбют
+itm_sallet_open|Открытый салад
+itm_sallet_open_pl|Открытый салад
+itm_sallet_open_only_steel|Стальной салад
+itm_sallet_open_only_steel_pl|Стальной салад
+itm_sallet_open_only_steel_red|Стальной салад с красным плюмажем
+itm_sallet_open_only_steel_red_pl|Стальной салад с красным плюмажем
+itm_sarleon_sallet_01|Сарлеонский салад
+itm_sarleon_sallet_01_pl|Сарлеонский салад
+itm_sallet_closed_feather_yellow|Стальной салад с визором
+itm_sallet_closed_feather_yellow_pl|Стальной салад с визором
+itm_full_helm|Полный шлем
+itm_full_helm_pl|Полный шлем
+itm_empire_blacksteel_helmet|Шлем Стражей Империи
+itm_empire_blacksteel_helmet_pl|Шлем Стражей Империи
+itm_dread_helm|Шлем Легиона Ужаса
+itm_dread_helm_pl|Шлем Легиона Ужаса
+itm_valsgarde|Фирдсвейнский вальсгардский шлем
+itm_valsgarde_pl|Фирдсвейнский вальсгардский шлем
+itm_kiergard_helm_with_mail|Киергардский шлем с кольчугой
+itm_kiergard_helm_with_mail_pl|Киергардский шлем с кольчугой
+itm_kiergard_helm|Равенстернский гвардейский шлем
+itm_kiergard_helm_pl|Равенстернский гвардейский шлем
+itm_sallet_strange_steel|Странный стальной салад
+itm_sallet_strange_steel_pl|Странный стальной салад
+itm_helmet_torbah_mask|Шлем с маской Торбы
+itm_helmet_torbah_mask_pl|Шлем с маской Торбы
+itm_kiergard_helm_silver_with_mail|Шлем Серебряного Тумана с кольчужной бармицей
+itm_kiergard_helm_silver_with_mail_pl|Шлем Серебряного Тумана с кольчужной бармицей
+itm_kiergard_helm_silver|Шлем Серебряного Тумана
+itm_kiergard_helm_silver_pl|Шлем Серебряного Тумана
+itm_maciejowski_helmet|Шлем с крыльями
+itm_maciejowski_helmet_pl|Шлем с крыльями
+itm_great_helmet|Большой шлем
+itm_great_helmet_pl|Большой шлем
+itm_fierd_helm_2|Тяжелый фирдсвейнский шпангенхельм
+itm_fierd_helm_2_pl|Тяжелый фирдсвейнский шпангенхельм
+itm_fierd_helm_1|Клепаный фирдсвейнский шпангенхельм
+itm_fierd_helm_1_pl|Клепаный фирдсвейнский шпангенхельм
+itm_fierd_helm_1_horned|Рогатый фирдсвейнский шпангенхельм
+itm_fierd_helm_1_horned_pl|Рогатый фирдсвейнский шпангенхельм
+itm_immortal_helmet|Шлем Бессмертных
+itm_immortal_helmet_pl|Шлем Бессмертных
+itm_immortal_helmet_a|Шлем бессмертных
+itm_immortal_helmet_a_pl|Шлем бессмертных
+itm_empire_gold_helmet|Имперский золотой шлем
+itm_empire_gold_helmet_pl|Имперский золотой шлем
+itm_helmet_empire_immortal|Шлем центуриона
+itm_helmet_empire_immortal_pl|Шлем центуриона
+itm_sallet_closed|Закрытый салад
+itm_sallet_closed_pl|Закрытый салад
+itm_ishkam_helm|Шлем Ишкомана
+itm_ishkam_helm_pl|Шлем Ишкомана
+itm_helmet_torbah_chieftain|Шлем вождей Торбы
+itm_helmet_torbah_chieftain_pl|Шлем вождей Торбы
+itm_barclay_helm|Барклайский топфхелм
+itm_barclay_helm_pl|Барклайский топфхелм
+itm_great_sugarloaf_helm|Рыцарский топфхелм
+itm_great_sugarloaf_helm_pl|Рыцарский топфхелм
+itm_melitine_mask_bronze|Мелитайнская бронзовая маска
+itm_melitine_mask_bronze_pl|Мелитайнская бронзовая маска
+itm_maximilian_helmet|Максимилианский шлем
+itm_maximilian_helmet_pl|Максимилианский шлем
+itm_maximilian_helmet_open|Максимилианский открытый шлем
+itm_maximilian_helmet_open_pl|Максимилианский открытый шлем
+itm_maximilian_helmet_horned|Максимилианский шлем с рогами
+itm_maximilian_helmet_horned_pl|Максимилианский шлем с рогами
+itm_maximilian_helmet_horned2|Максимилианский шлем с низкими рогами
+itm_maximilian_helmet_horned2_pl|Максимилианский шлем с низкими рогами
+itm_zitta_bascinet|Зитский бацинет
+itm_zitta_bascinet_pl|Зитский бацинет
+itm_zitta_bascinet_horned|Зитский бацинет с рогами
+itm_zitta_bascinet_horned_pl|Зитский бацинет с рогами
+itm_khergit_helmet|Шлем Джату
+itm_khergit_helmet_pl|Шлем Джату
+itm_khergit_cavalry_helmet|Кавалерийский шлем Джату
+itm_khergit_cavalry_helmet_pl|Кавалерийский шлем Джату
+itm_khergit_war_helmet|Боевой шлем Джату
+itm_khergit_war_helmet_pl|Боевой шлем Джату
+itm_khergit_guard_helmet|Гвардейский шлем Джату
+itm_khergit_guard_helmet_pl|Гвардейский шлем Джату
+itm_jatu_mask_helm|Шлем-маска Джату
+itm_jatu_mask_helm_pl|Шлем-маска Джату
+itm_jatu_faceless_helm|Закрытый шлем Джату
+itm_jatu_faceless_helm_pl|Закрытый шлем Джату
+itm_rav_footman_helm|Равенстернский пехотный шлем
+itm_rav_footman_helm_pl|Равенстернский пехотный шлем
+itm_rav_bascinet|Равенстернский бацинет
+itm_rav_bascinet_pl|Равенстернский бацинет
+itm_rav_open_bascinet|Открытый равенстернский бацинет
+itm_rav_open_bascinet_pl|Открытый равенстернский бацинет
+itm_sarleon_greathelm|Сарлеонский рыцарский хундсгугель
+itm_sarleon_greathelm_pl|Сарлеонский рыцарский хундсгугель
+itm_helmet_sarleon_knight_plume|Сарлеонский рыцарский хундсгугель-открытый
+itm_helmet_sarleon_knight_plume_pl|Сарлеонский рыцарский хундсгугель-открытый
+itm_great_helm|Топфхелм
+itm_great_helm_pl|Топфхелм
+itm_feather_bascinet_1|Хундсгугель с чёрным пером
+itm_feather_bascinet_1_pl|Хундсгугель с чёрным пером
+itm_helmet_hounskull_royal_open|Королевский открытый хусгундель
+itm_helmet_hounskull_royal_open_pl|Королевский открытый хусгундель
+itm_helmet_hounskull_bascinet|Хундсгугель бацинет
+itm_helmet_hounskull_bascinet_pl|Хундсгугель бацинет
+itm_visored_bascinet|Бацинет с забралом
+itm_visored_bascinet_pl|Бацинет с забралом
+itm_visored_bascinet_tailed|Бацинет с забралом и хвостом
+itm_visored_bascinet_tailed_pl|Бацинет с забралом и хвостом
+itm_visored_bascinet_open|Открытый бацинет с забралом
+itm_visored_bascinet_open_pl|Открытый бацинет с забралом
+itm_helmet_hounskull_bascinet_open_a|Барклайский открытый хундсгугель
+itm_helmet_hounskull_bascinet_open_a_pl|Барклайский открытый хундсгугель
+itm_helmet_hounskull_bascinet_open_b|Барклайский открытый хундсгугель с плюмажем 
+itm_helmet_hounskull_bascinet_open_b_pl|Барклайский открытый хундсгугель с плюмажем 
+itm_helmet_hounskull_bascinet_open_c|Барклайский открытый хундсгугель
+itm_helmet_hounskull_bascinet_open_c_pl|Барклайский открытый хундсгугель
+itm_feather_bascinet_2|Округлый хундсгугель с чёрным пером
+itm_feather_bascinet_2_pl|Округлый хундсгугель с чёрным пером
+itm_open_bascinet_irb|Открытый бацинет с плюмажем
+itm_open_bascinet_irb_pl|Открытый бацинет с плюмажем
+itm_flat_bascinet_tailed_open_irb|Плоский бацинет с хвостом - открытый
+itm_flat_bascinet_tailed_open_irb_pl|Плоский бацинет с хвостом - открытый
+itm_flat_bascinet_tailed_irb|Плоский бацинет с хвостом 
+itm_flat_bascinet_tailed_irb_pl|Плоский бацинет с хвостом 
+itm_black_rounded_bascinet|Черный круглый бацинет с хвостом
+itm_black_rounded_bascinet_pl|Черный круглый бацинет с хвостом
+itm_black_rounded_bascinet_open|Открытый черный круглый бацинет с хвостом
+itm_black_rounded_bascinet_open_pl|Открытый черный круглый бацинет с хвостом
+itm_hounskull_bascinet_tailed_irb|Бацинет хундсгугель с хвостом
+itm_hounskull_bascinet_tailed_irb_pl|Бацинет хундсгугель с хвостом
+itm_silver_7_helmet|Серебряный шлем ордена Рассвета
+itm_silver_7_helmet_pl|Серебряный шлем ордена Рассвета
+itm_silver_3_helmet|Серебряный открытый шлем ордена Рассвета
+itm_silver_3_helmet_pl|Серебряный открытый шлем ордена Рассвета
+itm_silver_4_helmet|Серебряный открытый шлем Валькирии
+itm_silver_4_helmet_pl|Серебряный открытый шлем Валькирии
+itm_silver_9_helmet|Серебряный остроконечный бацинет
+itm_silver_9_helmet_pl|Серебряный остроконечный бацинет
+itm_silver_10_helmet|Серебряный круглый бацинет
+itm_silver_10_helmet_pl|Серебряный круглый бацинет
+itm_silver_1_helmet|Серебряный круглый бацинет с хвостом
+itm_silver_1_helmet_pl|Серебряный круглый бацинет с хвостом
+itm_silver_2_helmet|Серебряный плоский шлем с перьями
+itm_silver_2_helmet_pl|Серебряный плоский шлем с перьями
+itm_silver_1b_helmet|Серебряный шлем 
+itm_silver_1b_helmet_pl|Серебряный шлем 
+itm_silver_2b_helmet|Серебряный заостренный бацинет с хвостом
+itm_silver_2b_helmet_pl|Серебряный заостренный бацинет с хвостом
+itm_silver_3b_helmet|Серебряный шлем с хвостом
+itm_silver_3b_helmet_pl|Серебряный шлем с хвостом
+itm_silver_4b_helmet|Серебряный бацинет хундсгугель
+itm_silver_4b_helmet_pl|Серебряный бацинет хундсгугель
+itm_azure_6_helmet|Лазурный открытый шлем
+itm_azure_6_helmet_pl|Лазурный шлем
+itm_azure_7_helmet|Лазурный шлем
+itm_azure_7_helmet_pl|Лазурный шлем
+itm_azure_8_helmet|Лазурный шлем
+itm_azure_8_helmet_pl|Лазурный шлем
+itm_azure_9_helmet|Лазурный шлем
+itm_azure_9_helmet_pl|Лазурный шлем
+itm_azure_10_helmet|Лазурный шлем
+itm_azure_10_helmet_pl|Лазурный шлем
+itm_outrider_helm|Шлем всадника
+itm_outrider_helm_pl|Шлем всадника
+itm_green_2_helmet|Шлем рейнджера с хвостом
+itm_green_2_helmet_pl|Шлем рейнджера с хвостом
+itm_green_1_helmet|Зеленый шлем с перьями
+itm_green_1_helmet_pl|Зеленый шлем с перьями
+itm_green_4_helmet|Зеленый круглый бацинет - открытый
+itm_green_4_helmet_pl|Зеленый круглый бацинет - открытый
+itm_green_3_helmet|Зеленый заостренный бацинет с перьями
+itm_green_3_helmet_pl|Зеленый заостренный бацинет с перьями
+itm_black_1_helmet|Черный шлем с перьями
+itm_black_1_helmet_pl|Черный шлем с перьями
+itm_helmet_knight_unicorn_open|Открытый шлем единорога
+itm_helmet_knight_unicorn_open_pl|Открытый шлем единорога
+itm_helmet_knight_unicorn|Шлем единорога
+itm_helmet_knight_unicorn_pl|Шлем единорога
+itm_black_2_helmet|Плоский шлем с пером
+itm_black_2_helmet_pl|Плоский шлем с пером
+itm_black_3_helmet|Черный круглый бацинет с хвостом
+itm_black_3_helmet_pl|Черный круглый бацинет с хвостом
+itm_helmet_black_hounskull_a|Чёрный хундсгугель
+itm_helmet_black_hounskull_a_pl|Чёрный хундсгугель
+itm_helmet_black_hounskull_b|Чёрный хундсгугель с перьями
+itm_helmet_black_hounskull_b_pl|Чёрный хундсгугель с перьями
+itm_black_7_helmet|Эбонитовый шлем с хвостом
+itm_black_7_helmet_pl|Эбонитовый шлем с хвостом
+itm_black_8_helmet|Шлем Ворона
+itm_black_8_helmet_pl|Шлем Ворона
+itm_supreme_raven_helm|Высший шлем ворона
+itm_supreme_raven_helm_pl|Высший шлем ворона
+itm_black_9_helmet|Бацинет Гриффона
+itm_black_9_helmet_pl|Бацинет Гриффона
+itm_steel_1_helmet|Стальной шлем с перьями
+itm_steel_1_helmet_pl|Стальной шлем с перьями
+itm_steel_2_helmet|Стальной шлем с козырьком
+itm_steel_2_helmet_pl|Стальной шлем с козырьком
+itm_steel_3_helmet|Стальной плоский бацинет
+itm_steel_3_helmet_pl|Стальной плоский бацинет
+itm_darkhelm|Тёмный рыцарский шлем
+itm_darkhelm_pl|Тёмный рыцарский шлем
+itm_helmet_hounskull_sarleon|Сарлеонский хундсгугель
+itm_helmet_hounskull_sarleon_pl|Сарлеонский хундсгугель
+itm_helmet_hounskull_sarleon_open|Сарлеонский открытый хундсгугель
+itm_helmet_hounskull_sarleon_open_pl|Сарлеонский открытый хундсгугель
+itm_helmet_rounded_bascinet|Круглый бацинет
+itm_helmet_rounded_bascinet_pl|Круглый бацинет
+itm_steel_4_helmet|Стальной круглый бацинет с хвостом
+itm_steel_4_helmet_pl|Стальной круглый бацинет с хвостом
+itm_steel_5_helmet|Львиный бацинет
+itm_steel_5_helmet_pl|Львиный бацинет
+itm_helmet_great_gold_plated|Топфхелм украшенный золотом
+itm_helmet_great_gold_plated_pl|Топфхелм украшенный золотом
+itm_helmet_knight_helm|Рыцарский шлем
+itm_helmet_knight_helm_pl|Рыцарский шлем
+itm_helmet_horned_01|Шлем с рогами
+itm_helmet_horned_01_pl|Шлем с рогами
+itm_great_helm_2|Великий драконий шлем
+itm_great_helm_2_pl|Великий драконий шлем
+itm_winged_great_helmet|Топфхелм с рогами
+itm_winged_great_helmet_pl|Топфхелм с рогами
+itm_helmet_molded_great|Литой шлем
+itm_helmet_molded_great_pl|Литой шлем
+itm_great_helm_1|Топфхелм крестоносца
+itm_great_helm_1_pl|Топфхелм крестоносца
+itm_winged_great_helmet_1|Красно-зеленый крылатый шлем
+itm_winged_great_helmet_1_pl|Красно-зеленый крылатый шлем
+itm_great_helmet_silver_1|Серебряный топфхелм
+itm_great_helmet_silver_1_pl|Серебряный топфхелм
+itm_great_helmet_silver_3|Серебряный топфхелм
+itm_great_helmet_silver_3_pl|Серебряный топфхелм
+itm_great_helmet_silver_6|Большой рогатый серебряный шлем
+itm_great_helmet_silver_6_pl|Большой рогатый серебряный шлем
+itm_great_helmet_silver_7|Желто-голубой большой шлем.
+itm_great_helmet_silver_7_pl|Желто-голубой большой шлем.
+itm_great_helmet_silver_8|Рыцарский рогатый серебряный шлем
+itm_great_helmet_silver_8_pl|Рыцарский рогатый серебряный шлем
+itm_great_helmet_silver_5|Серебряный топфхелм
+itm_great_helmet_silver_5_pl|Серебряный топфхелм
+itm_great_helmet_silver_2|Серебряный топфхелм
+itm_great_helmet_silver_2_pl|Серебряный топфхелм
+itm_helmet_knight_helm_black|Черный рыцарский шлем
+itm_helmet_knight_helm_black_pl|Черный рыцарский шлем
+itm_eventide_helm_cape|Шлем ордена Заката с накидкой
+itm_eventide_helm_cape_pl|Шлем ордена Заката с накидкой
+itm_eventide_helm|Шлем ордена Заката
+itm_eventide_helm_pl|Шлем ордена Заката
+itm_great_horned_helm_3|Ветеранский рогатый шлем
+itm_great_horned_helm_3_pl|Ветеранский рогатый шлем
+itm_great_helmet_black_1|Черный большой шлем
+itm_great_helmet_black_1_pl|Черный большой шлем
+itm_great_helmet_black_3|Желто-красный рыцарский шлем
+itm_great_helmet_black_3_pl|Желто-красный рыцарский шлем
+itm_helmet_horned_02|Рогатый шлем
+itm_helmet_horned_02_pl|Рогатый шлем
+itm_hood_white_silver_1|Серебряный шлем с белым капюшоном
+itm_hood_white_silver_1_pl|Серебряный шлем с белым капюшоном
+itm_hood_white_silver_2|Серебряный хундсгугель бацинет с белым капюшоном
+itm_hood_white_silver_2_pl|Серебряный хундсгугель бацинет с белым капюшоном
+itm_hood_white_black_1|Черный шлем с белым капюшоном
+itm_hood_white_black_1_pl|Черный шлем с белым капюшоном
+itm_hood_white_black_2|Черный хундсгугель бацинет с белым капюшоном
+itm_hood_white_black_2_pl|Черный хундсгугель бацинет с белым капюшоном
+itm_hood_white_iron_1|Железный шлем с белым капюшоном
+itm_hood_white_iron_1_pl|Железный шлем с белым капюшоном
+itm_hood_white_iron_2|Круглый бацинет с белым капюшоном
+itm_hood_white_iron_2_pl|Круглый бацинет с белым капюшоном
+itm_hood_white_silver_3|Серебряно-золотой шлем с белым капюшоном
+itm_hood_white_silver_3_pl|Серебряно-золотой шлем с белым капюшоном
+itm_hood_white_silver_4|Серебряный круглый бацинет с белым капюшоном
+itm_hood_white_silver_4_pl|Серебряный круглый бацинет с белым капюшоном
+itm_hood_white_iron_3|Золотой шлем с белым капюшоном
+itm_hood_white_iron_3_pl|Золотой шлем с белым капюшоном
+itm_hood_white_iron_4|Хундсгугель бацинет с белым капюшоном
+itm_hood_white_iron_4_pl|Хундсгугель бацинет с белым капюшоном
+itm_hood_black_black_1|Черно-золотой шлем с белым капюшоном
+itm_hood_black_black_1_pl|Черно-золотой шлем с белым капюшоном
+itm_hood_black_black_2|Темный хундсгугель бацинет с черным капюшоном
+itm_hood_black_black_2_pl|Темный хундсгугель бацинет с черным капюшоном
+itm_hood_black_black_3|Темный шлем с черным капюшоном
+itm_hood_black_black_3_pl|Темный шлем с черным капюшоном
+itm_hood_black_black_4|Темный круглый бацинет с черным капюшоном
+itm_hood_black_black_4_pl|Темный круглый бацинет с черным капюшоном
+itm_hood_black_black_5|Черный шлем с черным капюшоном
+itm_hood_black_black_5_pl|Черный шлем с черным капюшоном
+itm_hood_black_iron_1|Золотой шлем с черным капюшоном
+itm_hood_black_iron_1_pl|Золотой шлем с черным капюшоном
+itm_hood_black_iron_2|Золотой круглый бацинет с черным капюшоном
+itm_hood_black_iron_2_pl|Золотой круглый бацинет с черным капюшоном
+itm_hood_black_iron_3|Шлем с черным капюшоном
+itm_hood_black_iron_3_pl|Шлем с черным капюшоном
+itm_hood_black_iron_4|Хундсгугель бацинет с черным капюшоном
+itm_hood_black_iron_4_pl|Хундсгугель бацинет с черным капюшоном
+itm_hood_black_iron_5|Черный железный шлем с черным капюшоном
+itm_hood_black_iron_5_pl|Черный железный шлем с черным капюшоном
+itm_hood_red_iron_1|Золотой шлем с красным капюшоном
+itm_hood_red_iron_1_pl|Золотой шлем с красным капюшоном
+itm_hood_red_iron_2|Золотой хундсгугель бацинет с красным капюшоном
+itm_hood_red_iron_2_pl|Золотой хундсгугель бацинет с красным капюшоном
+itm_hood_red_black_1|Темный шлем с красным капюшоном
+itm_hood_red_black_1_pl|Темный шлем с красным капюшоном
+itm_hood_red_black_2|Золотой круглый бацинет с красным капюшоном
+itm_hood_red_black_2_pl|Золотой круглый бацинет с красным капюшоном
+itm_hood_red_iron_3|Шлем с красным капюшоном
+itm_hood_red_iron_3_pl|Шлем с красным капюшоном
+itm_hood_red_steel_1|Сарлеонский хундсгугель бацинет с красным капюшоном
+itm_hood_red_steel_1_pl|Сарлеонский хундсгугель бацинет с красным капюшоном
+itm_hood_red_steel_2|Сарлеонский круглый бацинет с красным капюшоном
+itm_hood_red_steel_2_pl|Сарлеонский круглый бацинет с красным капюшоном
+itm_hood_green_iron_1|Шлем с зеленым капюшоном
+itm_hood_green_iron_1_pl|Шлем с зеленым капюшоном
+itm_hood_green_iron_2|Круглый бацинет с зеленым капюшоном
+itm_hood_green_iron_2_pl|Круглый бацинет с зеленым капюшоном
+itm_hood_blue_iron_1|Шлем с голубым капюшоном
+itm_hood_blue_iron_1_pl|Шлем с голубым капюшоном
+itm_hood_blue_iron_2|Хундсгугель бацинет с голубым капюшоном
+itm_hood_blue_iron_2_pl|Хундсгугель бацинет с голубым капюшоном
+itm_hood_purple_iron_1|Шлем с фиолетовым капюшоном
+itm_hood_purple_iron_1_pl|Шлем с фиолетовым капюшоном
+itm_hood_purple_iron_2|Круглый бацинет с фиолетовым капюшоном
+itm_hood_purple_iron_2_pl|Круглый бацинет с фиолетовым капюшоном
+itm_hood_purple_blue_1|Голубой хундсгугель бацинет с фиолетовым капюшоном
+itm_hood_purple_blue_1_pl|Голубой хундсгугель бацинет с фиолетовым капюшоном
+itm_hood_purple_blue_2|Голубой круглый бацинет с фиолетовым капюшоном
+itm_hood_purple_blue_2_pl|Голубой круглый бацинет с фиолетовым капюшоном
+itm_hood_green_cyan_1|Зеленый хундсгугель бацинет с бирюзовым капюшоном
+itm_hood_green_cyan_1_pl|Зеленый хундсгугель бацинет с бирюзовым капюшоном
+itm_hood_green_cyan_2|Зеленый круглый бацинет с бирюзовым капюшоном
+itm_hood_green_cyan_2_pl|Зеленый круглый бацинет с бирюзовым капюшоном
+itm_hood_yellow_silver_1|Серебряный шлем с желтым плащом
+itm_hood_yellow_silver_1_pl|Серебряный шлем с желтым плащом
+itm_hood_yellow_silver_2|Серебряный круглый бацинет с желтым плащом
+itm_hood_yellow_silver_2_pl|Серебряный круглый бацинет с желтым плащом
+itm_hood_yellow_iron_1|Шлем с желтым плащом
+itm_hood_yellow_iron_1_pl|Шлем с желтым плащом
+itm_hood_yellow_iron_2|Хундсгугель бацинет с желтым плащом
+itm_hood_yellow_iron_2_pl|Хундсгугель бацинет с желтым плащом
+itm_hood_yellow_black_1|Темный шлем с желтым плащом
+itm_hood_yellow_black_1_pl|Темный шлем с желтым плащом
+itm_hood_yellow_black_2|Черный круглый бацинет с желтым плащом
+itm_hood_yellow_black_2_pl|Черный круглый бацинет с желтым плащом
+itm_royal_crown|Королевская корона
+itm_royal_crown_pl|Королевская корона
+itm_sarleon_king_helm|Шлем нового короля
+itm_sarleon_king_helm_pl|Шлем нового короля
+itm_ravenstern_king_helm|Северный королевский шлем
+itm_ravenstern_king_helm_pl|Северный королевский шлем
+itm_dshar_king_helm|Шлем южного короля
+itm_dshar_king_helm_pl|Шлем южного короля
+itm_fierdsvain_crown_helm|Королевский шлем Запада
+itm_fierdsvain_crown_helm_pl|Королевский шлем Запада
+itm_marius_helmet|Шлем Мариуса
+itm_marius_helmet_pl|Шлем Мариуса
+itm_pendor_king_helm|Шлем короля Пендора
+itm_pendor_king_helm_pl|Шлем короля Пендора
+itm_sarleon_pret_helm|Черный шлем-корона
+itm_sarleon_pret_helm_pl|Черный шлем-корона
+itm_ravenstern_pret_helm|Серебряный шлем-корона
+itm_ravenstern_pret_helm_pl|Серебряный шлем-корона
+itm_dshar_pert_helm|Шлем-корона Д'Шар
+itm_dshar_pert_helm_pl|Шлем-корона Д'Шар
+itm_fierdsvain_pret_helm|Шлем-корона Фирдсвейена
+itm_fierdsvain_pret_helm_pl|Шлем-корона Фирдсвейена
+itm_empire_pret_helmet|Старший имперский шлем
+itm_empire_pret_helmet_pl|Старший имперский шлем
+itm_noldor_inf_helm|Нолдорский пехотный шлем
+itm_noldor_inf_helm_pl|Нолдорский пехотный шлем
+itm_noldor_capt_helm|Нолдорский капитанский шлем
+itm_noldor_capt_helm_pl|Нолдорский капитанский шлем
+itm_noldor_knight_helm|Нолдорский рыцарский шлем
+itm_noldor_knight_helm_pl|Нолдорский рыцарский шлем
+itm_noldor_inf_helm_hooded|Нолдорский пехотный шлем с капюшоном
+itm_noldor_inf_helm_hooded_pl|Нолдорский пехотный шлем с капюшоном
+itm_noldor_capt_helm_hooded|Нолдорский капитанский шлем с капюшоном
+itm_noldor_capt_helm_hooded_pl|Нолдорский капитанский шлем с капюшоном
+itm_noldor_knight_helm_hooded|Нолдорский рыцарский шлем с капюшоном
+itm_noldor_knight_helm_hooded_pl|Нолдорский рыцарский шлем с капюшоном
+itm_scorpion_helmet_2|Маска убийцы
+itm_scorpion_helmet_2_pl|Маска убийцы
+itm_assassin_helmet|Шлем убийцы
+itm_assassin_helmet_pl|Шлем убийцы
+itm_wolf_helmet_2|Шлем-маска волка
+itm_wolf_helmet_2_pl|Шлем-маска волка
+itm_wolf_helmet_1|Волчий шлем
+itm_wolf_helmet_1_pl|Волчий шлем
+itm_phoenix_barbutte_helmet|Барбют Феникса
+itm_phoenix_barbutte_helmet_pl|Барбют Феникса
+itm_phoenix_helmet|Барбют Феникса с гребнем
+itm_phoenix_helmet_pl|Барбют Феникса с гребнем
+itm_phoenix_helmet_a|Барбют рыцаря Фениксов
+itm_phoenix_helmet_a_pl|Барбют рыцаря Фениксов
+itm_valkyrie_helmet|Шлем валькирий
+itm_valkyrie_helmet_pl|Шлем валькирий
+itm_kraken_helm|Маска Кракена
+itm_kraken_helm_pl|Маска Кракена
+itm_demon_helmet|Шлем Демона
+itm_demon_helmet_pl|Шлем Демона
+itm_snake_helm|Змеиный шлем-маска
+itm_snake_helm_pl|Змеиный шлем-маска
+itm_cobra_helm|Топфхелм Кобры
+itm_cobra_helm_pl|Топфхелм Кобры
+itm_helmet_fel_great|Топфхелм Анаконды
+itm_helmet_fel_great_pl|Топфхелм Анаконды
+itm_anaconda_snake_helm|Рыцарский шлем Анаконды
+itm_anaconda_snake_helm_pl|Рыцарский шлем Анаконды
+itm_asp_helm|Шлем Аспидов
+itm_asp_helm_pl|Шлем Аспидов
+itm_asp_helm_supreme|Высший шлем Аспидов
+itm_asp_helm_supreme_pl|Высший шлем Аспидов
+itm_hood_white|Белый капюшон
+itm_hood_white_pl|Белый капюшон
+itm_hood_dark|Темный капюшон
+itm_hood_dark_pl|Темный капюшон
+itm_hood_silver|Серебряный капюшон
+itm_hood_silver_pl|Серебряный капюшон
+itm_hood_cyan|Бирюзовый капюшон
+itm_hood_cyan_pl|Бирюзовый капюшон
+itm_practice_bow_2|Тренировочный лук
+itm_practice_bow_2_pl|Тренировочный лук
+itm_hunting_bow|Охотничий лук
+itm_hunting_bow_pl|Охотничий лук
+itm_short_bow|Короткий лук
+itm_short_bow_pl|Короткий лук
+itm_nomad_bow|Лук кочевника
+itm_nomad_bow_pl|Лук кочевника
+itm_long_bow|Длинный лук
+itm_long_bow_pl|Длинный лук
+itm_khergit_bow|Лук Д'Шар
+itm_khergit_bow_pl|Лук Д'Шар
+itm_strong_bow|Короткий композитный лук
+itm_strong_bow_pl|Короткий композитный лук
+itm_war_bow|Длинный композитный лук
+itm_war_bow_pl|Длинный композитный лук
+itm_melitine_bow|Мелитайнский кавалерийский лук
+itm_melitine_bow_pl|Мелитайнский кавалерийский лук
+itm_melitine_longbow|Мелитайнский пехотный лук
+itm_melitine_longbow_pl|Мелитайнский пехотный лук
+itm_hawkstorm_bow|Лук 'Стремительный ястреб'
+itm_hawkstorm_bow_pl|Лук 'Стремительный ястреб'
+itm_pendor_bow|Эбонитовый лук
+itm_pendor_bow_pl|Эбонитовый лук
+itm_dshar_horn_bow|Лук из рога
+itm_dshar_horn_bow_pl|Лук из рога
+itm_heretic_bow|Лук из черного дерева
+itm_heretic_bow_pl|Лук из черного дерева
+itm_noldor_bow|Нолдорский композитный лук
+itm_noldor_bow_pl|Нолдорский композитный лук
+itm_kadan_bow|Лук 'Наследие Дая'
+itm_kadan_bow_pl|Лук 'Наследие Дая'
+itm_duskfall_bow|Лук Скорых Сумерек
+itm_duskfall_bow_pl|Лук Скорых Сумерек
+itm_strange_rune_bow|Странный рунный лук
+itm_strange_rune_bow_pl|Странный рунный лук
+itm_ullrvetr_manifest|Дар УльрВетра
+itm_ullrvetr_manifest_pl|Дар УльрВетра
+itm_saphire_rune_bow|Сапфировый рунный лук
+itm_saphire_rune_bow_pl|Сапфировый рунный лук
+itm_ruby_rune_bow|Рубиновый рунный лук
+itm_ruby_rune_bow_pl|Рубиновый рунный лук
+itm_emerald_rune_bow|Эмеральдовый рунный лук
+itm_emerald_rune_bow_pl|Эмеральдовый рунный лук
+itm_hunting_crossbow|Охотничий арбалет
+itm_hunting_crossbow_pl|Охотничий арбалет
+itm_light_crossbow|Лёгкий арбалет
+itm_light_crossbow_pl|Лёгкий арбалет
+itm_balanced_crossbow|Сбалансированный арбалет
+itm_balanced_crossbow_pl|Сбалансированный арбалет
+itm_maiden_crossbow|Арбалет воительницы
+itm_maiden_crossbow_pl|Арбалет воительницы
+itm_heavy_crossbow|Тяжёлый арбалет
+itm_heavy_crossbow_pl|Тяжёлый арбалет
+itm_sniper_crossbow|Осадный арбалет
+itm_sniper_crossbow_pl|Осадный арбалет
+itm_arbalest|Меттенхаймский арбалет
+itm_arbalest_pl|Меттенхаймский арбалет
+itm_arquebus_1|Аркебуз
+itm_arquebus_1_pl|Аркебуз
+itm_practice_arrows_2|Тренировочные стрелы
+itm_practice_arrows_2_pl|Тренировочные стрелы
+itm_arrows|Стрелы
+itm_arrows_pl|Стрелы
+itm_barbed_arrows|Зазубренные стрелы
+itm_barbed_arrows_pl|Зазубренные стрелы
+itm_singalian_arrows|Сингалийские стрелы
+itm_singalian_arrows_pl|Сингалийские стрелы
+itm_melitine_arrows|Мелитайнские стрелы
+itm_melitine_arrows_pl|Мелитайнские стрелы
+itm_bodkin_arrows|Бронебойные стрелы
+itm_bodkin_arrows_pl|Бронебойные стрелы
+itm_melitine_arrows2|Мелитайнские кавалерийские стрелы
+itm_melitine_arrows2_pl|Мелитайнские кавалерийские стрелы
+itm_khergit_arrows|Стрелы Д'Шар
+itm_khergit_arrows_pl|Стрелы Д'Шар
+itm_dshar_superior_arrows|Идеальные стрелы Д'Шар
+itm_dshar_superior_arrows_pl|Идеальные стрелы Д'Шар
+itm_dshar_elite_arrows|Стрелы Гази 
+itm_dshar_elite_arrows_pl|Стрелы Гази 
+itm_jatu_arrows|Стрелы Джату
+itm_jatu_arrows_pl|Стрелы Джату
+itm_ranger_arrows|Стрелы рейнджера
+itm_ranger_arrows_pl|Стрелы рейнджера
+itm_heretic_arrows|Стрелы черного дерева
+itm_heretic_arrows_pl|Стрелы черного дерева
+itm_noldor_arrows|Нолдорские стрелы
+itm_noldor_arrows_pl|Нолдорские стрелы
+itm_bolts|Болты
+itm_bolts_pl|Болты
+itm_light_bolts|Облегченные болты
+itm_light_bolts_pl|Облегченные болты
+itm_balanced_bolts|Сбалансированные болты
+itm_balanced_bolts_pl|Сбалансированные болты
+itm_steel_bolts|Стальные болты
+itm_steel_bolts_pl|Стальные болты
+itm_elite_bolts|Осадные болты
+itm_elite_bolts_pl|Осадные болты
+itm_mettenheim_bolts|Меттенхаймские болты
+itm_mettenheim_bolts_pl|Меттенхаймские болты
+itm_bullets_1|Пули
+itm_bullets_1_pl|Пули
+itm_stones|Камни
+itm_stones_pl|Камни
+itm_throwing_knives|Метательные ножи
+itm_throwing_knives_pl|Метательные ножи
+itm_throwing_daggers|Метательные кинжалы
+itm_throwing_daggers_pl|Метательные кинжалы
+itm_assassin_knives|Метательные ножи ассасинов
+itm_assassin_knives_pl|Метательные ножи ассасинов
+itm_darts|Сулицы
+itm_darts_pl|Сулицы
+itm_war_darts|Боевые сулицы
+itm_war_darts_pl|Боевые сулицы
+itm_javelin|Дротики
+itm_javelin_pl|Дротики
+itm_throwing_spears|Метательные копья
+itm_throwing_spears_pl|Метательные копья
+itm_broadhead_spears|Широкие метательные копья
+itm_broadhead_spears_pl|Широкие метательные копья
+itm_jarid|Джариды
+itm_jarid_pl|Джариды
+itm_hasta_spear|Гаста старой империи
+itm_hasta_spear_pl|Гаста старой империи
+itm_pilum_light_spear|Лёгкий пилум старой империи
+itm_pilum_light_spear_pl|Лёгкий пилум старой империи
+itm_pilum_spear|Пилум старой империи
+itm_pilum_spear_pl|Пилум старой империи
+itm_ring_of_keys_throwing_axes|Связка ключей
+itm_ring_of_keys_throwing_axes_pl|Связка ключей
+itm_light_throwing_axes|Лёгкие метательные топоры
+itm_light_throwing_axes_pl|Лёгкие метательные топоры
+itm_light_throwing_axes_melee|Лёгкий метательный топор
+itm_light_throwing_axes_melee_pl|Лёгкий метательный топор
+itm_throwing_axes|Метательные топоры
+itm_throwing_axes_pl|Метательные топоры
+itm_throwing_axes_melee|Метательный топор
+itm_throwing_axes_melee_pl|Метательный топор
+itm_heavy_throwing_axes|Тяжёлые метательные топоры
+itm_heavy_throwing_axes_pl|Тяжёлые метательные топоры
+itm_heavy_throwing_axes_melee|Тяжёлый метательный топор
+itm_heavy_throwing_axes_melee_pl|Тяжёлый метательный топор
+itm_asp_throwing_axes|Метательные топоры Аспидов
+itm_asp_throwing_axes_pl|Метательные топоры Аспидов
+itm_asp_throwing_axes_melee|Метательные топоры Аспидов
+itm_asp_throwing_axes_melee_pl|Метательные топоры Аспидов
+itm_long_throw_spear|Большой метательный гафлак
+itm_long_throw_spear_pl|Большой метательный гафлак
+itm_long_throw_spear_melee|Большой гафлак (копьё)
+itm_long_throw_spear_melee_pl|Большой гафлак (копьё)
+itm_long_spiked_club|Древковая палица
+itm_long_spiked_club_pl|Древковая палица
+itm_iron_staff|Железный шест
+itm_iron_staff_pl|Железный шест
+itm_quarter_staff|Крепкий шест
+itm_quarter_staff_pl|Крепкий шест
+itm_long_hafted_knobbed_mace|Древковая булава
+itm_long_hafted_knobbed_mace_pl|Древковая булава
+itm_long_hafted_spiked_mace|Древковая булава с шипами
+itm_long_hafted_spiked_mace_pl|Древковая булава с шипами
+itm_polehammer_1|Древковый молот
+itm_polehammer_1_pl|Древковый молот
+itm_sarranid_two_handed_mace_1|Железная булава
+itm_sarranid_two_handed_mace_1_pl|Железная булава
+itm_torch|Факел
+itm_torch_pl|Факел
+itm_sword_medieval_a|Меч
+itm_sword_medieval_a_pl|Меч
+itm_sword_medieval_b|Железный меч
+itm_sword_medieval_b_pl|Железный меч
+itm_sword_medieval_b_small|Короткий меч
+itm_sword_medieval_b_small_pl|Короткий меч
+itm_sword_medieval_c|Вспомогательный меч
+itm_sword_medieval_c_pl|Вспомогательный меч
+itm_sword_medieval_c_small|Короткий стальной меч
+itm_sword_medieval_c_small_pl|Короткий стальной меч
+itm_sword_medieval_c_long|Стальной меч
+itm_sword_medieval_c_long_pl|Стальной меч
+itm_sword_medieval_d_long|Длинный стальной меч
+itm_sword_medieval_d_long_pl|Длинный стальной меч
+itm_empire_broadsword|Имперский широкий меч
+itm_empire_broadsword_pl|Имперский широкий меч
+itm_silvered_longsword|Посеребрённый длинный меч
+itm_silvered_longsword_pl|Посеребрённый длинный меч
+itm_crosshilt_sword|Дворянский меч
+itm_crosshilt_sword_pl|Дворянский меч
+itm_knight_war_axe|Рыцарская секира
+itm_knight_war_axe_pl|Рыцарская секира
+itm_vecc_bloodsword|Виккавийский меч крови
+itm_vecc_bloodsword_pl|Виккавийский меч крови
+itm_barclay_sword|Барклайский дворянский меч
+itm_barclay_sword_pl|Барклайский дворянский меч
+itm_ebony_duel_sword|Эбеновый дуэльный меч
+itm_ebony_duel_sword_pl|Эбеновый дуэльный меч
+itm_ebony_noble_sword|Эбеновый дворянский меч
+itm_ebony_noble_sword_pl|Эбеновый дворянский меч
+itm_ebony_knight_sword|Эбеновый рыцарский меч
+itm_ebony_knight_sword_pl|Эбеновый рыцарский меч
+itm_ebony_arming_sword|Эбеновый вспомогательный меч
+itm_ebony_arming_sword_pl|Эбеновый вспомогательный меч
+itm_ebony_long_sword|Эбеновый длинный меч
+itm_ebony_long_sword_pl|Эбеновый длинный меч
+itm_noldor_longsword|Нолдорский длинный меч
+itm_noldor_longsword_pl|Нолдорский длинный меч
+itm_noldor_runesword|Нолдорский рунный меч
+itm_noldor_runesword_pl|Нолдорский рунный меч
+itm_hidden_dagger|Потайной кинжал
+itm_hidden_dagger_pl|Потайной кинжал
+itm_wooden_stick|Деревянная палка
+itm_wooden_stick_pl|Деревянная палка
+itm_cudgel|Дубина
+itm_cudgel_pl|Дубина
+itm_hammer|Молот
+itm_hammer_pl|Молот
+itm_club|Дубинка
+itm_club_pl|Дубинка
+itm_winged_mace|Пернач
+itm_winged_mace_pl|Пернач
+itm_spiked_mace|Палица с металлическими шипами
+itm_spiked_mace_pl|Палица с металлическими шипами
+itm_military_hammer|Боевой молот
+itm_military_hammer_pl|Боевой молот
+itm_pickaxe|Клевец
+itm_pickaxe_pl|Клевец
+itm_fighting_pick|Боевой клевец
+itm_fighting_pick_pl|Боевой клевец
+itm_military_pick|Военный клевец
+itm_military_pick_pl|Военный клевец
+itm_sickle|Серп
+itm_sickle_pl|Серп
+itm_cleaver|Секач
+itm_cleaver_pl|Секач
+itm_knife|Нож
+itm_knife_pl|Нож
+itm_butchering_knife|Нож мясника
+itm_butchering_knife_pl|Нож мясника
+itm_dagger|Кинжал
+itm_dagger_pl|Кинжал
+itm_falchion|Фальшион
+itm_falchion_pl|Фальшион
+itm_hatchet|Топорик
+itm_hatchet_pl|Топорик
+itm_hand_axe|Ручной топор
+itm_hand_axe_pl|Ручной топор
+itm_fighting_axe|Бойцовский топор
+itm_fighting_axe_pl|Бойцовский топор
+itm_military_cleaver_b|Солдатский секач
+itm_military_cleaver_b_pl|Солдатский секач
+itm_military_cleaver_c|Войсковой секач
+itm_military_cleaver_c_pl|Войсковой секач
+itm_military_sickle_a|Боевой серп
+itm_military_sickle_a_pl|Боевой серп
+itm_one_handed_battle_axe_a|Одноручный топор
+itm_one_handed_battle_axe_a_pl|Одноручный топор
+itm_one_handed_war_axe_b|Одноручная секира
+itm_one_handed_war_axe_b_pl|Одноручная секира
+itm_one_handed_battle_axe_b|Одноручный боевой топор
+itm_one_handed_battle_axe_b_pl|Одноручный боевой топор
+itm_one_handed_battle_axe_c|Ветеранский одноручный топор
+itm_one_handed_battle_axe_c_pl|Ветеранский одноручный топор
+itm_sword_khergit_1|Сабля кочевника
+itm_sword_khergit_1_pl|Сабля кочевника
+itm_sword_khergit_3|Сабля
+itm_sword_khergit_3_pl|Сабля
+itm_sword_khergit_4|Тяжёлая сабля
+itm_sword_khergit_4_pl|Тяжёлая сабля
+itm_melitine_sabre|Мелитайнская сабля
+itm_melitine_sabre_pl|Мелитайнская сабля
+itm_mace_1|Палица
+itm_mace_1_pl|Палица
+itm_mace_2|Булава
+itm_mace_2_pl|Булава
+itm_mace_4|Пехотная булава
+itm_mace_4_pl|Пехотная булава
+itm_sarranid_mace_1|Железная булава
+itm_sarranid_mace_1_pl|Железная булава
+itm_cavalry_mace|Кавалерийская булава
+itm_cavalry_mace_pl|Кавалерийская булава
+itm_cavalry_club|Кавалерийская палица
+itm_cavalry_club_pl|Кавалерийская палица
+itm_steel_hammer|Стальной молот
+itm_steel_hammer_pl|Стальной молот
+itm_doom_mace|Булава погибели
+itm_doom_mace_pl|Булава погибели
+itm_sarranid_axe_a|Железный боевой топор
+itm_sarranid_axe_a_pl|Железный боевой топор
+itm_sarranid_axe_b|Железный солдатский топор
+itm_sarranid_axe_b_pl|Железный солдатский топор
+itm_warhammer_talek|Военный молот
+itm_warhammer_talek_pl|Военный молот
+itm_dragonspine_axe|Топор 'Хребет дракона'
+itm_dragonspine_axe_pl|Топор 'Хребет дракона'
+itm_bastard_sword_b|Сарлеонский рыцарский длинный меч
+itm_bastard_sword_b_pl|Сарлеонский рыцарский длинный меч
+itm_sarleon_sword|Сарлеонский вспомогательный длинный меч
+itm_sarleon_sword_pl|Сарлеонский вспомогательный длинный меч
+itm_rav_battle_axe|Равенстернский боевой топор
+itm_rav_battle_axe_pl|Равенстернский боевой топор
+itm_rav_sword|Равенстернский меч
+itm_rav_sword_pl|Равенстернский меч
+itm_rav_longsword|Равенстернский длинный меч
+itm_rav_longsword_pl|Равенстернский длинный меч
+itm_arabian_sword_a|Пустынный меч
+itm_arabian_sword_a_pl|Пустынный меч
+itm_arabian_sword_b|Пустынный вспомогательный меч
+itm_arabian_sword_b_pl|Пустынный вспомогательный меч
+itm_sarranid_cavalry_sword|Пустынный кавалерийский меч
+itm_sarranid_cavalry_sword_pl|Пустынный кавалерийский меч
+itm_arabian_sword_d|Пустынный гвардейский меч
+itm_arabian_sword_d_pl|Пустынный гвардейский меч
+itm_eventide_longsword|Длинный меч ордена Заката
+itm_eventide_longsword_pl|Длинный меч ордена Заката
+itm_scimitar|Скимитар
+itm_scimitar_pl|Скимитар
+itm_scimitar_b|Скимитар налетчиков
+itm_scimitar_b_pl|Скимитар налетчиков
+itm_dshar_sabre|Сабля Д'Шар
+itm_dshar_sabre_pl|Сабля Д'Шар
+itm_heavy_dshar_sabre|Тяжёлая сабля Д'Шар
+itm_heavy_dshar_sabre_pl|Тяжёлая сабля Д'Шар
+itm_sing_death_sabre|Сингалийская сабля смерти
+itm_sing_death_sabre_pl|Сингалийская сабля смерти
+itm_sing_noble_sabre|Сингалийская дворянская сабля
+itm_sing_noble_sabre_pl|Сингалийская дворянская сабля
+itm_dshar_short_sabre|Короткая сабля Д'Шар
+itm_dshar_short_sabre_pl|Короткая сабля Д'Шар
+itm_dshar_scimitar|Скимитар Д'Шар
+itm_dshar_scimitar_pl|Скимитар Д'Шар
+itm_sword_viking_1|Обычный железный меч
+itm_sword_viking_1_pl|Обычный железный меч
+itm_sword_viking_2|Тяжёлый железный меч
+itm_sword_viking_2_pl|Тяжёлый железный меч
+itm_sword_viking_2_small|Короткий железный меч
+itm_sword_viking_2_small_pl|Короткий железный меч
+itm_sword_viking_3|Меч Ванскерри
+itm_sword_viking_3_pl|Меч Ванскерри
+itm_sword_viking_3_small|Короткий боевой меч Ванскерри
+itm_sword_viking_3_small_pl|Короткий боевой меч Ванскерри
+itm_fierd_leaf_sword|Фирдсвейнский листообразный меч
+itm_fierd_leaf_sword_pl|Фирдсвейнский листообразный меч
+itm_fierd_long_sword|Фирдсвейнский длинный меч
+itm_fierd_long_sword_pl|Фирдсвейнский длинный меч
+itm_vanskerry_sword|Дворянский меч Ванскерри
+itm_vanskerry_sword_pl|Дворянский меч Ванскерри
+itm_fierd_war_axe|Фирдсвейнский боевой топор
+itm_fierd_war_axe_pl|Фирдсвейнский боевой топор
+itm_fierd_war_axe_new|Фирдсвейнский изогнутый боевой топор
+itm_fierd_war_axe_new_pl|Фирдсвейнский изогнутый боевой топор
+itm_jatu_sabre|Сабля Джату
+itm_jatu_sabre_pl|Сабля Джату
+itm_jatu_hsabre|Ятаган Джату
+itm_jatu_hsabre_pl|Ятаган Джату
+itm_spiked_club|Дубинка с шипами
+itm_spiked_club_pl|Дубинка с шипами
+itm_viper_sabre|Сабля гадюки
+itm_viper_sabre_pl|Сабля гадюки
+itm_scorpion_sword|Меч скорпиона
+itm_scorpion_sword_pl|Меч скорпиона
+itm_wolf_sword|Волчий меч
+itm_wolf_sword_pl|Волчий меч
+itm_phoenix_broadsword|Меч Феникса
+itm_phoenix_broadsword_pl|Меч Феникса
+itm_phoenix_sword|Длинный меч Феникса
+itm_phoenix_sword_pl|Длинный меч Феникса
+itm_strange_short_sword|Заморская короткая сабля
+itm_strange_short_sword_pl|Заморская короткая сабля
+itm_heretic_sabre|Необычная эбеновая сабля
+itm_heretic_sabre_pl|Необычная эбеновая сабля
+itm_strange_rune_axe|Странный рунный топор
+itm_strange_rune_axe_pl|Странный рунный топор
+itm_saphire_rune_axe|Сапфировый рунный топор
+itm_saphire_rune_axe_pl|Сапфировый рунный топор
+itm_ruby_rune_axe|Рубиновый рунный топор
+itm_ruby_rune_axe_pl|Рубиновый рунный топор
+itm_emerald_rune_axe|Эмеральдовый рунный топор
+itm_emerald_rune_axe_pl|Эмеральдовый рунный топор
+itm_strange_rune_sword|Странный рунный меч
+itm_strange_rune_sword_pl|Странный рунный меч
+itm_saphire_rune_sword|Сапфировый рунный меч
+itm_saphire_rune_sword_pl|Сапфировый рунный меч
+itm_ruby_rune_sword|Рубиновый рунный меч
+itm_ruby_rune_sword_pl|Рубиновый рунный меч
+itm_emerald_rune_sword|Эмеральдовый рунный меч
+itm_emerald_rune_sword_pl|Эмеральдовый рунный меч
+itm_marius_sword|Баккусский меч Оратора
+itm_marius_sword_pl|Баккусский меч Оратора
+itm_maul|Тяжёлая булава
+itm_maul_pl|Тяжёлая булава
+itm_sledgehammer|Кувалда
+itm_sledgehammer_pl|Кувалда
+itm_warhammer|Большой молот
+itm_warhammer_pl|Большой молот
+itm_club_with_spike_head|Дубинка с шипом
+itm_club_with_spike_head_pl|Дубинка с шипом
+itm_morningstar|Моргенштерн
+itm_morningstar_pl|Моргенштерн
+itm_battle_hammer|Боевой молот
+itm_battle_hammer_pl|Боевой молот
+itm_axe|Топор
+itm_axe_pl|Топор
+itm_voulge|Вульж
+itm_voulge_pl|Вульж
+itm_battle_axe|Боевой топор
+itm_battle_axe_pl|Боевой топор
+itm_war_axe|Секира
+itm_war_axe_pl|Секира
+itm_double_axe|Двусторонняя секира
+itm_double_axe_pl|Двусторонняя секира
+itm_thunder_double_axe|Волнистая двусторонняя секира
+itm_thunder_double_axe_pl|Волнистая двусторонняя секира
+itm_two_handed_cleaver|Боевой секач
+itm_two_handed_cleaver_pl|Боевой секач
+itm_two_handed_axe|Двуручный топор
+itm_two_handed_axe_pl|Двуручный топор
+itm_two_handed_battle_axe_2|Двуручная секира
+itm_two_handed_battle_axe_2_pl|Двуручная секира
+itm_two_handed_battle_axe_3|Вульж
+itm_two_handed_battle_axe_3_pl|Вульж
+itm_shortened_voulge|Облегченный вульж
+itm_shortened_voulge_pl|Облегченный вульж
+itm_great_axe|Большой топор
+itm_great_axe_pl|Большой топор
+itm_long_axe|Длинный топор
+itm_long_axe_pl|Длинный топор
+itm_long_axe_alt|Длинный топор
+itm_long_axe_alt_pl|Длинный топор
+itm_long_axe_b|Длинная секира
+itm_long_axe_b_pl|Длинная секира
+itm_long_axe_b_alt|Длинная секира
+itm_long_axe_b_alt_pl|Длинная секира
+itm_long_axe_c|Большой длинный топор
+itm_long_axe_c_pl|Большой длинный топор
+itm_long_axe_c_alt|Большой длинный топор
+itm_long_axe_c_alt_pl|Большой длинный топор
+itm_bardiche|Бердыш
+itm_bardiche_pl|Бердыш
+itm_great_bardiche|Большой бердыш
+itm_great_bardiche_pl|Большой бердыш
+itm_shortened_military_scythe|Укороченная боевая коса
+itm_shortened_military_scythe_pl|Укороченная боевая коса
+itm_sarranid_two_handed_axe_a|Пустынный боевой топор
+itm_sarranid_two_handed_axe_a_pl|Пустынный боевой топор
+itm_sarranid_two_handed_axe_b|Пустынный солдатский топор
+itm_sarranid_two_handed_axe_b_pl|Пустынный солдатский топор
+itm_raider_axe|Топор налетчиков
+itm_raider_axe_pl|Топор налетчиков
+itm_northern_battle_axe|Северный боевой топор
+itm_northern_battle_axe_pl|Северный боевой топор
+itm_ancient_rune_axe|Старинный рунный топор
+itm_ancient_rune_axe_pl|Старинный рунный топор
+itm_dire_axe|Ужасающий топор
+itm_dire_axe_pl|Ужасающий топор
+itm_valdis_axe|Боевая секира Конунга
+itm_valdis_axe_pl|Боевая секира Конунга
+itm_silver_axe|Рунный серебряный топор
+itm_silver_axe_pl|Рунный серебряный топор
+itm_sword_of_war|Меч войны
+itm_sword_of_war_pl|Меч войны
+itm_sword_two_handed_a|Двуручный меч
+itm_sword_two_handed_a_pl|Двуручный меч
+itm_great_sword|Большой меч
+itm_great_sword_pl|Большой меч
+itm_khergit_sword_two_handed_a|Двуручная сабля
+itm_khergit_sword_two_handed_a_pl|Двуручная сабля
+itm_silver_claymore|Посеребрённый клеймор
+itm_silver_claymore_pl|Посеребрённый клеймор
+itm_khergit_sword_two_handed_b|Двуручная сабля
+itm_khergit_sword_two_handed_b_pl|Двуручная сабля
+itm_sword_two_handed_b|Меттенхаймский дуэльный меч
+itm_sword_two_handed_b_pl|Меттенхаймский дуэльный меч
+itm_fierd_berserker_sword|Фирдсвейнский меч берсеркера
+itm_fierd_berserker_sword_pl|Фирдсвейнский меч берсеркера
+itm_empire_great_sword|Имперский великий меч
+itm_empire_great_sword_pl|Имперский великий меч
+itm_flame_sword|Пламенный клинок
+itm_flame_sword_pl|Пламенный клинок
+itm_ebony_bastard_sword|Эбеновый полуторный меч
+itm_ebony_bastard_sword_pl|Эбеновый полуторный меч
+itm_noldor_bastard|Нолдорский полуторный меч
+itm_noldor_bastard_pl|Нолдорский полуторный меч
+itm_runed_bastard|Рунный полуторный меч
+itm_runed_bastard_pl|Рунный полуторный меч
+itm_claymore|Клеймор
+itm_claymore_pl|Клеймор
+itm_bastard_sword_a|Полуторный меч
+itm_bastard_sword_a_pl|Полуторный меч
+itm_strange_rune_two_h_sword|Странный рунный двуручный меч
+itm_strange_rune_two_h_sword_pl|Странный рунный двуручный меч
+itm_saphire_rune_two_h_sword|Сапфировый рунный двуручный меч
+itm_saphire_rune_two_h_sword_pl|Сапфировый рунный двуручный меч
+itm_ruby_rune_two_h_sword|Рубиновый рунный двуручный меч
+itm_ruby_rune_two_h_sword_pl|Рубиновый рунный двуручный меч
+itm_emerald_rune_two_h_sword|Эмеральдовый рунный двуручный меч
+itm_emerald_rune_two_h_sword_pl|Эмеральдовый рунный двуручный меч
+itm_gregory_sword|Меч 'Зуб дракона'
+itm_gregory_sword_pl|Меч 'Зуб дракона'
+itm_havathang|Хэваханг
+itm_havathang_pl|Хэваханг
+itm_strange_sword|Заморская сабля
+itm_strange_sword_pl|Заморская сабля
+itm_strange_great_sword|Заморская двуручная сабля
+itm_strange_great_sword_pl|Заморская двуручная сабля
+itm_rav_great_sword|Равенстернский большой меч
+itm_rav_great_sword_pl|Равенстернский большой меч
+itm_pendor_greatsword|Пендорский большой меч
+itm_pendor_greatsword_pl|Пендорский большой меч
+itm_zweihander|Цвайхендер
+itm_zweihander_pl|Цвайхендер
+itm_ebony_great_sword|Эбеновый фламберг
+itm_ebony_great_sword_pl|Эбеновый фламберг
+itm_jousting_lance|Турнирное кавалерийское копьё
+itm_jousting_lance_pl|Турнирное кавалерийское копьё
+itm_double_sided_lance|Двустороннее кавалерийское копьё
+itm_double_sided_lance_pl|Двустороннее кавалерийское копьё
+itm_light_lance|Легкое кавалерийское копьё
+itm_light_lance_pl|Легкое кавалерийское копьё
+itm_lance|Кавалерийское копьё
+itm_lance_pl|Кавалерийское копьё
+itm_heavy_lance|Тяжёлое кавалерийское копьё
+itm_heavy_lance_pl|Тяжёлое кавалерийское копьё
+itm_great_lance|Большое кавалерийское копьё
+itm_great_lance_pl|Большое кавалерийское копьё
+itm_long_knight_lance|Длинное темное рыцарское копьё
+itm_long_knight_lance_pl|Длинное темное рыцарское копьё
+itm_long_knight_lance2|Длинное рыцарское копьё
+itm_long_knight_lance2_pl|Длинное рыцарское копьё
+itm_long_knight_lance_dawn|Длинное рыцарское копьё ордена Рассвета
+itm_long_knight_lance_dawn_pl|Длинное рыцарское копьё ордена Рассвета
+itm_long_knight_lance_blue|Длинное голубое рыцарское копье
+itm_long_knight_lance_blue_pl|Длинное голубое рыцарское копье
+itm_long_knight_lance_green|Длинное зеленое рыцарское копье
+itm_long_knight_lance_green_pl|Длинное зеленое рыцарское копье
+itm_long_knight_lance_red|Длинное красное рыцарское копье
+itm_long_knight_lance_red_pl|Длинное красное рыцарское копье
+itm_long_cavalry_lance|Длинное кавалерийское копьё
+itm_long_cavalry_lance_pl|Длинное кавалерийское копьё
+itm_long_cavalry_lance_white|Длинное белое кавалерийское копьё
+itm_long_cavalry_lance_white_pl|Длинное белое кавалерийское копьё
+itm_long_cavalry_lance_blue|Длинное голубое кавалерийское копьё
+itm_long_cavalry_lance_blue_pl|Длинное голубое кавалерийское копьё
+itm_long_cavalry_lance_green|Длинное зеленое кавалерийское копьё
+itm_long_cavalry_lance_green_pl|Длинное зеленое кавалерийское копьё
+itm_long_cavalry_lance_red|Длинное красное кавалерийское копьё
+itm_long_cavalry_lance_red_pl|Длинное красное кавалерийское копьё
+itm_jatu_lance|Кавалерийское копьё чести Джату
+itm_jatu_lance_pl|Кавалерийское копьё чести Джату
+itm_melitine_lance|Мелитайнское кавалерийское копьё
+itm_melitine_lance_pl|Мелитайнское кавалерийское копьё
+itm_melitine_impaler|Мелитайнский 'Пронзатель'
+itm_melitine_impaler_pl|Мелитайнский 'Пронзатель'
+itm_sarleon_banner|Знамя Сарлеона
+itm_sarleon_banner_pl|Знамя Сарлеона
+itm_long_bardiche|Длинный бердыш
+itm_long_bardiche_pl|Длинный бердыш
+itm_great_long_bardiche|Большой длинный бердыш
+itm_great_long_bardiche_pl|Большой длинный бердыш
+itm_hafted_blade_b|Древковый клинок
+itm_hafted_blade_b_pl|Древковый клинок
+itm_hafted_blade_a|Древковый клинок
+itm_hafted_blade_a_pl|Древковый клинок
+itm_scythe|Коса
+itm_scythe_pl|Коса
+itm_pitch_fork|Вилы
+itm_pitch_fork_pl|Вилы
+itm_boar_spear|Рогатина
+itm_boar_spear_pl|Рогатина
+itm_glaive|Глефа Д'Шар
+itm_glaive_pl|Глефа Д'Шар
+itm_poleaxe|Древковый топор
+itm_poleaxe_pl|Древковый топор
+itm_spear|Пехотное копьё
+itm_spear_pl|Пехотное копьё
+itm_bamboo_spear|Заморское копьё
+itm_bamboo_spear_pl|Заморское копьё
+itm_war_spear|Военное пехотное копьё
+itm_war_spear_pl|Военное пехотное копьё
+itm_trident|Трезубец
+itm_trident_pl|Трезубец
+itm_pike|Пика
+itm_pike_pl|Пика
+itm_ashwood_pike|Ясеневая пика
+itm_ashwood_pike_pl|Ясеневая пика
+itm_awlpike|Альшпис
+itm_awlpike_pl|Альшпис
+itm_awlpike_long|Длинный альшпис
+itm_awlpike_long_pl|Длинный альшпис
+itm_bec_de_corbin_a|Вороний клюв
+itm_bec_de_corbin_a_pl|Вороний клюв
+itm_black_iron_spear|Чёрное железное копьё
+itm_black_iron_spear_pl|Чёрное железное копьё
+itm_southern_glaive|Южная глефа
+itm_southern_glaive_pl|Южная глефа
+itm_empire_halberd|Имперская алебарда
+itm_empire_halberd_pl|Имперская алебарда
+itm_sarleon_halberd|Сарлеонская алебарда
+itm_sarleon_halberd_pl|Сарлеонская алебарда
+itm_polehammer_2|Дробящий стальной древковый молот
+itm_polehammer_2_pl|Дробящий стальной древковый молот
+itm_melitine_spear|Мелитайнское копьё
+itm_melitine_spear_pl|Мелитайнское копьё
+itm_melitine_spear2|Мелитайнский 'Потрошитель'
+itm_melitine_spear2_pl|Мелитайнский 'Потрошитель'
+itm_strange_rune_glaive|Странная рунная глефа
+itm_strange_rune_glaive_pl|Странная рунная глефа
+itm_saphire_rune_glaive|Сапфировая рунная глефа
+itm_saphire_rune_glaive_pl|Сапфировая рунная глефа
+itm_ruby_rune_glaive|Рубиновая рунная глефа
+itm_ruby_rune_glaive_pl|Рубиновая рунная глефа
+itm_emerald_rune_glaive|Эмеральдовая рунная глефа
+itm_emerald_rune_glaive_pl|Эмеральдовая рунная глефа
+itm_manopener|'Открывашка мужчин'
+itm_manopener_pl|'Открывашка мужчин'
+itm_wolf_halberd|Волчья алебарда
+itm_wolf_halberd_pl|Волчья алебарда
+itm_tab_shield_small_round_a|Обычный кавалерийский щит
+itm_tab_shield_small_round_a_pl|Обычный кавалерийский щит
+itm_tab_shield_small_round_b|Круглый кавалерийский щит
+itm_tab_shield_small_round_b_pl|Круглый кавалерийский щит
+itm_tab_shield_small_round_c|Элитный кавалерийский щит
+itm_tab_shield_small_round_c_pl|Элитный кавалерийский щит
+itm_tab_shield_round_a|Старый круглый щит
+itm_tab_shield_round_a_pl|Старый круглый щит
+itm_tab_shield_round_b|Обычный круглый щит
+itm_tab_shield_round_b_pl|Обычный круглый щит
+itm_tab_shield_round_c|Круглый щит
+itm_tab_shield_round_c_pl|Круглый щит
+itm_tab_shield_round_d|Тяжёлый круглый щит
+itm_tab_shield_round_d_pl|Тяжёлый круглый щит
+itm_tab_shield_round_e|Круглый щит хускарлов
+itm_tab_shield_round_e_pl|Круглый щит хускарлов
+itm_kraken_round_shield|Щит Кракена
+itm_kraken_round_shield_pl|Щит Кракена
+itm_kraken_round_shield_medium|Круглый щит Кракена
+itm_kraken_round_shield_medium_pl|Круглый щит Кракена
+itm_steel_shield|Стальной щит
+itm_steel_shield_pl|Стальной щит
+itm_plate_covered_round_shield|Обитый пластинами круглый щит
+itm_plate_covered_round_shield_pl|Обитый пластинами круглый щит
+itm_leather_covered_round_shield|Обтянутый кожей круглый щит
+itm_leather_covered_round_shield_pl|Обтянутый кожей круглый щит
+itm_hide_covered_round_shield|Обтянутый шкурой круглый щит
+itm_hide_covered_round_shield_pl|Обтянутый шкурой круглый щит
+itm_wooden_shield|Деревянный щит
+itm_wooden_shield_pl|Деревянный щит
+itm_nordic_shield|Щит Ванскерри
+itm_nordic_shield_pl|Щит Ванскерри
+itm_noldor_inf_shield|Нолдорский пехотный щит
+itm_noldor_inf_shield_pl|Нолдорский пехотный щит
+itm_noldor_noble_shield|Нолдорский величественный щит
+itm_noldor_noble_shield_pl|Нолдорский величественный щит
+itm_shield_round_26|Тяжёлый щит ванскери
+itm_shield_round_26_pl|Тяжёлый щит ванскери
+itm_shield_round_27|Круглый щит еретика
+itm_shield_round_27_pl|Круглый щит еретика
+itm_shield_round_28|Круглый щит с гравировкой
+itm_shield_round_28_pl|Круглый щит с гравировкой
+itm_shield_round_29|Змеиный щит с гравировкой
+itm_shield_round_29_pl|Змеиный щит с гравировкой
+itm_shield_round_30|Позолоченный круглый щит
+itm_shield_round_30_pl|Позолоченный круглый щит
+itm_shield_round_01|Круглый щит Дракона
+itm_shield_round_01_pl|Круглый щит Дракона
+itm_shield_round_02|Рельефный круглый щит
+itm_shield_round_02_pl|Рельефный круглый щит
+itm_shield_round_03|Щит налетчиков-ванскери
+itm_shield_round_03_pl|Щит налетчиков-ванскери
+itm_shield_round_04|Круглый металлический щит
+itm_shield_round_04_pl|Круглый металлический щит
+itm_shield_round_05|Щит ярла
+itm_shield_round_05_pl|Щит ярла
+itm_shield_round_06|Темный круглый металлический щит
+itm_shield_round_06_pl|Темный круглый металлический щит
+itm_shield_round_07|Щит старой империи
+itm_shield_round_07_pl|Щит старой империи
+itm_shield_round_08|Щит канджахара
+itm_shield_round_08_pl|Щит канджахара
+itm_shield_round_09|Щит кочевников Джату
+itm_shield_round_09_pl|Щит кочевников Джату
+itm_shield_round_10|Щит шейха Джату
+itm_shield_round_10_pl|Щит шейха Джату
+itm_shield_round_11|Щит главаря Джату
+itm_shield_round_11_pl|Щит главаря Джату
+itm_shield_round_12|Щит варваров туманных гор
+itm_shield_round_12_pl|Щит варваров туманных гор
+itm_shield_round_13|Щит пустыни Торба
+itm_shield_round_13_pl|Щит пустыни Торба
+itm_shield_round_14|Круглый щит Д'Шар
+itm_shield_round_14_pl|Круглый щит Д'Шар
+itm_shield_round_15|Рельефный щит змеи
+itm_shield_round_15_pl|Рельефный щит змеи
+itm_shield_round_16|Скрепленный деревянный круглый щит
+itm_shield_round_16_pl|Скрепленный деревянный круглый щит
+itm_shield_round_17|Рельефный звездный щит
+itm_shield_round_17_pl|Рельефный звездный щит
+itm_shield_round_18|Круглый северный щит
+itm_shield_round_18_pl|Круглый северный щит
+itm_shield_round_19|Круглый щит с крестом Д'Шар
+itm_shield_round_19_pl|Круглый щит с крестом Д'Шар
+itm_shield_round_20|Адский щит
+itm_shield_round_20_pl|Адский щит
+itm_shield_round_21|Щит Анаконды
+itm_shield_round_21_pl|Щит Анаконды
+itm_shield_round_22|Круглый щит Змеи
+itm_shield_round_22_pl|Круглый щит Змеи
+itm_shield_round_23|Украшенный щит
+itm_shield_round_23_pl|Украшенный щит
+itm_shield_round_24|Рельефный щит
+itm_shield_round_24_pl|Рельефный щит
+itm_shield_heater_c|Тарч
+itm_shield_heater_c_pl|Тарч
+itm_shield_battle_01|Тарч - чёрный лев на жёлтом 
+itm_shield_battle_01_pl|Тарч - чёрный лев на жёлтом 
+itm_shield_battle_03|Тарч - белые лилии на синем 
+itm_shield_battle_03_pl|Тарч - белые лилии на синем 
+itm_shield_battle_04|Тарч - белые и чёрные колокола
+itm_shield_battle_04_pl|Тарч - белые и чёрные колокола
+itm_shield_battle_05|Щит демона
+itm_shield_battle_05_pl|Щит демона
+itm_shield_battle_02|Тарч ордена Льва
+itm_shield_battle_02_pl|Тарч ордена Льва
+itm_tab_shield_kite_a|Старый каплевидный щит
+itm_tab_shield_kite_a_pl|Старый каплевидный щит
+itm_tab_shield_kite_b|Обычный каплевидный щит
+itm_tab_shield_kite_b_pl|Обычный каплевидный щит
+itm_tab_shield_kite_c|Каплевидный щит
+itm_tab_shield_kite_c_pl|Каплевидный щит
+itm_tab_shield_kite_d|Тяжёлый каплевидный щит
+itm_tab_shield_kite_d_pl|Тяжёлый каплевидный щит
+itm_tab_shield_kite_cav_a|Кавалерийский каплевидный щит
+itm_tab_shield_kite_cav_a_pl|Кавалерийский каплевидный щит
+itm_tab_shield_kite_cav_b|Рыцарский каплевидный щит
+itm_tab_shield_kite_cav_b_pl|Рыцарский каплевидный щит
+itm_norman_shield_7|Каплевидный щит
+itm_norman_shield_7_pl|Каплевидный щит
+itm_norman_shield_8|Каплевидный щит
+itm_norman_shield_8_pl|Каплевидный щит
+itm_fur_covered_shield|Обтянутый мехом щит
+itm_fur_covered_shield_pl|Обтянутый мехом щит
+itm_norman_shield_1|Каплевидный щит - золотой морской конь
+itm_norman_shield_1_pl|Каплевидный щит - золотой морской конь
+itm_norman_shield_2|Каплевидный щит - красный с золотым
+itm_norman_shield_2_pl|Каплевидный щит - красный с золотым
+itm_norman_shield_3|Каплевидный щит - чёрный с золотым
+itm_norman_shield_3_pl|Каплевидный щит - чёрный с золотым
+itm_shield_kite_ornate|Украшенный каплевидный щит
+itm_shield_kite_ornate_pl|Украшенный каплевидный щит
+itm_norman_shield_4|Каплевидный щит - белый крест на синем 
+itm_norman_shield_4_pl|Каплевидный щит - белый крест на синем 
+itm_norman_shield_5|Каплевидный щит - белый лев на голубом 
+itm_norman_shield_5_pl|Каплевидный щит - белый лев на голубом 
+itm_norman_shield_6|Каплевидный щит - синий дракон на золотом 
+itm_norman_shield_6_pl|Каплевидный щит - синий дракон на золотом 
+itm_shield_tear_simple|Щит-слеза
+itm_shield_tear_simple_pl|Щит-слеза
+itm_shield_empire_infantry|Щит имперской пехоты
+itm_shield_empire_infantry_pl|Щит имперской пехоты
+itm_noldor_ench_shield|Нолдорский зачарованный щит
+itm_noldor_ench_shield_pl|Нолдорский зачарованный щит
+itm_tab_shield_pavise_a|Старая павеза
+itm_tab_shield_pavise_a_pl|Старая павеза
+itm_tab_shield_pavise_b|Обычная павеза
+itm_tab_shield_pavise_b_pl|Обычная павеза
+itm_tab_shield_pavise_c|Павеза
+itm_tab_shield_pavise_c_pl|Павеза
+itm_tab_shield_pavise_d|Тяжёлая павеза
+itm_tab_shield_pavise_d_pl|Тяжёлая павеза
+itm_tab_shield_heater_a|Старый треугольный щит
+itm_tab_shield_heater_a_pl|Старый треугольный щит
+itm_tab_shield_heater_b|Обычный треугольный щит
+itm_tab_shield_heater_b_pl|Обычный треугольный щит
+itm_tab_shield_heater_c|Треугольный щит
+itm_tab_shield_heater_c_pl|Треугольный щит
+itm_tab_shield_heater_d|Тяжёлый треугольный щит
+itm_tab_shield_heater_d_pl|Тяжёлый треугольный щит
+itm_tab_shield_heater_cav_a|Кавалерийский треугольный щит
+itm_tab_shield_heater_cav_a_pl|Кавалерийский треугольный щит
+itm_tab_shield_heater_cav_b|Рыцарский треугольный щит
+itm_tab_shield_heater_cav_b_pl|Рыцарский треугольный щит
+itm_heater_shield_01|Тарч - белый орел на красном 
+itm_heater_shield_01_pl|Тарч - белый орел на красном 
+itm_heater_shield_02|Тарч - белый с синим
+itm_heater_shield_02_pl|Тарч - белый с синим
+itm_heater_shield_03|Тарч - золотой клевер
+itm_heater_shield_03_pl|Тарч - золотой клевер
+itm_heater_shield_04|Тарч - золотой лев на зелёном 
+itm_heater_shield_04_pl|Тарч - золотой лев на зелёном 
+itm_heater_shield_05|Тарч - чёрный пегас на белом 
+itm_heater_shield_05_pl|Тарч - чёрный пегас на белом 
+itm_heater_shield_06|Тарч - белый грифон на зелёном 
+itm_heater_shield_06_pl|Тарч - белый грифон на зелёном 
+itm_heater_shield_07|Тарч Дракона
+itm_heater_shield_07_pl|Тарч Дракона
+itm_heater_shield_08|Тарч - чёрный единорог на белом
+itm_heater_shield_08_pl|Тарч - чёрный единорог на белом
+itm_heater_shield_09|Тарч - красные и синие углы
+itm_heater_shield_09_pl|Тарч - красные и синие углы
+itm_heater_shield_10|Тарч - голова кабана на красном
+itm_heater_shield_10_pl|Тарч - голова кабана на красном
+itm_heater_shield_11|Тарч - белая лилия на голубом
+itm_heater_shield_11_pl|Тарч - белая лилия на голубом
+itm_heater_shield_12|Имперский тарч
+itm_heater_shield_12_pl|Имперский тарч
+itm_heater_shield_13|Тарч ордена Виверн
+itm_heater_shield_13_pl|Тарч ордена Виверн
+itm_heater_shield_14|Тарч - белый и красный с чёрным
+itm_heater_shield_14_pl|Тарч - белый и красный с чёрным
+itm_heater_shield_15|Тарч - золотой лев на синем
+itm_heater_shield_15_pl|Тарч - золотой лев на синем
+itm_heater_shield_16|Тарч ордена Грифона
+itm_heater_shield_16_pl|Тарч ордена Грифона
+itm_heater_shield_17|Тарч - чёрный орел на желтом
+itm_heater_shield_17_pl|Тарч - чёрный орел на желтом
+itm_heater_shield_18|Тарч - черные и белые углы
+itm_heater_shield_18_pl|Тарч - черные и белые углы
+itm_heater_shield_19|Тарч - черное и белое
+itm_heater_shield_19_pl|Тарч - черное и белое
+itm_heater_shield_20|Тарч - черные и жёлтые углы
+itm_heater_shield_20_pl|Тарч - черные и жёлтые углы
+itm_heater_shield_21|Тарч - золотой лев на красном
+itm_heater_shield_21_pl|Тарч - золотой лев на красном
+itm_heater_shield_22|Тарч еретиков
+itm_heater_shield_22_pl|Тарч еретиков
+itm_heater_shield_23|Тарч - королевский олень
+itm_heater_shield_23_pl|Тарч - королевский олень
+itm_heater_shield_24|Тарч - белая виверна на красном
+itm_heater_shield_24_pl|Тарч - белая виверна на красном
+itm_heater_shield_25|Тарч - два кричащих орла на черном
+itm_heater_shield_25_pl|Тарч - два кричащих орла на черном
+itm_heater_shield_26|Тарч - золотой крест на синем
+itm_heater_shield_26_pl|Тарч - золотой крест на синем
+itm_heater_shield_27|Тарч - белый лев на красно-золотом
+itm_heater_shield_27_pl|Тарч - белый лев на красно-золотом
+itm_heater_shield_28|Тарч - Черный и белый орел
+itm_heater_shield_28_pl|Тарч - Черный и белый орел
+itm_heater_shield_29|Тарч ордена Рассвета
+itm_heater_shield_29_pl|Тарч ордена Рассвета
+itm_heater_shield_30|Тарч компании Меча Грифона
+itm_heater_shield_30_pl|Тарч компании Меча Грифона
+itm_heater_shield_31|Тарч ордена Эбеновой Перчатки
+itm_heater_shield_31_pl|Тарч ордена Эбеновой Перчатки
+itm_heater_shield_32|Тарч - смертельный щит
+itm_heater_shield_32_pl|Тарч - смертельный щит
+itm_heater_shield_33|Тарч - искатели приключений де Флера
+itm_heater_shield_33_pl|Тарч - искатели приключений де Флера
+itm_heater_shield_34|Тарч - щит Айгрима
+itm_heater_shield_34_pl|Тарч - щит Айгрима
+itm_heater_shield_35|Тарч ордена Звонкого Призыва
+itm_heater_shield_35_pl|Тарч ордена Звонкого Призыва
+itm_heater_shield_36|Тарч ордена Копья Ворона
+itm_heater_shield_36_pl|Тарч ордена Копья Ворона
+itm_heater_shield_37|Тарч - три мудреца
+itm_heater_shield_37_pl|Тарч - три мудреца
+itm_heater_shield_38|Щит культа змеи
+itm_heater_shield_38_pl|Щит культа змеи
+itm_heater_shield_39|Тарч - морской змей
+itm_heater_shield_39_pl|Тарч - морской змей
+itm_heater_shield_40|Тарч - Три золотых дракона на красном
+itm_heater_shield_40_pl|Тарч - Три золотых дракона на красном
+itm_heater_shield_42|Марлеонский тарч
+itm_heater_shield_42_pl|Марлеонский тарч
+itm_wolf_round_shield_1|Круглый щит Волков Тени
+itm_wolf_round_shield_1_pl|Круглый щит Волков Тени
+itm_scorpion_round_shield_2|Круглый щит скорпиона
+itm_scorpion_round_shield_2_pl|Круглый щит скорпиона
+itm_phoenix_heater_shield|Тарч - Феникс
+itm_phoenix_heater_shield_pl|Тарч - Феникс
+itm_phoenix_battle_shield|Боевой щит Феникса
+itm_phoenix_battle_shield_pl|Боевой щит Феникса
+itm_talon_shield|Щит Когтя Сокола
+itm_talon_shield_pl|Щит Когтя Сокола
+itm_shield_kite_falcon|Щит ордена Сокола
+itm_shield_kite_falcon_pl|Щит ордена Сокола
+itm_eventide_shield|Щит ордена Заката
+itm_eventide_shield_pl|Щит ордена Заката
+itm_anaconda_shield|Шипастый щит Анаконды
+itm_anaconda_shield_pl|Шипастый щит Анаконды
+itm_asp_shield|Щит Аспидов
+itm_asp_shield_pl|Щит Аспидов
+itm_myst_shield|Щит Медвежьего Когтя
+itm_myst_shield_pl|Щит Медвежьего Когтя
+itm_melitine_shield|Мелитайнский щит в форме слезы
+itm_melitine_shield_pl|Мелитайнский щит в форме слезы
+itm_melitine_metal_shield|Мелитайнский кавалерийский щит
+itm_melitine_metal_shield_pl|Мелитайнский кавалерийский щит
+itm_shield_empire_immortal|Щит бессмертных
+itm_shield_empire_immortal_pl|Щит бессмертных
+itm_shield_ancient_engraved|Древний гравированый щит
+itm_shield_ancient_engraved_pl|Древний гравированый щит
+itm_shield_heretics_1|Каплевидный щит еретиков
+itm_shield_heretics_1_pl|Каплевидный щит еретиков
+itm_shield_heretics_2|Красный щит магнуса
+itm_shield_heretics_2_pl|Красный щит магнуса
+itm_shield_heretics_3|Золотой щит магнуса
+itm_shield_heretics_3_pl|Золотой щит магнуса
+itm_demon_body|Тело демона
+itm_demon_body_pl|Тело демона
+itm_demon_hands|Руки демона
+itm_demon_hands_pl|Руки демона
+itm_demon_head|Голова демона
+itm_demon_head_pl|Голова демона
+itm_demon_legs|Ноги демона
+itm_demon_legs_pl|Ноги демона
+itm_wolfbode_armor|Броня Волка-Предвестника
+itm_wolfbode_armor_pl|Броня Волка-Предвестника
+itm_wolfbode_axe|Топор Волка-Предвестника
+itm_wolfbode_axe_pl|Топор Волка-Предвестника
+itm_wolfbode_boots|Сапоги Волка-Предвестника
+itm_wolfbode_boots_pl|Сапоги Волка-Предвестника
+itm_wolfbode_gloves|Руки Волка-Предвестника
+itm_wolfbode_gloves_pl|Руки Волка-Предвестника
+itm_wolfbode_helmet|Шлем Волка-Предвестника
+itm_wolfbode_helmet_pl|Шлем Волка-Предвестника
+itm_seeress_helm|Аура Провидиц
+itm_seeress_helm_pl|Аура Провидиц
+itm_ebony_knight_sword_rusty|Черный меч
+itm_ebony_knight_sword_rusty_pl|Черный меч
+itm_heater_shield_16_rusty|Щит Черного Дерева
+itm_heater_shield_16_rusty_pl|Щит Черного Дерева
+itm_items_end|Конец списка элементов
+itm_items_end_pl|Конец списка элементов

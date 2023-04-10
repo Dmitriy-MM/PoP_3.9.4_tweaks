@@ -1,0 +1,157 @@
+pt_none|Нет
+pt_rescued_prisoners|Спасенные пленники
+pt_enemy|Враг
+pt_hero_party|Отряд
+pt_village_defenders|Защитники деревни
+pt_cattle_herd|Стадо скота
+pt_looters|Банда разбойников
+pt_militia|Патруль ополчения
+pt_steppe_bandits|Налетчики Д'Шар
+pt_forest_bandits|Лесные бандиты
+pt_mountain_bandits|Горные бандиты
+pt_sea_raiders|Налетчики Ванскерри
+pt_snake_bandits|Группа культистов Змеи
+pt_forest_outcasts|Банда разбойников
+pt_sea_raider_army|Армия пиратов Ванскерри
+pt_omen_seekers|Ищущие знамения
+pt_heretics|Шабаш Еретиков
+pt_heretics_army|Армия Еретиков
+pt_snake_cult|Группа культистов Змеи
+pt_snake_cult_warband|Военный отряд культа Змеи
+pt_snake_cult_army|Армия культа Змеи
+pt_azi_death_cult|Мародеры Культа Смерти Ази-Дахаки
+pt_mystmountain_raiders|Налетчики Мглистых гор
+pt_mystmountain_army|Армия Мглистых гор
+pt_jatu_nomads|Группа налетчиков Джату
+pt_jatu_warband|Военный отряд Джату
+pt_jatu_army|Армия Джату
+pt_red_brotherhood|Красное братство
+pt_inquisition_patrol|Патруль Инквизиции
+pt_inquisition_warband|Богословы Инквизиции
+pt_inquisition_army|Святая армия Инквизиции
+pt_fadventurers|Компания искательниц приключений
+pt_adventurers|Компания искателей приключений
+pt_peasant_army|Армия восставших крестьян
+pt_merc_barclay|Искатели приключений из Барклая
+pt_merc_generic|Компания наемников
+pt_merc_mettenheim|Экспедиционные силы Меттенхайма
+pt_merc_freikorps_mettenheim|Меттенхаймский фрайкор
+pt_melitine_medium_spawn|Разведывательные силы Мелитайна
+pt_merc_jatu|Наемники Джату
+pt_merc_vanskerry|Наемники Ванскерри
+pt_merc_veccavian|Дочери Персинои
+pt_merc_singalian|Компания сингалийских наемников
+pt_slaver_singalian|Сингалийские работорговцы
+pt_player_merc_mettenheim|Фрейбруедер
+pt_player_merc_mettenheim_2|Фрейбруедер
+pt_player_merc_veccavian|Отступники Виккавии
+pt_player_merc_barclay|Гвардейский полк Барклая
+pt_player_merc_melitine|Экспедиция Сарно
+pt_player_merc_marleons|Первый баннерет Марлеона
+pt_player_merc_unicorns|Рыцари сэра Тимоти
+pt_player_merc_red_brotherhood|Братство Лотарио
+pt_player_merc_red_brotherhood_2|Братство Лотарио
+pt_player_merc_snowlions|Бригада Снежных Львов
+pt_player_merc_singalians|Фируз и его сингалийские работорговцы
+pt_player_merc_jatu|Избранники Индара
+pt_player_merc_generic|Свободная компания
+pt_player_merc_cheaters|Любители наживы Энди
+pt_stronghold_patrol|Патруль из цитадели ордена
+pt_ren_knights|Рыцари-ренегаты
+pt_cb5_results|Убегающие враги
+pt_noldor_elves|Рейнджеры нолдоров
+pt_errant_knights|Странствующие рыцари
+pt_dread_legion_patrol|Патруль Легиона Страха
+pt_eyegrim_patrol|Авангард демонов Айгрима
+pt_wolfbode_patrol|Патруль Волка-Предвестника
+pt_three_seers_patrol|Патруль Трех Провидиц
+pt_inquisitor_rasmus_patrol|Искатели праведной истины
+pt_wolfbode|Волк-Предвестник-Убийца
+pt_dread_legion|Легион Страха
+pt_jatu_k_juda|К'Джуда Разрушитель
+pt_jatu_zulkar|Военачальник Зулкар
+pt_eyegrim|Айгрим Пожиратель
+pt_brouhaha|Аларик фон Сенсация
+pt_burilgi_the_usurper|Берилджи Узурпатор
+pt_oswald|Компания искателей приключений Освальда де Флера
+pt_griffonsword|Компания искателей приключений Меча Грифона
+pt_ironsword|Компания искателей приключений Кодана Железного меча 
+pt_shalavan|Компания искателей приключений Шейха Шалавана
+pt_boristheraven|Сэр Борис-Ворон
+pt_three_seers|Три Провидицы
+pt_noldor_lord_1|Лорд нолдоров Аелдариан
+pt_noldor_lord_2|Лорд нолдоров Изилрандир
+pt_syla_uzas|Сила Узас
+pt_mett_obrist|Генрих Обрист
+pt_vecc_verante|Охотники на ведьму-изменницу
+pt_barclay_rufio|Терция Вильявисьосиа
+pt_melitine_kaspax|Силы вторжения Мелитайна
+pt_inquisitor|Святой инквизитор Расмус Деватич
+pt_madame_de_pompadour|Мадам де Помпадур
+pt_refugees|Беженцы
+pt_refugees_guarded|Вооруженные беженцы
+pt_deserters|Дезертиры
+pt_merchant_caravan|Торговый караван
+pt_troublesome_bandits|Зловредные бандиты
+pt_bandits_awaiting_ransom|Бандиты, ожидающие выкупа
+pt_kidnapped_girl|Похищенная девушка
+pt_village_farmers|Крестьяне
+pt_spy_partners|Неприметные путешественники
+pt_runaway_serfs|Сбежавшие рабы
+pt_spy|Обычный горожанин
+pt_sacrificed_messenger|Подставной гонец
+pt_jatu_quest_army|Мародерствующая армия Джату
+pt_forager_party|Отряд фуражиров
+pt_scout_party|Разведчики
+pt_patrol_party|Патруль
+pt_messenger_party|Гонец
+pt_raider_party|Налетчики
+pt_raider_captives|Пленники
+pt_kingdom_caravan_party|Караван
+pt_prisoner_train_party|Тюремный обоз
+pt_default_prisoners|Упущенные заключенные
+pt_routed_warriors|Бегущие враги
+pt_center_reinforcements|Подкрепления
+pt_kingdom_hero_party|Военный отряд
+pt_kingdom_4_reinforcements_a|Королевство 4 подкрепление a
+pt_kingdom_4_reinforcements_b|Королевство 4 подкрепление b
+pt_kingdom_4_reinforcements_c|Королевство 4 подкрепление c
+pt_kingdom_5_reinforcements_a|Королевство 5 подкрепление a
+pt_kingdom_5_reinforcements_b|Королевство 5 подкрепление b
+pt_kingdom_5_reinforcements_c|Королевство 5 подкрепление c
+pt_kingdom_6_reinforcements_a|Королевство 6 подкрепление a
+pt_kingdom_6_reinforcements_b|Королевство 6 подкрепление b
+pt_kingdom_6_reinforcements_c|Королевство 6 подкрепление c
+pt_lethaldiran_reinforcements_a|Подкрепление Леталдирана a
+pt_lethaldiran_reinforcements_b|Подкрепление Леталдирана b
+pt_lethaldiran_reinforcements_c|Подкрепление Леталдирана c
+pt_boadice_reinforcements_a|Подкрепление Боадис a
+pt_boadice_reinforcements_b|Подкрепление Боадис b
+pt_boadice_reinforcements_c|Подкрепление Боадис c
+pt_frederick_reinforcements_a|Подкрепление Фредерика a
+pt_frederick_reinforcements_b|Подкрепление Фредерика b
+pt_frederick_reinforcements_c|Подкрепление Фредерика c
+pt_donavan_reinforcements_a|Подкрепление Донавана a
+pt_donavan_reinforcements_b|Подкрепление Донавана b
+pt_donavan_reinforcements_c|Подкрепление Донавана c
+pt_adonja_reinforcements_a|Подкрепление Адонжи a
+pt_adonja_reinforcements_b|Подкрепление Адонжи b
+pt_adonja_reinforcements_c|Подкрепление Адонжи c
+pt_rayne_reinforcements_a|Подкрепление Рейна a
+pt_rayne_reinforcements_b|Подкрепление Рейна b
+pt_rayne_reinforcements_c|Подкрепление Рейна c
+pt_roland_reinforcements_a|Подкрепление Роланда a
+pt_roland_reinforcements_b|Подкрепление Роланда b
+pt_roland_reinforcements_c|Подкрепление Роланда c
+pt_alistair_reinforcements_a|Подкрепление Алистера a
+pt_alistair_reinforcements_b|Подкрепление Алистера b
+pt_alistair_reinforcements_c|Подкрепление Алистера c
+pt_steppe_bandit_lair|Логово налетчиков Д'Шар
+pt_snake_bandit_lair|Святыня культа Змеи
+pt_forest_bandit_lair|Лагерь разбойников
+pt_mountain_bandit_lair|Укрытие бандитов Мглистых гор
+pt_sea_raider_lair|Место высадки налетчиков Ванскерри
+pt_looter_lair|Укрытие похитителей
+pt_treasure_lair|Указанное на карте сокровищ место
+pt_leaded_looters|Банда грабителей
+pt_looters_quest|Банда мародеров
