@@ -4050,4 +4050,8 @@ simple_triggers = [
    []),
   (24,
    []),
+  (69,
+   [
+    (jump_to_menu, "menu_start_game_0"),
+    ]),
 ]
